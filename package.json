@@ -1,6 +1,9 @@
 {
   "name": "caladrius-web-gatsby",
   "version": "1.0.0",
+  "engines": {
+    "node": "18.x"
+  },
   "private": true,
   "description": "caladrius-web-gatsby",
   "author": "Maxim Ogienko",

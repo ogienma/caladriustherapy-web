@@ -1,7 +1,6 @@
 import * as React from "react"
 import type { HeadFC, PageProps } from "gatsby"
 import Layout from "../components/Layout";
-import "../css/main.css";
 import { StaticImage } from "gatsby-plugin-image"
 
 const RatesPage: React.FC<PageProps> = () => {

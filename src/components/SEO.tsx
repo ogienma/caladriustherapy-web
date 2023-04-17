@@ -15,6 +15,7 @@ export const SEO = () => {
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en_US"/>
         <meta property="og:site_name" content="caladriustherapy.com"/>
+        <meta name="description" content="Caladrius Therapy in Charlotte, NC"/>
     </>
   )
 }

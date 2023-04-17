@@ -6,23 +6,16 @@ import Nav from "./Nav";
 import Footer from "./Footer";
 
 export interface IProps {
-  children?: React.ReactNode
-  data?: {
-    pageData?: {
-      frontmatter?: {
-        isOutdated: boolean
-      }
-    }
-  }
+  children?: React.ReactNode;
 }
 
-const Layout: React.FC<IProps> = ({ data, children }) => {
+const Layout: React.FC<IProps> = ({ children }) => {
   return (
     <>
-    <div id="wrapper" className="divided">  
-      <Nav />
-      {children}
-      <Footer />
+      <div id="wrapper" className="divided">
+        <Nav />
+        {children}
+        <Footer />
       </div>
     </>
   );

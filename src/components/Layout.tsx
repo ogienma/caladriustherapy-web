@@ -19,9 +19,11 @@ export interface IProps {
 const Layout: React.FC<IProps> = ({ data, children }) => {
   return (
     <>
+    <div id="wrapper" className="divided">  
       <Nav />
       {children}
       <Footer />
+      </div>
     </>
   );
 };

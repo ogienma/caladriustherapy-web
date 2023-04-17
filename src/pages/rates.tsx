@@ -1,10 +1,10 @@
-import * as React from "react"
-import type { HeadFC, PageProps } from "gatsby"
+import * as React from "react";
+import type { HeadFC, PageProps } from "gatsby";
+import { SEO } from "../components/SEO";
 import Layout from "../components/Layout";
-import { StaticImage } from "gatsby-plugin-image"
+import { StaticImage } from "gatsby-plugin-image";
 
 const RatesPage: React.FC<PageProps> = () => {
-
   return (
     <>
       <Layout>
@@ -64,10 +64,7 @@ const RatesPage: React.FC<PageProps> = () => {
             </p>
           </div>
           <div className="image">
-            <img
-              src={'/nathan-dumlao-I_394sxx0ec-unsplash.jpg'}
-              alt=""
-            />
+            <img src={"/nathan-dumlao-I_394sxx0ec-unsplash.jpg"} alt="" />
             {/* <StaticImage src="../images/nathan-dumlao-I_394sxx0ec-unsplash.jpg" alt="Caladrius Therapy Rates" /> */}
           </div>
         </section>
@@ -77,3 +74,5 @@ const RatesPage: React.FC<PageProps> = () => {
 };
 
 export default RatesPage;
+
+export const Head: HeadFC = () => <SEO />;

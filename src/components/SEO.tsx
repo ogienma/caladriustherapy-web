@@ -3,6 +3,8 @@ import React from "react"
 export const SEO = () => {
   return (
     <>
+        <html lang="en" />
+        <body className="is-preload" />
         <meta charSet="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
         <meta name="google-site-verification" content="ie4lDWCAVNzJMSarL1pxOxB9-H8nNpsncF8CX7hn2Fs" />

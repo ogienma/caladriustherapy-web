@@ -15,7 +15,7 @@ export const SEO = () => {
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en_US"/>
         <meta property="og:site_name" content="caladriustherapy.com"/>
-        <meta name="description" content="Caladrius Therapy in Charlotte, NC"/>
+        <meta name="description" content="Caladrius Therapy in Charlotte, NC provides counseling for trauma, addiction, perinatal and postpartum mental health, foster care, and adoptions for children, adults, teens, families, and couples."/>
     </>
   )
 }

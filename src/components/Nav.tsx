@@ -22,7 +22,7 @@ const Nav: FC<IProps> = () => {
           <a className="navbar-item" href="/">
             <StaticImage
               src="../images/caladrius-therapy-c-logo.png"
-              height={54}
+              height={40}
               alt="Caladrius Therapy Logo"
             />
           </a>

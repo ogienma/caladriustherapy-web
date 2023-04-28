@@ -1,7 +1,9 @@
 import React from "react";
 import "../css/bulma.css";
 import "../css/main.css";
+
 import "../css/custom.css";
+
 import Nav from "./Nav";
 import Footer from "./Footer";
 import { ChakraBaseProvider, extendBaseTheme } from "@chakra-ui/react";

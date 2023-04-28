@@ -64,7 +64,7 @@ const RatesPage: React.FC<PageProps> = () => {
             </p>
           </div>
           <div className="image">
-            <img src={"/nathan-dumlao-I_394sxx0ec-unsplash.jpg"} alt="" />
+            <img src={"/banners/nathan-dumlao-I_394sxx0ec-unsplash.jpg"} alt="Caladrius Therapy Charlotte NC" />
             {/* <StaticImage src="../images/nathan-dumlao-I_394sxx0ec-unsplash.jpg" alt="Caladrius Therapy Rates" objectFit={"cover"}/> */}
             {/* <img width="1920" height="1280" data-main-image="" style="object-fit: cover; opacity: 1;" sizes="(min-width: 1920px) 1920px, 100vw" decoding="async" loading="lazy" src="/static/da873e31ace8e0e352a7ee4c817045d5/5267c/nathan-dumlao-I_394sxx0ec-unsplash.jpg" srcset="/static/da873e31ace8e0e352a7ee4c817045d5/fa695/nathan-dumlao-I_394sxx0ec-unsplash.jpg 480w,
 /static/da873e31ace8e0e352a7ee4c817045d5/a0d3e/nathan-dumlao-I_394sxx0ec-unsplash.jpg 960w,

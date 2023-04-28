@@ -92,6 +92,49 @@
     border-color: #47D3E5 !important;
 }
 
-.spotlight.style2 .headshot {
 
+
+/* begin mystery meat */
+/* pulled this from the old index - do we still need it?*/
+
+.spwidget-button {
+    display: inline-block;
+    padding: 12px 24px;
+    color: #fff !important;
+    background: #de6a26 !important;
+    border: 0;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none
+  }
+
+  .spwidget-button:hover {
+    background: rgb(189, 223, 228) !important;
+  }
+
+  .spwidget-button:active {
+    color: rgba(255, 255, 255, .75) !important;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, .15) inset
+  }
+.birddiv {
+    width: 90% !important; margin: auto !important;   			padding: 5rem 5rem 3rem 5rem !important;
+          -moz-align-self: center;
+          -webkit-align-self: center;
+          -ms-align-self: center;
+          align-self: center;
+          -moz-flex-grow: 1;
+          -webkit-flex-grow: 1;
+          -ms-flex-grow: 1;
+          flex-grow: 1;
+          -moz-flex-shrink: 1;
+          -webkit-flex-shrink: 1;
+          -ms-flex-shrink: 1;
+          flex-shrink: 1;
 }
+
+.spotlight.style2 .headshot {
+    width: 12rem; height: 12rem; border: rgba(0, 0, 0, 0.075) 1px solid;
+}
+
+  /* end mystery meat */

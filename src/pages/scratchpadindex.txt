@@ -1,182 +1,6 @@
-import * as React from "react";
-import type { HeadFC, PageProps } from "gatsby";
-import Layout from "../components/Layout";
-import { SEO } from "../components/SEO";
 
-const IndexPage: React.FC<PageProps> = () => {
-  return (
-    <>
-      <Layout>
-      {/* // <!-- Banner --> */}
-      <section className="banner style1 orient-left content-align-left image-position-right fullscreen">
-        <div className="content">
-          <h1>your first step to inner calm</h1>
-          <p className="major">
-            <strong>Caladrius Therapy</strong> in <strong>Charlotte, NC</strong>
-            .
-          </p>
-          <p>
-            Everyone deserves to be seen and to share their story with someone
-            who is empathetic, caring, and helpful.
-          </p>
-          {/* <!--<ul className="actions stacked">
-      <li>
-        <a href="#form" className="button primary large wide mr-3">Get In Touch</a>
-        <a href="https://caladrius.clientsecure.me" className="button primary large wide mr-3"
-        data-spwidget-scope-id="9ea36f87-56fd-4ef3-8641-a0a82839a987" data-spwidget-scope-uri="caladrius"
-        data-spwidget-application-id="7c72cb9f9a9b913654bb89d6c7b4e71a77911b30192051da35384b4d0c6d505b"
-        data-spwidget-scope-global data-spwidget-autobind>Book Appointment</a>
-      </li>
-    </ul>--> */}
-          <ul className="actions">
-            <li>
-              <a href="#form" className="button primary large wide mr-3">
-                Get In Touch
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://caladrius.clientsecure.me"
-                className="spwidget-button button primary large wide mr-3"
-                data-spwidget-scope-id="9ea36f87-56fd-4ef3-8641-a0a82839a987"
-                data-spwidget-scope-uri="caladrius"
-                data-spwidget-application-id="7c72cb9f9a9b913654bb89d6c7b4e71a77911b30192051da35384b4d0c6d505b"
-                data-spwidget-scope-global
-                data-spwidget-autobind
-              >
-                Book Appointment
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div className="image">
-          <img
-            src="/banners/banner-dominik-lange-35224-unsplash.jpg"
-            style={{ filter: "brightness(50%)" }}
-            alt=""
-          />
-          <div className="content birddiv">
-            <img
-              src="/bird.png"
-              alt=""
-              style={{ position: "relative" }}
-            />
-          </div>
-        </div>
-      </section>
 
-{/* <!-- Spotlight --> */}
-<section className="spotlight style1 orient-right content-align-left image-position-center" id="first">
-  <div className="content">
-    <h2>Our Approach</h2>
-    <p><em>The caladrius is a white bird from Roman mythology that was said to gaze on those in pain and share it
-        with them. The bird could then heal both itself and the injured, dispersing the pain as it flew towards the
-        sun.</em></p>
-    <p>We believe empathy is essential to a beneficial therapeutic relationship. Empathy is feeling with someone; it
-      is different from sympathy, which is feeling bad for someone. We believe everyone has the capacity to be strong,
-      to know what they need, and to guide their own treatment goals. We believe in being honest and transparent. You
-      are the expert on you.</p>
-  </div>
-  <div className="image">
-    <img src="/banners/stephen-walker-572414-unsplash.jpg" alt="" />
-  </div>
-</section>
-{/* 
-<!-- Spotlight: About Trauma -->
-<!--
-<section className="spotlight style1 orient-left content-align-left image-position-center" id="second">
-  <div className="content">
-    <h2>About Trauma</h2>
-    <p><em>"I am not what happened to me. I am what I choose to become." - Carl Jung</em></p>
-    <p>Many people have had scary or terrible things happen to them: trauma isn't just what happens to you - it's how
-      you experience it.</p>
-    <p>Maybe - as is the case with many others - you haven’t told anyone. Maybe you <em>have</em> told people what
-      happened and their response was confusing, hurtful, or dismissive. Maybe you feel like you just want it to be
-      over or you should have gotten past it already. You might have reminders of what happened impacting your life
-      through nightmares, flashbacks, or trying to avoid any mention or reminder of the events. You might feel numb.
-      Maybe you are a parent and are completely lost on how to help your child recover. </p>
-    <p>You have the capacity to be a survivor and not feel like a victim. You have the ability to move forward.</p>
-  </div>
-  <div className="image">
-    <img src="images/hand-elijah-o-donnell-715864-unsplash.jpg" alt="" />
-  </div>
-</section>
---> */}
-{/* <!-- Team --> */}
-<section className="wrapper style1 align-center">
-  <div className="inner" style={{padding: "1rem"}}>
-    <a href="/about">
-      <h2>Our Team</h2>
-    </a>
-  </div>
-  <div style={{clear: "both"}}>
-    {/* <!-- Team: Row 1 --> */}
-    <section className="spotlight style2" style={{padding: "0rem"}}>
-      <div>
-        <div className="image headshot" >
-          <a href="/about#jessie-ogienko"><img src="/headshots/headshot-jessie-ogienko-500.jpg" alt="Jessie Ogienko" /></a>
-        </div>
-        <div className="image headshot" >
-          <a href="/about#kira-rowane"><img src="/headshots/headshot-kira-rowane-500.jpg" alt="Kira Rowane" /></a>
-        </div>
-        <div className="image headshot" >
-          <a href="/about#hannah-wagers"><img src="/headshots/headshot-hannah-wagers-500.jpg" alt="Hannah Wagers" /></a>
-        </div>
-        <div className="image headshot" >
-          <a href="/about#zach-saint"><img src="/headshots/headshot-zach-saint-500.jpg" alt="Zach Saint" /></a>
-        </div>
-      </div>
-    </section>
-    {/* <!-- Team: Row 2 --> */}
-    <section className="spotlight style2" style={{padding: "0rem"}}>
-      <div>
-        <div className="image headshot" >
-          <a href="/about#tatim-lace"><img src="/headshots/headshot-tatim-lace-500.jpg" alt="Tatim Lace" /></a>
-        </div>
-        <div className="image headshot" >
-          <a href="/about#emily-lee"><img src="/headshots/headshot-emily-lee-500.jpg" alt="Emily Lee" /></a>
-        </div>
-        <div className="image headshot" >
-          <a href="/about#kim"><img src="/headshots/headshot-kim2.jpg" alt="Kim Ernst" /></a>
-        </div>
-        <div className="image headshot" >
-          <a href="/about#amy-travis"><img src="/headshots/headshot-amy-travis-500.jpg" alt="Amy Travis" /></a>
-        </div>
-      </div>
-    </section>
-    {/* <!-- Team: Row 3 --> */}
-    <section className="spotlight style2" style={{padding: "0rem"}}>
-      <div>
-        <div className="image headshot" >
-          <a href="/about#emma-braisted"><img src="/headshots/headshot-emma-braisted-500.jpg" alt="Emma Braisted" /></a>
-        </div>
-        <div className="image headshot" >
-          <a href="/about#madalyn-kostur"><img src="/headshots/headshot-madalyn-kostur-500.jpg" alt="Madalyn Kostur" /></a>
-        </div>
-        <div className="image headshot" >
-          <a href="/about#kaitlyn-cannon"><img src="/headshots/headshot-kaitlyn-cannon-500.jpg" alt="Kaitlyn Cannon" /></a>
-        </div>
-        <div className="image headshot" >
-          <a href="/about#kacey"><img src="/headshots/headshot-kacey-scheuerman-500.jpg" alt="Kacey Scheuerman" /></a>
-        </div>
-      </div>
-    </section>
-    {/* <!-- Team: Row 4 --> */}
-    <section className="spotlight style2" style={{padding: "0rem"}}>
-      <div>
-        <div className="image headshot" >
-          <a href="/about#madalyn-twist"><img src="/headshots/headshot-madalyn-twist-500.jpg" alt="Madalyn Twist" /></a>
-        </div>
-        <div className="image headshot" >
-          <a href="/about#deerik-bradley"><img src="/headshots/headshot-deerik-bradley-500.jpg" alt="De'Erik Bradley" /></a>
-        </div>
-        <div className="image headshot" >
-          <a href="/about#hannah-travis"><img src="/headshots/headshot-hannah-travis-500.jpg" alt="Hannah Travis" /></a>
-        </div>
-      </div>
-    </section>
-  </div>
-</section>
+
 {/* <!-- Spotlight: Services --> */}
 <section className="spotlight style1 orient-left content-align-left image-position-center" id="services">
   <div className="content">
@@ -190,26 +14,25 @@ const IndexPage: React.FC<PageProps> = () => {
       <li><a href="/tf-cbt">Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)</a></li>
       <li><a href="/sandtray-therapy#sandtray-therapy-body">Sandtray Therapy</a></li>
       <li><a href="/life-transitions-therapy#life-transitions-therapy-body">Life Transitions</a></li>
+      {/* <!--<li><a href="/community-resiliency-model#community-resiliency-model-body">Community Resiliency Model (CRM)</a>--> */}
+      </li>
       <li>Comprehensive Clinical Assessment (CCA)</li>
       {/* <!-- <li>Global Appraisal of Individual Needs (GAIN) Assessment</li> --> */}
       <li>Children, Adolescents, Adult, and Family Outpatient Therapy</li>
       <li>Parent Training for Disruptive Behavior (The RUBI Autism Network)</li>
       <li>Parent Coaching</li>
+      </li>
     </ul>
   </div>
   <div className="image">
-    <img src="/banners/nicole-honeywill-704489-unsplash.jpg" alt="" />
+    <img src="images/nicole-honeywill-704489-unsplash.jpg" alt="" />
   </div>
 </section>
-
-
-
-
 
 <section className="wrapper style2 align-center">
   <div className="inner">
     <div className="index align-left">
-      {/* <!-- Contact Form --> */}
+      <!-- Contact Form -->
       <section id="form">
         <header>
           <h3>Get In Touch</h3>
@@ -391,14 +214,4 @@ const IndexPage: React.FC<PageProps> = () => {
 
     </div>
   </div>
-</section>
-
-
-     </Layout>
-    </>
-  );
-};
-
-export default IndexPage;
-
-export const Head: HeadFC = () => <SEO />;
+</section></>

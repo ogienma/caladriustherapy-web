@@ -93,7 +93,7 @@ const Nav: FC<IProps> = () => {
                 <a className="navbar-item" href="/family-therapy">
                   Family Therapy
                 </a>
-                <a className="navbar-item" href="/trauma">
+                <a className="navbar-item" href="/trauma-therapy">
                   Trauma
                 </a>
                 <a className="navbar-item" href="/emdr">

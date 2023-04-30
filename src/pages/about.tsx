@@ -328,7 +328,7 @@ Hannah Wagers, MA, LCMHCA, graduated from The University of North Carolina at Ch
     </p>
   </div>
   <div className="image">
-    <img src="headshots/headshot-hannah-wagers-500.jpg" alt="Hannah Wagers" />
+    <img src="/headshots/headshot-hannah-wagers-500.jpg" alt="Hannah Wagers" />
   </div>
   <ul className="icons" style={{padding: "8px"}}>
     <li style={{display: "block", padding: "8px"}}>
@@ -411,7 +411,7 @@ Hannah Wagers, MA, LCMHCA, graduated from The University of North Carolina at Ch
     </p>
   </div>
   <div className="image">
-    <img src="headshots/headshot-emily-lee-500.jpg" alt="Emily Lee" />
+    <img src="/headshots/headshot-emily-lee-500.jpg" alt="Emily Lee" />
   </div>
   <ul className="icons" style={{padding: "8px"}}>
     <li style={{display: "block", padding: "8px"}}>
@@ -472,7 +472,7 @@ Hannah Wagers, MA, LCMHCA, graduated from The University of North Carolina at Ch
   </div>
   <div className="image">
     <img
-      src="headshots/headshot-emma-braisted-500.jpg"
+      src="/headshots/headshot-emma-braisted-500.jpg"
       alt="Emma Braisted"
     />
   </div>
@@ -493,7 +493,228 @@ Hannah Wagers, MA, LCMHCA, graduated from The University of North Carolina at Ch
     </li>
   </ul>
 </section>
+{/* 
+<!-- Spotlight: Kaitlyn Cannon --> */}
+<section
+  className="spotlight style2 orient-right content-align-left image-position-center"
+  id="kaitlyn-cannon"
+>
+  <div className="content">
+    <p>
+      My name is <strong>Kaitlyn</strong> (she/her) and I am here to help you process
+      uncomfortable feelings and support you in finding your most authentic
+      self.
+    </p>
+    <p>
+      At Caladrius, I am both the Clinical Services Coordinator and a second
+      year MSW therapist intern. I have the answers to your everyday office
+      questions, and can also help you therapeutically if you decide that we are
+      the right fit.
+    </p>
+    <p>
+      Sometimes, certain events in our lives can alter the way we view
+      ourselves, others, and the world around us. We all deserve peace. We all
+      deserve to feel safe. We all deserve to feel whole. As humans, we were not
+      made to carry our burdens alone. I am here to help you process your trauma
+      as you adjust to your new normal. I can teach you coping skills and offer
+      comfort and support.
+    </p>
+    <p>
+      The intersection between trauma and identity cannot be denied. As a queer
+      woman, I am also passionate about helping LGBTQ+ individuals navigate
+      their traumatic life events.
+    </p>
+    <p>
+      I am here to remind you that you are not what happened to you. I am here
+      to help you recognize and hone in on your resilience and strength.
+    </p>
 
+    <p>
+      <em
+        >Kaitlyn Cannon, MSW, is graduating from the University of North
+        Carolina at Charlotte with a Master's of Social Work in 2023. She
+        received her undergraduate degree from Pennsylvania State University in
+        2016. Kaitlyn has worked as a Crisis Counselor for Crisis Text Line, and
+        has extensive experience advocating for and working with victims of
+        image-based sexual abuse (i.e revenge porn). She has served as a
+        panelist, moderator, and reviewer of literature for cyber sexual abuse
+        conferences/organizations.</em
+      >
+    </p>
+  </div>
+  <div className="image">
+    <img src="headshots/headshot-kaitlyn-cannon-500.jpg" alt="Kaitlyn Cannon" />
+  </div>
+  <ul className="icons" style={{padding: "8px"}}>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="mailto:kaitlyn.cannon@caladriustherapy.com"
+        className="icon style2 solid fa-envelope"
+        ><span className="label">Email</span></a
+      >
+    </li>
+  </ul>
+</section>
+{/* 
+<!-- Spotlight: Amy Travis --> */}
+<section
+  className="spotlight style2 orient-right content-align-left image-position-center"
+  id="amy-travis"
+>
+  <div className="content">
+    <p>
+      Hi, I'm
+      <strong
+        ><a
+          href="https://www.psychologytoday.com/us/therapists/amy-wright-travis-charlotte-nc/983156"
+          >Amy</a
+        ></strong
+      > (she/her) and I am here to walk alongside you in your therapeutic journey.
+    </p>
+    <p>
+      <em
+        >“It is the client who knows what hurts, what directions to go, what
+        problems are crucial, what experiences have been deeply buried.”</em
+      >
+      -Carl Rogers
+    </p>
+
+    <p>
+      There are times where we don't know where our life is going. We feel
+      stuck, and are struggling with life transitions, anxiety, depression,
+      grief, and trauma. We know something is wrong but aren't equipped with the
+      tools needed in order to feel like ourselves again. This is where I can
+      help in your walk through those uncomfortable emotions and into
+      self-growth and healing.
+    </p>
+
+    <p>
+      I work with clients who are experiencing anxiety, depression, difficulty
+      adjusting to life transitions, and traumatic evets. I utilize a
+      person-centered approach in which the client sets the focus and direction
+      of each session. I feel that one of the most important parts of therapy is
+      the relationship between client and therapist in forming good rapport.
+      Each client needs to feel both validated and supported in order to open up
+      about what they're experiencing. Throughout the therapeutic process, my
+      goal is to be warm, empathetic, and informed.
+    </p>
+
+    <p>
+      <em>
+        Amy Travis, MSW, LCSW graduated from Radford University's Master of
+        Social Work program located in southwest Virginia. Amy has extensive
+        experience working as a clinician in the school-based setting, as well
+        as intensive in-home setting. She has experience with adults and
+        adolescents. She has experience working with a wide range of mental
+        health diagnoses and diverse populations and specializes in trauma.
+      </em>
+    </p>
+  </div>
+  <div className="image">
+    <img src="headshots/headshot-amy-travis-500.jpg" alt="Amy Travis" />
+  </div>
+  <ul className="icons" style={{padding: "8px"}}>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="mailto:amy.travis@caladriustherapy.com"
+        className="icon style2 solid fa-envelope"
+        ><span className="label">Email</span></a
+      >
+    </li>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="https://www.linkedin.com/in/amy-travis-88441316/"
+        className="icon style2 brands fa-linkedin"
+        ><span className="label">LinkedIn</span></a
+      >
+    </li>
+  </ul>
+</section>
+{/* 
+<!-- Spotlight: Tatim Lace  --> */}
+<section
+  className="spotlight style2 orient-right content-align-left image-position-center"
+  id="tatim-lace"
+>
+  <div className="content">
+    <p>
+      My name is
+      <strong
+        ><a
+          href="https://www.psychologytoday.com/us/therapists/tatim-lace-charlotte-nc/944737"
+          >Tatim</a
+        ></strong
+      >
+      (he/they) and I'm here to let you know you're not alone.
+    </p>
+
+    <p>
+      Growing up a queer kid in a rural area shaped the person I am today. In my
+      adulthood, I became aware of the power of my own resilience, and the
+      protective factors that enabled me to get to where I am today. I want to
+      help other people who have been through difficult experiences discover the
+      power of their own resilience as well.
+    </p>
+    <p>
+      We might be a good fit if you're struggling with personal relationships or
+      feeling alone in your journey. You may be stuck in a painful past or
+      struggling with sorting out who you are. You might be searching for a
+      different perspective or someone to validate your experience. I believe in
+      the power of building up your resiliency toolbox and finding light at the
+      end of the tunnel together. Each life stage and relationship offers
+      different rewards and challenges that I enjoy working with. Navigating
+      those life stages can be more complex for those struggling with identity
+      and social ostracization. The LGBTQIA+ community is the most near and dear
+      to my heart.
+    </p>
+    <p>
+      I offer a unique clinical and lived experience with a wide variety of
+      complex issues and populations. My clinical instinct operates through a
+      systemic lens. I come from a background working with families to address
+      tough issues related to juvenile justice and DSS involvement. I enjoy
+      helping people find relief and a better way forward. I also enjoy going
+      deep and helping people make sense of their root traumas that may be
+      holding them back. I enjoy practical application and skill-building
+      through CBT and DBT modalities. Much of my experience has been assisting
+      people with finding and practicing communication and coping skills to
+      strengthen their relationships with family, friends, and themselves. I am
+      passionate about helping families and couples have difficult, but
+      necessary conversations. I often challenge my clients to consider
+      circumstances from different angles and guide them out of their comfort
+      zones.
+    </p>
+    <p>
+      <em>
+        Tatim Lace, MSW, LCSW-A graduated from Marywood University in Scranton,
+        PA with a BA in communications and from Appalachian State University
+        with a Masters of Social Work degree and a dual focus in community and
+        clinical social work. He is experienced in training others on best
+        practices for working with the LGBTQIA+ community across different
+        settings. Tatim is trained in Family Centered Treatment (FCT) and
+        Functional Family Therapy (FFT).
+      </em>
+    </p>
+  </div>
+  <div className="image">
+    <img src="headshots/headshot-tatim-lace-500.jpg" alt="Tatim Lace" />
+  </div>
+  <ul className="icons" style={{padding: "8px"}}>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="mailto:tatim.lace@caladriustherapy.com"
+        className="icon style2 solid fa-envelope"
+        ><span className="label">Email</span></a
+      >
+    </li>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="https://www.linkedin.com/in/tatimlace/"
+        className="icon style2 brands fa-linkedin"
+        ><span className="label">LinkedIn</span></a
+      >
+    </li>
+  </ul>
+</section>
       </Layout>
     </>
   );

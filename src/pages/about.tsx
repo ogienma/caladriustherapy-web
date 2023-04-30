@@ -543,7 +543,7 @@ Hannah Wagers, MA, LCMHCA, graduated from The University of North Carolina at Ch
     </p>
   </div>
   <div className="image">
-    <img src="headshots/headshot-kaitlyn-cannon-500.jpg" alt="Kaitlyn Cannon" />
+    <img src="/headshots/headshot-kaitlyn-cannon-500.jpg" alt="Kaitlyn Cannon" />
   </div>
   <ul className="icons" style={{padding: "8px"}}>
     <li style={{display: "block", padding: "8px"}}>
@@ -611,7 +611,7 @@ Hannah Wagers, MA, LCMHCA, graduated from The University of North Carolina at Ch
     </p>
   </div>
   <div className="image">
-    <img src="headshots/headshot-amy-travis-500.jpg" alt="Amy Travis" />
+    <img src="/headshots/headshot-amy-travis-500.jpg" alt="Amy Travis" />
   </div>
   <ul className="icons" style={{padding: "8px"}}>
     <li style={{display: "block", padding: "8px"}}>
@@ -696,7 +696,7 @@ Hannah Wagers, MA, LCMHCA, graduated from The University of North Carolina at Ch
     </p>
   </div>
   <div className="image">
-    <img src="headshots/headshot-tatim-lace-500.jpg" alt="Tatim Lace" />
+    <img src="/headshots/headshot-tatim-lace-500.jpg" alt="Tatim Lace" />
   </div>
   <ul className="icons" style={{padding: "8px"}}>
     <li style={{display: "block", padding: "8px"}}>

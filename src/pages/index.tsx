@@ -324,15 +324,18 @@ const IndexPage: React.FC<PageProps> = () => {
                 <header>
                   <h3>Get In Touch</h3>
                 </header>
+
+    
+
                 <div className="content">
-                  <form method="post" netlify>
+                <form name="contact" method="POST" data-netlify="true">
                     <div className="fields">
                       <div className="field half">
-                        <label for="name">Name</label>
+                        <label htmlFor="name">Name</label>
                         <input type="text" name="name" id="name" />
                       </div>
                       <div className="field half">
-                        <label for="email">Email</label>
+                        <label htmlFor="email">Email</label>
                         <input type="email" name="email" id="email"/>
                       </div>
                       <div className="field">
@@ -346,7 +349,7 @@ const IndexPage: React.FC<PageProps> = () => {
                     </div>
                     <ul className="actions">
                       <li>
-                        <input
+                        <button
                           type="submit"
                           className="primary"
                           name="submit"

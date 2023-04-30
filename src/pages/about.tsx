@@ -715,6 +715,321 @@ Hannah Wagers, MA, LCMHCA, graduated from The University of North Carolina at Ch
     </li>
   </ul>
 </section>
+
+
+
+
+
+
+{/* 
+<!-- Spotlight: Kim  --> */}
+<section
+  className="spotlight style2 orient-right content-align-left image-position-center"
+  id="kim"
+>
+  <div className="content">
+    <p>
+      My name is
+      <strong
+        ><a
+          href="https://www.psychologytoday.com/us/therapists/kimberly-ernst-charlotte-nc/866746"
+          >Kim</a
+        ></strong
+      > (she/her) and I'm here to help guide you in overcoming life's challenges
+    </p>
+
+
+    <p>
+      It's never easy to seek help for your mental health needs. I'm here to guide you through this process and provide support through your pain, recovery, transition, and path to improvement.
+    
+    </p>
+
+
+    <p>Life can be hard at times; you can feel lost and vulnerable. You may want to give up or feel just burnt out. Whether you change jobs, leave a difficult relationship, lose a special person in your life, experience grief, move away, or are adjusting to a new way of life, it can be tough to get through. We want to find our true authentic selves and feel good instead of feeling the weight of the world on our shoulders.</p>
+    
+      <p>Some of us strive for excellence and perfection to the point that we have unhealthy thoughts and habits, experience pressure to always perform at high levels, and meet demands from others that may damage our health – we start to feel we cannot sustain this level of effort in all areas of our life. This leaves us feeling down, feeling stressed, struggling to manage our emotions, hurting relationships we do not mean to, and putting our needs and self-care on the back burner. We often feel a sense of imposter syndrome where we believe we do not deserve the success and happiness we are experiencing; it becomes a barrier created by us and affects our ability to achieve success and happiness.</p>
+    
+        <p>You and I can work through these difficulties together. I work with adults and adolescents experiencing anxiety, depression, grief, trauma, identity issues, anger problems, PTSD, and challenges while in a life transition. I love helping high performers increase their resilience and enhance their performance. I offer tailored organizational high-performance presentations and workshops to maximize potential. As a veteran myself, I especially enjoy working with other veterans. The change process begins with you. Let's do this together, I'm here with you!</p>
+        <p>
+          <em>
+        
+    Kimberly Ernst, a Licensed Clinical Social Worker Associate, is a veteran who served 15 years in the Air Force and continues to serve in the Reserves. Having lived on three different continents during her time in the military has allowed her to interact with multiple cultures and people of diverse backgrounds. During her educational path, she completed her Bachelor of Sociology at the American Military University and her Master of Social Work at the University of North Carolina at Charlotte (UNCC) with honors. Her specialties are military mental health, high-performance consulting, PTSD, life transitions, anxiety, life coaching, and trauma. Kim is a lifelong learner and is pursuing her Ph.D. in Industrial and Organizational Psychology to build professional knowledge in leadership, teams, and performance. She promotes health holistically and teaches indoor cycling part-time. Kim is trained in Eye Movement Desensitization and Reprocessing (EMDR) Therapy, and she is informed on Internal Family Systems (IFS) Therapy. At this time, Kimberly is offering telehealth sessions only.
+
+
+      </em>
+    </p>
+  </div>
+  <div className="image">
+    <img src="/headshots/headshot-kim2.jpg" alt="Kim Ernst" />
+  </div>
+  <ul className="icons" style={{padding: "8px"}}>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="mailto:kim.ernst@caladriustherapy.com"
+        className="icon style2 solid fa-envelope"
+        ><span className="label">Email</span></a
+      >
+    </li>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="https://www.linkedin.com/in/kimberly-y-k-ernst/"
+        className="icon style2 brands fa-linkedin"
+        ><span className="label">LinkedIn</span></a
+      >
+    </li>
+  </ul>
+</section>
+{/* 
+
+<!-- Spotlight: Madalyn --> */}
+<section
+  className="spotlight style2 orient-right content-align-left image-position-center"
+  id="madalyn-kostur"
+>
+  <div className="content">
+    <p>
+      My name is <strong><a href="https://www.psychologytoday.com/us/therapists/maddy-kostur-charlotte-nc/890410">Maddy</a></strong> (she/her) and I am here to walk
+      with you and your family through life's ups and downs.
+    </p>
+
+    <p>
+      <em
+        >“There is no greater work human hands can do than to hold a child with
+        a fierce tenderness that says in a way words never can: ‘you are loved',
+        ‘you are safe', ‘you can trust'.”</em
+      >
+      -Parker Palmer
+    </p>
+
+    <p>
+      Every child deserves to be a child - to feel safe, loved, and to
+      experience the world through a lens filled with wonder, joy and curiosity.
+      When trauma occurs, it can affect every fiber of a child's being, causing
+      chaos and disruption to their childhood. It can often feel impossible to
+      know where to begin to start the healing process. That is why I am here -
+      to help your child untangle and process the jumbled and complicated
+      emotions that trauma can cause. Through processing with your child, we
+      will explore emotions and experiences that will help them heal, increase
+      their sense of safety and security, and learn skills to help them cope
+      with intense moments of emotions.
+    </p>
+    <p>
+      I use a child-centered approach, meaning I meet each child where they are
+      with empathy and understanding, taking into account every factor playing a
+      role in their life. In the playroom, your child gets to be fully,
+      authentically them - without judgement and taking the lead. In play
+      therapy, we use the language that all children are fluent in - play.
+      Finding words to fully express how trauma has affected an individual is
+      difficult for anyone, especially a child who might not yet have the
+      vocabulary to process their experiences.The playroom is a place for the
+      child to experience control over the situations and emotions in their life
+      that produce chaos and unease, all the while feeling in their element,
+      surrounded by toys, games, and books familiar to them.
+    </p>
+    <p>
+    Your child and family's stories are precious and deserve to be held with the utmost respect. To be entrusted to walk alongside you and your child as they navigate their past stories, their current stories, and their future stories is the greatest honor. 
+  </p>
+
+    <p>
+      <em>Madalyn Kostur, MSW, LCSWA graduated from the University of North Carolina at Charlotte with a Master of Social Work and a graduate certificate in Play Therapy. She specializes in working with children and adolescents ages 3 and up. She is trained in multiple approaches of play therapy, including Child-Centered Play Therapy, Child-Parent Relationship Training, Expressive Arts Therapy, and Sand Tray Therapy. She is also trained in EMDR and TF-CBT. She specializes in working with children and families who have had DSS involvement as well as adoptees and has extensive experience working with different child welfare programs, including Youth and Family Services, Guardian ad Litem programs, and non-profit organizations.</em>
+    </p>
+  </div>
+  <div className="image">
+    <img src="/headshots/headshot-madalyn-kostur-500.jpg" alt="Madalyn Kostur" />
+  </div>
+  <ul className="icons" style={{padding: "8px"}}>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="mailto:madalyn.kostur@caladriustherapy.com"
+        className="icon style2 solid fa-envelope"
+        ><span className="label">Email</span></a
+      >
+    </li>
+  </ul>
+</section>
+{/* 
+<!-- Spotlight: Kacey --> */}
+<section
+  className="spotlight style2 orient-right content-align-left image-position-center"
+  id="kacey"
+>
+  <div className="content">
+    <p>
+      My name is
+      <strong
+        ><a
+          href="https://www.psychologytoday.com/us/therapists/kacey-scheuerman-charlotte-nc/791247"
+          >Kacey</a
+        ></strong
+      > (she/her) and I am here to support you on your journey.
+    </p>
+
+    <p>
+      Feeling uncomfortable is a signal that it is time for us to start our own
+      process of change. Starting this path of working through difficult or
+      emotional challenges sometimes requires deep vulnerability. Opening up and
+      being vulnerable with someone else can be intimidating, but once
+      practiced, it can also be liberating! You may have had things happen to
+      you that were unfair and painful, causing conflict within yourself or with
+      others. It is especially difficult when you feel alone without someone you
+      can talk to, who will listen without judgment. When you feel overwhelmed
+      and you are experiencing trials that are difficult to navigate, it is time
+      to reach out for support.
+    </p>
+
+    <p>
+      I started my journey towards becoming a therapist because I know that life
+      can be hard and sometimes it feels like a never-ending uphill battle. I am
+      here to provide added support during this time, to give you the space to
+      be vulnerable, heard, and to share tools that can be helpful to you. My
+      goal is to help you feel empowered to seek growth, acceptance, and peace
+      within yourself. Sometimes you just need someone to talk to, and other
+      times you might need help learning new coping skills. I hope to be that
+      trusted person you can share your thoughts and feelings with, as well as
+      practice new skills to be implemented in your everyday life.
+    </p>
+
+    <p>
+      I look forward to being a part of your journey towards self-discovery and
+      self-empowerment.
+    </p>
+
+    <p>
+      <em
+        >Kacey Scheuerman, MSW, LCSW-A graduated from University of North
+        Carolina at Charlotte. Kacey is trained in EMDR and Sand Tray Therapy.
+        She is experienced with working with adults and adolescents.</em
+      >
+    </p>
+  </div>
+  <div className="image">
+    <img src="/headshots/headshot-kacey-scheuerman-500.jpg" alt="Kacey Scheuerman" />
+  </div>
+  <ul className="icons" style={{padding: "8px"}}>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="mailto:kacey.scheuerman@caladriustherapy.com"
+        className="icon style2 solid fa-envelope"
+        ><span className="label">Email</span></a
+      >
+    </li>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="https://www.linkedin.com/in/kacey-scheuerman-25754710b/"
+        className="icon style2 brands fa-linkedin"
+        ><span className="label">LinkedIn</span></a
+      >
+    </li>
+  </ul>
+</section>
+{/* 
+<!-- Spotlight: Jessie Ogienko --> */}
+<section
+  className="spotlight style2 orient-right content-align-left image-position-center"
+  id="jessie-ogienko"
+>
+  <div className="content">
+    <p>
+      My name is
+      <strong
+        ><a
+          href="https://www.psychologytoday.com/us/therapists/jessie-lee-ogienko-charlotte-nc/435847"
+          >Jessie</a
+        ></strong
+      > (she/her) and I can help you move forward.
+    </p>
+    <p>
+      <em
+        >"I am not what happened to me. I am what I choose to become." - Carl
+        Jung</em
+      >
+    </p>
+    <p>
+      Many people have had scary or terrible things happen to them: trauma isn't
+      just what happens to you - it's how you experience it.
+    </p>
+    <p>
+      Maybe - as is the case with many others - you haven't told anyone. Maybe
+      you <em>have</em> told people what happened and their response was
+      confusing, hurtful, or dismissive. Maybe you feel like you just want it to
+      be over or you should have gotten past it already. You might have
+      reminders of what happened impacting your life through nightmares,
+      flashbacks, or trying to avoid any mention or reminder of the events. You
+      might feel numb. Maybe you are a parent and are completely lost on how to
+      help your child recover.
+    </p>
+    <p>
+      I work with adolescents, adults, and families - helping individuals that
+      are struggling not only with trauma, but with depression and anxiety as
+      well.
+    </p>
+    <p>
+      During our first visit, we will talk about what is bothering you now and
+      what you want help with. You do not have to tell a stranger everything at
+      the first visit - we'll get there together.
+    </p>
+    <p>
+      <em
+        >Jessie Ogienko, MSW, LCSW graduated from Emory University with Honors
+        in Psychology and from Hunter College at the City University of New York
+        with a Masters of Social Work degree with a specialty in Clinical
+        Practice and a special focus on Interdisciplinary Practice. She is
+        trained in EMDR, is certified in Trauma-Focused Cognitive Behavioral
+        Therapy (TF-CBT), has graduated the accredited C.A.S.E. Training for
+        Adoption Competency (TAC) certificate program, and is a Family Centered
+        Treatment (FCT) therapist and trainer.</em
+      >
+    </p>
+
+    <p>
+      Jessie is currently offering consulting services, including Clinical
+      Supervision for LCSW-A therapists pursuing full licensure, through
+      <a href="https://www.caladriusconsulting.me/">Caladrius Consulting</a>.
+    </p>
+  </div>
+  <div className="image">
+    <img
+      src="/headshots/headshot-jessie-ogienko-500.jpg"
+      alt="Jessie Ogienko"
+    />
+  </div>
+  <ul className="icons" style={{padding: "8px"}}>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="mailto:jessie.ogienko@caladriustherapy.com"
+        className="icon style2 solid fa-envelope"
+        ><span className="label">Email</span></a
+      >
+    </li>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="https://www.linkedin.com/in/jessie-ogienko/"
+        className="icon style2 brands fa-linkedin"
+        ><span className="label">LinkedIn</span></a
+      >
+    </li>
+  </ul>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       </Layout>
     </>
   );

@@ -329,11 +329,11 @@ const IndexPage: React.FC<PageProps> = () => {
                     <div className="fields">
                       <div className="field half">
                         <label for="name">Name</label>
-                        <input type="text" name="name" id="name" value="" />
+                        <input type="text" name="name" id="name" />
                       </div>
                       <div className="field half">
                         <label for="email">Email</label>
-                        <input type="email" name="email" id="email" value="" />
+                        <input type="email" name="email" id="email"/>
                       </div>
                       <div className="field">
                         <label for="message">Message</label>

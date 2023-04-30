@@ -143,7 +143,7 @@ const AboutPage: React.FC<PageProps> = () => {
     </p>
   </div>
   <div className="image">
-    <img src="headshots/headshot-deerik-bradley-500.jpg" alt="De'Erik Bradley" />
+    <img src="/headshots/headshot-deerik-bradley-500.jpg" alt="De'Erik Bradley" />
   </div>
   <ul className="icons" style={{padding: "8px"}}>
     <li style={{display: "block", padding: "8px"}}>
@@ -185,7 +185,7 @@ const AboutPage: React.FC<PageProps> = () => {
       </p>
   </div>
   <div className="image">
-    <img src="headshots/headshot-hannah-travis-500.jpg" alt="Hannah Travis" />
+    <img src="/headshots/headshot-hannah-travis-500.jpg" alt="Hannah Travis" />
   </div>
   <ul className="icons" style={{padding: "8px"}}>
     <li style={{display: "block", padding: "8px"}}>
@@ -239,7 +239,7 @@ Zach Saint, LCSW-A, LCAS-A, specializes in trauma, substance use/addiction, anxi
     </p>
   </div>
   <div className="image">
-    <img src="headshots/headshot-zach-saint-500.jpg" alt="Zach Saint" />
+    <img src="/headshots/headshot-zach-saint-500.jpg" alt="Zach Saint" />
   </div>
   <ul className="icons" style={{padding: "8px"}}>
     <li style={{display: "block", padding: "8px"}}>
@@ -282,7 +282,7 @@ Zach Saint, LCSW-A, LCAS-A, specializes in trauma, substance use/addiction, anxi
     </p>
   </div>
   <div className="image">
-    <img src="headshots/headshot-kira-rowane-500.jpg" alt="Kira Rowane" />
+    <img src="/headshots/headshot-kira-rowane-500.jpg" alt="Kira Rowane" />
   </div>
   <ul className="icons" style={{padding: "8px"}}>
     <li style={{display: "block", padding: "8px"}}>
@@ -301,7 +301,198 @@ Zach Saint, LCSW-A, LCAS-A, specializes in trauma, substance use/addiction, anxi
     </li>
   </ul>
 </section>
+{/* 
 
+<!-- Spotlight: Hannah Wagers --> */}
+<section
+  className="spotlight style2 orient-right content-align-left image-position-center"
+  id="hannah-wagers"
+>
+  <div className="content">
+    <p>
+      My name is
+      <strong
+        ><a
+          href="https://www.psychologytoday.com/us/therapists/hannah-wagers-charlotte-nc/1046556"
+          >Hannah</a
+        ></strong
+      > (she/her) and I am here to empower you as you navigate life's unpredictable challenges. 
+    </p>
+    <p>Tackling all that may be thrown your way can be incredibly difficult, especially if you take on the challenge alone. My goal is to support and hold space for you on that journey. If you are experiencing anxiety, grief, or life transitions, I will stand beside you as we work to process the impact of those stressors on your day to day life. I am here to provide encouragement and space to verbalize your frustrations while offering helpful coping skills, increased insight, and empathy.</p>
+    <p>I am especially passionate about working with women who are struggling to protect and maintain their mental health. There are times where we feel silenced or bothersome for advocating for ourselves. One of my objectives is to walk with you as you find your voice and embrace your strengths. </p>
+    <p>I operate from a person-centered lens which allows the client to lead sessions at a pace that makes sense for them. We may be a strong fit if you are in need of someone to process or explore parts of your identity with. Asking for help is a brave step in and of itself! </p>
+    <p>
+      <em>        
+Hannah Wagers, MA, LCMHCA, graduated from The University of North Carolina at Charlotte with her Master's degree in Counseling. She received her undergraduate degree in Psychology from the University of North Carolina at Charlotte as well. She has experience working with teens, young adults, and adults. 
+      </em>
+    </p>
+  </div>
+  <div className="image">
+    <img src="headshots/headshot-hannah-wagers-500.jpg" alt="Hannah Wagers" />
+  </div>
+  <ul className="icons" style={{padding: "8px"}}>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="mailto:hannah.wagers@caladriustherapy.com"
+        className="icon style2 solid fa-envelope"
+        ><span className="label">Email</span></a
+      >
+    </li>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="https://www.linkedin.com/in/hannah-wagers-606140183/"
+        className="icon style2 brands fa-linkedin"
+        ><span className="label">LinkedIn</span></a
+      >
+    </li>
+  </ul>
+</section>
+
+
+{/* 
+<!-- Spotlight: Emily Lee --> */}
+<section
+  className="spotlight style2 orient-right content-align-left image-position-center"
+  id="emily-lee"
+>
+  <div className="content">
+    <p>
+      My name is
+      <strong
+        ><a
+          href="https://www.psychologytoday.com/us/therapists/emily-lee-charlotte-nc/963361"
+          >Emily</a
+        ></strong
+      > (she/her) and I am here to help you nurture who you are as a person and a parent.
+    </p>
+    <p>
+      Motherhood (and fatherhood!) looks different on everyone. My passion for
+      maternal mental health sparked after having my daughter and I was able to
+      fully appreciate the challenges and range of emotions that surface within
+      parenthood from a lived experience. I then sought to specialize in
+      Perinatal Mental Health to shift my focus from counseling children to
+      counseling parents. When most people hear about Perinatal Mental Health,
+      they often think of postpartum depression- but Perinatal Mental Health
+      encompasses so much more than that! I work with women in all stages of
+      parenthood including infertility, grief, and loss. I am here to help you
+      navigate challenges and emotions that may arise in pregnancy, birth, and
+      parenthood- including helping you explore bonding with your baby,
+      navigating those terrible twos, parenting threenagers, and staying true to
+      yourself as a parent through the child and adolescent years.
+    </p>
+    <p>
+      Becoming a parent often changes your identity, but it should never feel
+      like you've lost yourself. Each stage brings new challenges and new things
+      to enjoy and it seems as soon as you adjust to one stage, a new one is
+      just around the corner! Those of us parenting without clear role models of
+      the kind of parent we want to be face additional challenges and can
+      benefit greatly from support to make their parenting goals and vision a
+      reality. I am here to partner with you to maintain your sense of self,
+      your mental health, and provide support as we navigate it together.
+    </p>
+    <p>
+      As well as providing support to parents, I want to continue my work
+      providing care to children and adolescents. During my five years of
+      experience working as a school social worker, I have experience providing
+      children with support identifying and naming their emotions, positive
+      coping skills, working through depression, self harm, and suicidality, and
+      providing crisis support. I enjoy working with children going through
+      family transitions, parent separation, and social anxiety.
+    </p>
+    <p>
+      <em>
+        Emily Lee, MSW, LCSWA, PMH-C graduated from Winthrop University with her
+        Master's of Social Work degree. Emily received her Bachelor's of Social
+        Work from Western Carolina University. Emily has several years of
+        experience as a school social worker with grade school children. She is
+        certified in Perinatal Mood and Anxiety Disorders through Postpartum
+        Support International.
+      </em>
+    </p>
+  </div>
+  <div className="image">
+    <img src="headshots/headshot-emily-lee-500.jpg" alt="Emily Lee" />
+  </div>
+  <ul className="icons" style={{padding: "8px"}}>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="mailto:emily.lee@caladriustherapy.com"
+        className="icon style2 solid fa-envelope"
+        ><span className="label">Email</span></a
+      >
+    </li>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="https://www.linkedin.com/in/emilyelee123/"
+        className="icon style2 brands fa-linkedin"
+        ><span className="label">LinkedIn</span></a
+      >
+    </li>
+  </ul>
+</section>
+{/* 
+<!-- Spotlight: Emma Braisted --> */}
+<section
+  className="spotlight style2 orient-right content-align-left image-position-center"
+  id="emma-braisted"
+>
+  <div className="content">
+    <p>
+      My name is <strong><a href="https://www.psychologytoday.com/us/therapists/emma-braisted-charlotte-nc/980903">Emma</a></strong> (she/her) and I'm here to help you
+      discover and foster the healthiest version of yourself.
+    </p>
+    <p>
+      I applaud you for taking this courageous first step in recognizing that
+      you may need or want support to get to where you want to be. My first goal
+      as a therapist is to provide you a safe space to simply exist as your
+      truest self in whatever stage you may be at. I understand the overwhelming
+      emotions and anxieties that can be experienced as a result of trauma,
+      difficult life circumstances and relationships, displacement, loss, or
+      grief.
+    </p>
+    <p>
+      Our therapeutic relationship built in this space will serve as the
+      foundation for discovery and growth. Together, we will navigate the
+      complexities, anxieties, and transitions that life can sometimes throw our
+      way. I commit to holding space for your emotions while encouraging and
+      assisting you to decide what necessary changes to make to become the
+      healthiest and most authentic version of yourself.
+    </p>
+
+    <p>
+      <em>
+        Emma Braisted, M.Ed, LCMHCA graduated from the University at Buffalo
+        with a Masters of Education in School Counseling in 2016. After six
+        years as a School Counselor, Emma pursued her Clinical Mental Health
+        license to practice outside the scope of a school setting. Emma has
+        experience working with older children, adolescents, adults, and
+        families experiencing great risk factors and trauma.
+      </em>
+    </p>
+  </div>
+  <div className="image">
+    <img
+      src="headshots/headshot-emma-braisted-500.jpg"
+      alt="Emma Braisted"
+    />
+  </div>
+  <ul className="icons" style={{padding: "8px"}}>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="mailto:emma.braisted@caladriustherapy.com"
+        className="icon style2 solid fa-envelope"
+        ><span className="label">Email</span></a
+      >
+    </li>
+    <li style={{display: "block", padding: "8px"}}>
+      <a
+        href="https://www.linkedin.com/in/emma-braisted-m-ed-lcmhca-40b6215a/"
+        className="icon style2 brands fa-linkedin"
+        ><span className="label">LinkedIn</span></a
+      >
+    </li>
+  </ul>
+</section>
 
       </Layout>
     </>

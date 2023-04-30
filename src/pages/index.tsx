@@ -329,6 +329,7 @@ const IndexPage: React.FC<PageProps> = () => {
 
                 <div className="content">
                 <form name="contact" method="POST" data-netlify="true">
+                    <input type="hidden" name="form-name" value="contact" />
                     <div className="fields">
                       <div className="field half">
                         <label htmlFor="name">Name</label>

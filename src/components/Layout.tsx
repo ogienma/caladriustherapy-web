@@ -8,7 +8,7 @@ import Nav from "./Nav";
 import Footer from "./Footer";
 import { ChakraBaseProvider, extendBaseTheme } from "@chakra-ui/react";
 import chakraTheme from '@chakra-ui/theme'
-
+import { Script } from "gatsby"
 export interface IProps {
   children?: React.ReactNode;
 }
@@ -21,6 +21,7 @@ const theme = extendBaseTheme({
 const Layout: React.FC<IProps> = ({ children }) => {
   return (
     <ChakraBaseProvider theme={theme} resetCSS={false}>
+      <Script src="https://widget-cdn.simplepractice.com/assets/integration-1.0.js" />
       <div id="wrapper" className="divided">
         <Nav />
         {children}
@@ -31,6 +32,7 @@ const Layout: React.FC<IProps> = ({ children }) => {
 };
 
 export default Layout;
+
 
 // import React from "react";
 // import "../css/bulma.css";

@@ -23,7 +23,13 @@ const config: GatsbyConfig = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        icon: "src/images/icon.png",
+        name: `Caladrius Therapy | Charlotte, NC`,
+        short_name: `Caladrius Therapy`,
+        start_url: `/`,
+        background_color: `#fff`,
+        theme_color: `#000`,
+        display: `standalone`,
+        icon: `src/images/icon.png`,
       },
     },
     "gatsby-plugin-mdx",

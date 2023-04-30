@@ -12,8 +12,8 @@ export const SEO = () => {
         <title>Caladrius Therapy | Charlotte, NC</title>
         <meta property="og:title" content="Caladrius Therapy | Charlotte, NC" />
         <meta property="og:description" content="Everyone deserves to be seen and to share their story with someone who is empathetic, caring, and helpful." />
-        <meta property="og:image:url" content="http://www.caladriustherapy.com/images/og-banner.jpg" />
-        <meta property="og:image:secure_url" content="https://www.caladriustherapy.com/images/og-banner.jpg" />
+        <meta property="og:image:url" content="http://www.caladriustherapy.com/og-images/og-banner.jpg" />
+        <meta property="og:image:secure_url" content="https://www.caladriustherapy.com/og-images/og-banner.jpg" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en_US"/>
         <meta property="og:site_name" content="caladriustherapy.com"/>

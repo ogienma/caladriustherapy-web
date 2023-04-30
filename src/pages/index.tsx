@@ -51,7 +51,7 @@ const IndexPage: React.FC<PageProps> = () => {
           </div>
           <div className="image">
             <img
-              src="/banners/banner-dominik-lange-35224-unsplash.jpg"
+              src="/heroes/banner-dominik-lange-35224-unsplash.jpg"
               style={{ filter: "brightness(50%)" }}
               alt=""
             />
@@ -86,7 +86,7 @@ const IndexPage: React.FC<PageProps> = () => {
             </p>
           </div>
           <div className="image">
-            <img src="/banners/stephen-walker-572414-unsplash.jpg" alt="" />
+            <img src="/heroes/stephen-walker-572414-unsplash.jpg" alt="" />
           </div>
         </section>
         {/* 
@@ -312,7 +312,7 @@ const IndexPage: React.FC<PageProps> = () => {
             </ul>
           </div>
           <div className="image">
-            <img src="/banners/nicole-honeywill-704489-unsplash.jpg" alt="" />
+            <img src="/heroes/nicole-honeywill-704489-unsplash.jpg" alt="" />
           </div>
         </section>
 

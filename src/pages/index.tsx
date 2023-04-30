@@ -339,11 +339,11 @@ const IndexPage: React.FC<PageProps> = () => {
                         <input type="email" name="email" id="email"/>
                       </div>
                       <div className="field">
-                        <label for="message">Message</label>
+                        <label htmlFor="message">Message</label>
                         <textarea
                           name="message"
                           id="message"
-                          rows="5"
+                          rows={5}
                         ></textarea>
                       </div>
                     </div>
@@ -354,8 +354,7 @@ const IndexPage: React.FC<PageProps> = () => {
                           className="primary"
                           name="submit"
                           id="submit"
-                          value="Send Message"
-                        />
+                        >Send Message</button>
                       </li>
                     </ul>
                   </form>

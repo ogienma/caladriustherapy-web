@@ -2,6 +2,7 @@ import * as React from "react";
 import type { HeadFC, PageProps } from "gatsby";
 import Layout from "../components/Layout";
 import { SEO } from "../components/SEO";
+import {Box, SimpleGrid} from "@chakra-ui/react";
 
 const IndexPage: React.FC<PageProps> = () => {
   return (
@@ -110,6 +111,74 @@ const IndexPage: React.FC<PageProps> = () => {
   </div>
 </section>
 --> */}
+
+
+{/* <!-- Team --> */}
+{/* <section className="wrapper style1 align-center">
+          <div className="inner" style={{ padding: "1rem" }}>
+            <a href="/about">
+              <h2>Our Team</h2>
+            </a>
+          </div>
+          <div style={{ clear: "both" }}>
+
+
+    
+            <section className="spotlight style2" style={{ padding: "0rem" }}>
+            <SimpleGrid minChildWidth='120px' spacing='40px'>
+          <Box><div className="image headshot">
+                  <a href="/about#jessie-ogienko">
+                    <img
+                      src="/headshots/headshot-jessie-ogienko-500.jpg"
+                      alt="Jessie Ogienko"
+                    />
+                  </a>
+                </div></Box>
+          <Box><div className="image headshot">
+                  <a href="/about#jessie-ogienko">
+                    <img
+                      src="/headshots/headshot-jessie-ogienko-500.jpg"
+                      alt="Jessie Ogienko"
+                    />
+                  </a>
+                </div></Box>
+          <Box><div className="image headshot">
+                  <a href="/about#jessie-ogienko">
+                    <img
+                      src="/headshots/headshot-jessie-ogienko-500.jpg"
+                      alt="Jessie Ogienko"
+                    />
+                  </a>
+                </div></Box>
+          <Box><div className="image headshot">
+                  <a href="/about#jessie-ogienko">
+                    <img
+                      src="/headshots/headshot-jessie-ogienko-500.jpg"
+                      alt="Jessie Ogienko"
+                    />
+                  </a>
+                </div></Box>
+          <Box><div className="image headshot">
+                  <a href="/about#jessie-ogienko">
+                    <img
+                      src="/headshots/headshot-jessie-ogienko-500.jpg"
+                      alt="Jessie Ogienko"
+                    />
+                  </a>
+                </div></Box>
+          <Box><div className="image headshot">
+                  <a href="/about#jessie-ogienko">
+                    <img
+                      src="/headshots/headshot-jessie-ogienko-500.jpg"
+                      alt="Jessie Ogienko"
+                    />
+                  </a>
+                </div></Box>
+        </SimpleGrid>
+            </section>
+          </div>
+        </section> */}
+
         {/* <!-- Team --> */}
         <section className="wrapper style1 align-center">
           <div className="inner" style={{ padding: "1rem" }}>
@@ -118,6 +187,61 @@ const IndexPage: React.FC<PageProps> = () => {
             </a>
           </div>
           <div style={{ clear: "both" }}>
+{/* 
+          <SimpleGrid minChildWidth='120px' spacing='40px'>
+          <Box><div className="image headshot">
+                  <a href="/about#jessie-ogienko">
+                    <img
+                      src="/headshots/headshot-jessie-ogienko-500.jpg"
+                      alt="Jessie Ogienko"
+                    />
+                  </a>
+                </div></Box>
+          <Box><div className="image headshot">
+                  <a href="/about#jessie-ogienko">
+                    <img
+                      src="/headshots/headshot-jessie-ogienko-500.jpg"
+                      alt="Jessie Ogienko"
+                    />
+                  </a>
+                </div></Box>
+          <Box><div className="image headshot">
+                  <a href="/about#jessie-ogienko">
+                    <img
+                      src="/headshots/headshot-jessie-ogienko-500.jpg"
+                      alt="Jessie Ogienko"
+                    />
+                  </a>
+                </div></Box>
+          <Box><div className="image headshot">
+                  <a href="/about#jessie-ogienko">
+                    <img
+                      src="/headshots/headshot-jessie-ogienko-500.jpg"
+                      alt="Jessie Ogienko"
+                    />
+                  </a>
+                </div></Box>
+          <Box><div className="image headshot">
+                  <a href="/about#jessie-ogienko">
+                    <img
+                      src="/headshots/headshot-jessie-ogienko-500.jpg"
+                      alt="Jessie Ogienko"
+                    />
+                  </a>
+                </div></Box>
+          <Box><div className="image headshot">
+                  <a href="/about#jessie-ogienko">
+                    <img
+                      src="/headshots/headshot-jessie-ogienko-500.jpg"
+                      alt="Jessie Ogienko"
+                    />
+                  </a>
+                </div></Box>
+        </SimpleGrid> */}
+
+    
+
+
             {/* <!-- Team: Row 1 --> */}
             <section className="spotlight style2" style={{ padding: "0rem" }}>
               <div>

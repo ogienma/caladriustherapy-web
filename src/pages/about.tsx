@@ -80,7 +80,7 @@ const AboutPage: React.FC<PageProps> = () => {
                         })
                       }
                     >
-                      {showBio[member.id] ? "Collapse" : "Learn More"}
+                      {showBio[member.id] ? "Collapse" : `Learn More About ${member.name.split(" ")[0]}`}
                     </a>
                   </li>
                 </ul>

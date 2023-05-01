@@ -201,7 +201,7 @@ const IndexPage: React.FC<PageProps> = () => {
                   </a>
                 </div>
                 <div className="image headshot">
-                  <a href="/about#madalyn-kostur">
+                  <a href="/about#maddy-kostur">
                     <img
                       src="/headshots/headshot-madalyn-kostur-500.jpg"
                       alt="Madalyn Kostur"

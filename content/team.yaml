@@ -1,19 +1,104 @@
-title: YAML content used at build time with Gatsby
-content:
-  - item:
-      Cupcake ipsum dolor. Sit amet marshmallow topping cheesecake muffin. Halvah
-      croissant candy canes bonbon candy. Apple pie jelly beans topping carrot cake
-      danish tart cake cheesecake. Muffin danish chocolate soufflé pastry icing bonbon
-      oat cake. Powder cake jujubes oat cake. Lemon drops tootsie roll marshmallow halvah
-      carrot cake.
-  - item:
-      Doggo ipsum borkdrive much ruin diet you are doing me the shock the neighborhood pupper doggorino length boy many pats, boofers heckin shooberino wrinkler.
-      Very good spot very jealous pupper very hand that feed shibe smol, shoob.
-      Long bois pupper doggo you are doin me a concern big ol yapper, smol boof most angery pupper I have ever seen puggorino.
-      Mlem blep wow very biscit dat tungg tho wow very biscit, thicc ur givin me a spook.
-      Many pats heckin you are doing me the shock corgo ur givin me a spook very hand that feed shibe shooberino, big ol pupper doge pats borkdrive.
-      Such treat what a nice floof super chub such treat, smol thicc.
-      Puggorino very good spot most angery pupper I have ever seen you are doing me the shock big ol pupper porgo corgo shoober, heckin good boys lotsa pats noodle horse very taste wow thicc.
-      What a nice floof long doggo blep length boy borking doggo, much ruin diet floofs borkf.
-  - item: 192.33
-  - item: 111111
+members:
+  - name: "Madalyn Twist"
+    image: "/headshots/headshot-madalyn-twist-500.jpg"
+    tagline: "My name is Madalyn (she/her) and I am here to facilitate your healing and growth as an individual." 
+    bio:
+      <p>
+        <em>
+          "The most important thing we can do for the healing of the world
+          is to hear inside ourselves" - Thich Nhat Hanh
+        </em>
+      </p>
+      <p>
+        Therapy is a transformative journey. It is one in which we begin
+        to take off the masks that we are afraid of living without but
+        know we cannot live within. Together, we will gently remove old
+        and new masks, allowing for the opportunity to get to know our
+        truest, inner selves. From witnessing how personal challenges -
+        past and present - can impact individuals in distinct ways, I have
+        grown increasingly passionate about helping individuals to
+        reconnect with life through self-discovery. I use a
+        person-centered, trauma informed approach that recognizes and
+        respects you, in all of your glorious uniqueness. I believe you
+        are the expert in your lived experiences and I work to create a
+        space where you can share your journey, challenges, and hopes for
+        the future.
+      </p>
+      <p>
+        With over five years of experience working with youth experiencing
+        foster care, I have a special interest in helping children (and
+        families) navigate the various emotions that arise due to the
+        circumstances they are faced with. I help children understand and
+        express their emotions constructively through play, their most
+        effective language. With adolescents, I focus on establishing
+        trust and connection while addressing challenging behaviors and
+        developing valuable skills within, such as self regulation and
+        self compassion. When working with adults, I focus on wellness and
+        stability, while guiding you through your healing journey and
+        equipping you with resources and tools to use both inside and
+        outside of sessions. I draw heavily from CBT, responsive
+        parenting, attachment theory, and other trauma-informed practices
+        to meet your specific needs and desires. I also enjoy
+        incorporating mindfulness, meditation, and body focused practices
+        to connect the mind, body, and spirit, into sessions.
+      </p>
+      <p>
+        <em>
+          Madalyn Twist, MSW, LCSW-A graduated from The University of
+          North Carolina at Charlotte with her Master's of Social Work
+          degree. She received her Bachelor's of Social Work degree from
+          The University of North Carolina at Wilmington. Madalyn
+          specializes in working with children and adolescent's
+          experiencing foster care as well as youth and adult adoptees.
+          She has experience with a variety of mental health diagnoses and
+          the impacts of trauma within both children and adults. Madalyn
+          has a special interest in Internal Family Systems Model. She is
+          passionate about creating a safe and affirming space for
+          LGBTQIA+ populations.
+        </em>
+      </p>
+    social:
+      - name: "twitter"
+        url: "#"
+      - name: "facebook"
+        url: "#"
+      - name: "linkedin"
+        url: "#"
+      - name: "instagram"
+        url: "#"
+
+  - name: "De'Erik Bradley"
+    image: "/headshots/headshot-deerik-bradley-500.jpg"
+    tagline: "Hey, what's up! My name is De'Erik (he/him) and I'm here to help you process and progress."
+    bio:
+      <p>
+        <em>
+          "As long as you have breath, you have options" - Imani Cohen
+        </em>
+      </p>
+      <p>
+        Progress in life is a process. To move forward, sometimes you have to look back to see how much progress you have made, but you must also look ahead to see how much more progress remains. This process doesn't come without bumps and bruises. It can produce feelings of anxiety, anger, or depression, and sometimes we may lose loved ones or damage relationships while on our journey.
+        </p>
+        <p>
+          No matter where you are on your journey, I am here to help you process those traumatic experiences, those sleepless nights that keep you up, and the moments that prevent you from being present.
+        </p>
+        <p>
+          Progress awaits you with open arms. Trust and give yourself grace along the way. Therapy can be scary. Perhaps this isn't your first time attending therapy. Or maybe, therapy is not common in your community and you never even considered it.
+        </p>  
+        <p>
+          We all deserve the feeling of being present, inspired, and happy. I'm here to guide you along your journey to help you reach that. Together we will get to the root of your challenges to help you find clarity and embrace your authentic self.I will provide a person-centered approach that meets you where you are and allows you a space where you will have grace to process, cry, and laugh, as you come back home to yourself.
+        </p>
+      <p>
+        <em>        
+          De'Erik is a Licensed Clinical Social Worker Associate. He earned his Bachelor's degree in Social Work at Johnson C. Smith University and earned his Masters in Social Work at Winthrop University. He utilizes a person-centered approach which involves placing emphasis on strength building, self awareness, accountability, and authenticity. He has over 8 years of experience working with individuals across all ages. His experience in the Mental Health field includes individual, group and family counseling. He provides support with Stress Management, Depression, Cultural Specific issues, and Anxiety. He offers both in person and Tele-Health services to fit the needs of each client.
+        </em>
+      </p>
+    social:
+      - name: "twitter"
+        url: "#"
+      - name: "facebook"
+        url: "#"
+      - name: "linkedin"
+        url: "#"
+      - name: "instagram"
+        url: "#"

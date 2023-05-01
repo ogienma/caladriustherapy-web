@@ -138,3 +138,20 @@
 }
 
   /* end mystery meat */
+/* 
+  @media screen and (max-width: 1680px) { */
+
+    .about-member-section {
+        align-items: start !important;
+    }
+/* 
+} */
+
+/* @media screen and (max-width: 736px) and (orientation: portrait) { */
+ @media screen and (max-width: 1280px) and (orientation: portrait) {
+    
+
+    .about-member-section {
+        align-items: center !important;
+    }
+}

@@ -16,10 +16,16 @@ const AboutPage: React.FC<PageProps> = () => {
   return (
     <>
       <Layout>
+        <section className="wrapper style1 align-center">
+          <div className="inner" style={{padding: "6rem 2.5rem 2.5rem 2.5rem"}}>
+            <h1>our team</h1>
+          </div>
+        </section>
         {TeamData.members.map((member: any, index: any) => {
           return (
             <section
-              className="spotlight style2 orient-right content-align-left image-position-center about-member-section" id={member.id}
+              className="spotlight style2 orient-right content-align-left image-position-center about-member-section"
+              id={member.id}
             >
               <div className="content">
                 <h2>{member.name}</h2>
@@ -46,7 +52,10 @@ const AboutPage: React.FC<PageProps> = () => {
                   )}
                   {member.psychologytoday && (
                     <li>
-                      <a href={member.psychologytoday} className="button small">
+                      <a
+                        href={member.psychologytoday}
+                        className="button small solid icon fa-external-link-alt"
+                      >
                         PsychologyToday
                       </a>
                     </li>

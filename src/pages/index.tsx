@@ -2,7 +2,7 @@ import * as React from "react";
 import type { HeadFC, PageProps } from "gatsby";
 import Layout from "../components/Layout";
 import { SEO } from "../components/SEO";
-import {Box, SimpleGrid} from "@chakra-ui/react";
+import OurTeamPanel  from "../components/OurTeamPanel";
 
 const IndexPage: React.FC<PageProps> = () => {
   return (
@@ -112,137 +112,19 @@ const IndexPage: React.FC<PageProps> = () => {
 </section>
 --> */}
 
-
-{/* <!-- Team --> */}
-{/* <section className="wrapper style1 align-center">
-          <div className="inner" style={{ padding: "1rem" }}>
-            <a href="/about">
-              <h2>Our Team</h2>
-            </a>
-          </div>
-          <div style={{ clear: "both" }}>
-
-
-    
-            <section className="spotlight style2" style={{ padding: "0rem" }}>
-            <SimpleGrid minChildWidth='120px' spacing='40px'>
-          <Box><div className="image headshot">
-                  <a href="/about#jessie-ogienko">
-                    <img
-                      src="/headshots/headshot-jessie-ogienko-500.jpg"
-                      alt="Jessie Ogienko"
-                    />
-                  </a>
-                </div></Box>
-          <Box><div className="image headshot">
-                  <a href="/about#jessie-ogienko">
-                    <img
-                      src="/headshots/headshot-jessie-ogienko-500.jpg"
-                      alt="Jessie Ogienko"
-                    />
-                  </a>
-                </div></Box>
-          <Box><div className="image headshot">
-                  <a href="/about#jessie-ogienko">
-                    <img
-                      src="/headshots/headshot-jessie-ogienko-500.jpg"
-                      alt="Jessie Ogienko"
-                    />
-                  </a>
-                </div></Box>
-          <Box><div className="image headshot">
-                  <a href="/about#jessie-ogienko">
-                    <img
-                      src="/headshots/headshot-jessie-ogienko-500.jpg"
-                      alt="Jessie Ogienko"
-                    />
-                  </a>
-                </div></Box>
-          <Box><div className="image headshot">
-                  <a href="/about#jessie-ogienko">
-                    <img
-                      src="/headshots/headshot-jessie-ogienko-500.jpg"
-                      alt="Jessie Ogienko"
-                    />
-                  </a>
-                </div></Box>
-          <Box><div className="image headshot">
-                  <a href="/about#jessie-ogienko">
-                    <img
-                      src="/headshots/headshot-jessie-ogienko-500.jpg"
-                      alt="Jessie Ogienko"
-                    />
-                  </a>
-                </div></Box>
-        </SimpleGrid>
-            </section>
-          </div>
-        </section> */}
+        {/* <!-- Team --> */}
+        <OurTeamPanel />
 
         {/* <!-- Team --> */}
-        <section className="wrapper style1 align-center">
+        {/* <section className="wrapper style1 align-center">
           <div className="inner" style={{ padding: "1rem" }}>
             <a href="/about">
               <h2>Our Team</h2>
             </a>
           </div>
           <div style={{ clear: "both" }}>
-{/* 
-          <SimpleGrid minChildWidth='120px' spacing='40px'>
-          <Box><div className="image headshot">
-                  <a href="/about#jessie-ogienko">
-                    <img
-                      src="/headshots/headshot-jessie-ogienko-500.jpg"
-                      alt="Jessie Ogienko"
-                    />
-                  </a>
-                </div></Box>
-          <Box><div className="image headshot">
-                  <a href="/about#jessie-ogienko">
-                    <img
-                      src="/headshots/headshot-jessie-ogienko-500.jpg"
-                      alt="Jessie Ogienko"
-                    />
-                  </a>
-                </div></Box>
-          <Box><div className="image headshot">
-                  <a href="/about#jessie-ogienko">
-                    <img
-                      src="/headshots/headshot-jessie-ogienko-500.jpg"
-                      alt="Jessie Ogienko"
-                    />
-                  </a>
-                </div></Box>
-          <Box><div className="image headshot">
-                  <a href="/about#jessie-ogienko">
-                    <img
-                      src="/headshots/headshot-jessie-ogienko-500.jpg"
-                      alt="Jessie Ogienko"
-                    />
-                  </a>
-                </div></Box>
-          <Box><div className="image headshot">
-                  <a href="/about#jessie-ogienko">
-                    <img
-                      src="/headshots/headshot-jessie-ogienko-500.jpg"
-                      alt="Jessie Ogienko"
-                    />
-                  </a>
-                </div></Box>
-          <Box><div className="image headshot">
-                  <a href="/about#jessie-ogienko">
-                    <img
-                      src="/headshots/headshot-jessie-ogienko-500.jpg"
-                      alt="Jessie Ogienko"
-                    />
-                  </a>
-                </div></Box>
-        </SimpleGrid> */}
+      
 
-    
-
-
-            {/* <!-- Team: Row 1 --> */}
             <section className="spotlight style2" style={{ padding: "0rem" }}>
               <div>
                 <div className="image headshot">
@@ -279,7 +161,6 @@ const IndexPage: React.FC<PageProps> = () => {
                 </div>
               </div>
             </section>
-            {/* <!-- Team: Row 2 --> */}
             <section className="spotlight style2" style={{ padding: "0rem" }}>
               <div>
                 <div className="image headshot">
@@ -313,7 +194,6 @@ const IndexPage: React.FC<PageProps> = () => {
                 </div>
               </div>
             </section>
-            {/* <!-- Team: Row 3 --> */}
             <section className="spotlight style2" style={{ padding: "0rem" }}>
               <div>
                 <div className="image headshot">
@@ -350,7 +230,6 @@ const IndexPage: React.FC<PageProps> = () => {
                 </div>
               </div>
             </section>
-            {/* <!-- Team: Row 4 --> */}
             <section className="spotlight style2" style={{ padding: "0rem" }}>
               <div>
                 <div className="image headshot">
@@ -380,7 +259,7 @@ const IndexPage: React.FC<PageProps> = () => {
               </div>
             </section>
           </div>
-        </section>
+        </section> */}
         {/* <!-- Spotlight: Services --> */}
         <section
           className="spotlight style1 orient-left content-align-left image-position-center"
@@ -449,10 +328,8 @@ const IndexPage: React.FC<PageProps> = () => {
                   <h3>Get In Touch</h3>
                 </header>
 
-    
-
                 <div className="content">
-                <form name="contact" method="POST" data-netlify="true">
+                  <form name="contact" method="POST" data-netlify="true">
                     <input type="hidden" name="form-name" value="contact" />
                     <div className="fields">
                       <div className="field half">
@@ -461,7 +338,7 @@ const IndexPage: React.FC<PageProps> = () => {
                       </div>
                       <div className="field half">
                         <label htmlFor="email">Email</label>
-                        <input type="email" name="email" id="email"/>
+                        <input type="email" name="email" id="email" />
                       </div>
                       <div className="field">
                         <label htmlFor="message">Message</label>
@@ -479,7 +356,9 @@ const IndexPage: React.FC<PageProps> = () => {
                           className="primary"
                           name="submit"
                           id="submit"
-                        >Send Message</button>
+                        >
+                          Send Message
+                        </button>
                       </li>
                     </ul>
                   </form>
@@ -584,7 +463,7 @@ const IndexPage: React.FC<PageProps> = () => {
             <!-- REST Charlotte:    ChIJ_1JFIXahVogRkSmoiwEc8I8 -->
             <!-- <iframe id="2" width="600" height="450" frameborder="0" style="border:0"
               src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ_1JFIXahVogRkSmoiwEc8I8&key=MY_KEY_HERE" visit https://console.cloud.google.com/apis/credentials/key/25e0c3ca-fdcc-4da5-825e-17be62395978?project=caldrius-220122
-              allowfullscreen></iframe>--> */} 
+              allowfullscreen></iframe>--> */}
                     <iframe
                       src="https://www.google.com/maps/d/embed?mid=1-Sia_16IEGSduBjEI5NMb-O93DZhGE9A&ehbc=2E312F"
                       width="640"

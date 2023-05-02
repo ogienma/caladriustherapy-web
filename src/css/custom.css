@@ -134,7 +134,8 @@
 }
 
 .spotlight.style2 .headshot {
-    width: 12rem; height: 12rem; border: rgba(0, 0, 0, 0.075) 1px solid;
+    /* width: 12rem; height: 12rem; border: rgba(0, 0, 0, 0.075) 1px solid; */
+    width: 10rem; height: 10rem; margin: 0px;
 }
 
   /* end mystery meat */

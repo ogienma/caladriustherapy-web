@@ -51,7 +51,7 @@ const OurTeamPanel: React.FC<IProps> = () => {
             <Box as={Container} mb={14} mt={4} p={0}>
               <Grid
                 templateColumns={{
-                  base: "repeat(1, 1fr)",
+                  base: "repeat(2, 1fr)",
                   sm: "repeat(2, 1fr)",
                   md: "repeat(4, 1fr)",
                 }}

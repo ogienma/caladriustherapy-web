@@ -7,6 +7,7 @@ import {
   Flex,
   Divider,
   chakra,
+  Tooltip,
   Grid,
   GridItem,
   Container,
@@ -21,12 +22,14 @@ const Headshot = ({ member }: HeadshotProps) => {
   return (
     <GridItem>
       <div className="image headshot">
+      <Tooltip label={<em>{member.name}</em>}>
         <a href={`/about#${member.id}`}> 
           <img
             src={member.image}
             alt={member.name}
           />
         </a>
+        </Tooltip>
       </div>
     </GridItem>
   );
@@ -45,14 +48,14 @@ const OurTeamPanel: React.FC<IProps> = () => {
         </div>
         <div style={{ clear: "both" }}>
           <section className="spotlight style2" style={{ padding: "0rem" }}>
-            <Box as={Container} mb={14} p={0}>
+            <Box as={Container} mb={14} mt={4} p={0}>
               <Grid
                 templateColumns={{
                   base: "repeat(1, 1fr)",
                   sm: "repeat(2, 1fr)",
                   md: "repeat(4, 1fr)",
                 }}
-                gap={{ base: "4", sm: "6", md: "8" }}
+                gap={{ base: "8", sm: "12", md: "16" }}
               >
                 {TeamData.members.reverse().map((member: any, index: any) => {
                   return <Headshot member={member} />;

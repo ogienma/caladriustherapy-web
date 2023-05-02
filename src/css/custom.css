@@ -134,9 +134,16 @@
 }
 
 .spotlight.style2 .headshot {
-    /* width: 12rem; height: 12rem; border: rgba(0, 0, 0, 0.075) 1px solid; */
-    width: 10rem; height: 10rem; margin: 0px;
+    width: 11rem; height: 11rem; margin: 0px;
 }
+
+.spotlight.style2 .headshot img {
+    -moz-transition: -moz-transform 0.2s ease-out;
+    -webkit-transition: -webkit-transform 0.2s ease-out;
+    -ms-transition: -ms-transform 0.2s ease-out;
+    transition: transform 0.2s ease-out;
+}
+
 
   /* end mystery meat */
 /* 
@@ -155,4 +162,11 @@
     .about-member-section {
         align-items: center !important;
     }
+}
+
+.spotlight.style2  .headshot:hover img {
+    -moz-transform: scale(1.025);
+    -webkit-transform: scale(1.025);
+    -ms-transform: scale(1.025);
+    transform: scale(1.025); 
 }

@@ -13,6 +13,7 @@ import {
   Container,
   SimpleGrid,
 } from "@chakra-ui/react";
+// import Img from "gatsby-image"
 
 interface HeadshotProps {
   member: any;
@@ -28,6 +29,7 @@ const Headshot = ({ member }: HeadshotProps) => {
             src={member.image}
             alt={member.name}
           />
+          {/* <Img src={member.image} /> */}
         </a>
         </Tooltip>
       </div>
@@ -38,6 +40,7 @@ const Headshot = ({ member }: HeadshotProps) => {
 export interface IProps {}
 
 const OurTeamPanel: React.FC<IProps> = () => {
+  const members = teamData.members.reverse();
   return (
     <>
       <section className="wrapper style1 align-center">
@@ -57,7 +60,7 @@ const OurTeamPanel: React.FC<IProps> = () => {
                 }}
                 gap={{ base: "8", sm: "12", md: "16" }}
               >
-                {teamData.members.reverse().map((member: any, index: any) => {
+                {members.map((member: any, index: any) => {
                   return <Headshot member={member} />;
                 })}
               </Grid>

@@ -5,6 +5,7 @@ import { SEO } from "../components/SEO";
 import OurTeamPanel from "../components/OurTeamPanel";
 import teamData from "../../content/team.yaml";
 
+    
 const IndexPage: React.FC<PageProps> = () => {
   return (
     <>

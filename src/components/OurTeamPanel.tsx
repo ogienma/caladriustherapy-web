@@ -40,7 +40,8 @@ const Headshot = ({ member }: HeadshotProps) => {
 export interface IProps {}
 
 const OurTeamPanel: React.FC<IProps> = () => {
-  const members: any = React.useMemo(() => Array.from(teamData.members).reverse(), [teamData.members]);
+  // const members: any = React.useMemo(() => Array.from(teamData.members).reverse(), [teamData.members]);
+  const members: any = Array.from(teamData.members).reverse()
   return (
     <>
       <section className="wrapper style1 align-center">

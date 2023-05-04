@@ -1,5 +1,5 @@
 import React from "react";
-import TeamData from "../../content/team.yaml";
+import teamData from "../../content/team.yaml";
 import {
   Box,
   VStack,
@@ -57,7 +57,7 @@ const OurTeamPanel: React.FC<IProps> = () => {
                 }}
                 gap={{ base: "8", sm: "12", md: "16" }}
               >
-                {TeamData.members.reverse().map((member: any, index: any) => {
+                {teamData.members.reverse().map((member: any, index: any) => {
                   return <Headshot member={member} />;
                 })}
               </Grid>

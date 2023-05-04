@@ -4,12 +4,12 @@ import { SEO } from "../components/SEO";
 import Layout from "../components/Layout";
 import { StaticImage } from "gatsby-plugin-image";
 import { Text, Button } from "@chakra-ui/react";
-import TeamData from "../../content/team.yaml";
+import teamData from "../../content/team.yaml";
 import { cachedDataVersionTag } from "v8";
 const AboutPage: React.FC<PageProps> = () => {
   // set showbio to false for all members to start - it's a dict with team member name as the key
   const [showBio, setShowBio] = React.useState(
-    TeamData.members.map((member: any, index: any) => {
+    teamData.members.map((member: any, index: any) => {
       return { [member.id]: false };
     })
   );
@@ -21,7 +21,7 @@ const AboutPage: React.FC<PageProps> = () => {
             <h1>our team</h1>
           </div>
         </section>
-        {TeamData.members.map((member: any, index: any) => {
+        {teamData.members.map((member: any, index: any) => {
           return (
             <section
               className="spotlight style2 orient-right content-align-left image-position-center about-member-section"

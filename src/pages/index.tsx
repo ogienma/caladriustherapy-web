@@ -2,7 +2,8 @@ import * as React from "react";
 import type { HeadFC, PageProps } from "gatsby";
 import Layout from "../components/Layout";
 import { SEO } from "../components/SEO";
-import OurTeamPanel  from "../components/OurTeamPanel";
+import OurTeamPanel from "../components/OurTeamPanel";
+import teamData from "../../content/team.yaml";
 
 const IndexPage: React.FC<PageProps> = () => {
   return (
@@ -114,152 +115,6 @@ const IndexPage: React.FC<PageProps> = () => {
 
         {/* <!-- Team --> */}
         <OurTeamPanel />
-
-        {/* <!-- Team --> */}
-        {/* <section className="wrapper style1 align-center">
-          <div className="inner" style={{ padding: "1rem" }}>
-            <a href="/about">
-              <h2>Our Team</h2>
-            </a>
-          </div>
-          <div style={{ clear: "both" }}>
-      
-
-            <section className="spotlight style2" style={{ padding: "0rem" }}>
-              <div>
-                <div className="image headshot">
-                  <a href="/about#jessie-ogienko">
-                    <img
-                      src="/headshots/headshot-jessie-ogienko-500.jpg"
-                      alt="Jessie Ogienko"
-                    />
-                  </a>
-                </div>
-                <div className="image headshot">
-                  <a href="/about#kira-rowane">
-                    <img
-                      src="/headshots/headshot-kira-rowane-500.jpg"
-                      alt="Kira Rowane"
-                    />
-                  </a>
-                </div>
-                <div className="image headshot">
-                  <a href="/about#hannah-wagers">
-                    <img
-                      src="/headshots/headshot-hannah-wagers-500.jpg"
-                      alt="Hannah Wagers"
-                    />
-                  </a>
-                </div>
-                <div className="image headshot">
-                  <a href="/about#zach-saint">
-                    <img
-                      src="/headshots/headshot-zach-saint-500.jpg"
-                      alt="Zach Saint"
-                    />
-                  </a>
-                </div>
-              </div>
-            </section>
-            <section className="spotlight style2" style={{ padding: "0rem" }}>
-              <div>
-                <div className="image headshot">
-                  <a href="/about#tatim-lace">
-                    <img
-                      src="/headshots/headshot-tatim-lace-500.jpg"
-                      alt="Tatim Lace"
-                    />
-                  </a>
-                </div>
-                <div className="image headshot">
-                  <a href="/about#emily-lee">
-                    <img
-                      src="/headshots/headshot-emily-lee-500.jpg"
-                      alt="Emily Lee"
-                    />
-                  </a>
-                </div>
-                <div className="image headshot">
-                  <a href="/about#kim">
-                    <img src="/headshots/headshot-kim2.jpg" alt="Kim Ernst" />
-                  </a>
-                </div>
-                <div className="image headshot">
-                  <a href="/about#amy-travis">
-                    <img
-                      src="/headshots/headshot-amy-travis-500.jpg"
-                      alt="Amy Travis"
-                    />
-                  </a>
-                </div>
-              </div>
-            </section>
-            <section className="spotlight style2" style={{ padding: "0rem" }}>
-              <div>
-                <div className="image headshot">
-                  <a href="/about#emma-braisted">
-                    <img
-                      src="/headshots/headshot-emma-braisted-500.jpg"
-                      alt="Emma Braisted"
-                    />
-                  </a>
-                </div>
-                <div className="image headshot">
-                  <a href="/about#maddy-kostur">
-                    <img
-                      src="/headshots/headshot-madalyn-kostur-500.jpg"
-                      alt="Madalyn Kostur"
-                    />
-                  </a>
-                </div>
-                <div className="image headshot">
-                  <a href="/about#kaitlyn-cannon">
-                    <img
-                      src="/headshots/headshot-kaitlyn-cannon-500.jpg"
-                      alt="Kaitlyn Cannon"
-                    />
-                  </a>
-                </div>
-                <div className="image headshot">
-                  <a href="/about#kacey">
-                    <img
-                      src="/headshots/headshot-kacey-scheuerman-500.jpg"
-                      alt="Kacey Scheuerman"
-                    />
-                  </a>
-                </div>
-              </div>
-            </section>
-            <section className="spotlight style2" style={{ padding: "0rem" }}>
-              <div>
-                <div className="image headshot">
-                  <a href="/about#madalyn-twist">
-                    <img
-                      src="/headshots/headshot-madalyn-twist-500.jpg"
-                      alt="Madalyn Twist"
-                    />
-                  </a>
-                </div>
-                <div className="image headshot">
-                  <a href="/about#deerik-bradley">
-                    <img
-                      src="/headshots/headshot-deerik-bradley-500.jpg"
-                      alt="De'Erik Bradley"
-                    />
-                  </a>
-                </div>
-                <div className="image headshot">
-                  <a href="/about#hannah-travis">
-                    <img
-                      src="/headshots/headshot-hannah-travis-500.jpg"
-                      alt="Hannah Travis"
-                    />
-                  </a>
-                </div>
-              </div>
-            </section>
-          </div>
-        </section> */}
         {/* <!-- Spotlight: Services --> */}
         <section
           className="spotlight style1 orient-left content-align-left image-position-center"
@@ -385,43 +240,27 @@ const IndexPage: React.FC<PageProps> = () => {
                     <a href="mailto:hello@caladriustherapy.com">
                       <span className="icon style2 major solid fa-envelope"></span>
                     </a>
+
                     <div className="inner" style={{ textAlign: "center" }}>
                       <a href="mailto:hello@caladriustherapy.com">
                         <strong>General Inquiries</strong>
                       </a>
                     </div>
-                    <a href="mailto:jessie.ogienko@caladriustherapy.com">
-                      Jessie
-                    </a>{" "}
-                    •
-                    <a href="mailto:kacey.scheuerman@caladriustherapy.com">
-                      Kacey
-                    </a>{" "}
-                    •<a href="mailto:emily.lee@caladriustherapy.com">Emily</a> •
-                    <a href="mailto:kim.ernst@caladriustherapy.com">Kim</a> •
-                    <a href="mailto:hannah.wagers@caladriustherapy.com">
-                      Hannah
-                    </a>{" "}
-                    •<a href="mailto:tatim.lace@caladriustherapy.com">Tatim</a>{" "}
-                    •<a href="mailto:amy.travis@caladriustherapy.com">Amy</a> •
-                    <a href="mailto:emma.braisted@caladriustherapy.com">Emma</a>{" "}
-                    •
-                    <a href="mailto:madalyn.kostur@caladriustherapy.com">
-                      Madalyn K
-                    </a>{" "}
-                    •
-                    <a href="mailto:kaitlyn.cannon@caladriustherapy.com">
-                      Kaitlyn
-                    </a>{" "}
-                    •<a href="mailto:zach.saint@caladriustherapy.com">Zach</a> •
-                    <a href="mailto:kira.rowane@caladriustherapy.com">Kira</a> •
-                    <a href="mailto:madalyn.twist@caladriustherapy.com">
-                      Madalyn T
-                    </a>{" "}
-                    •
-                    <a href="mailto:hannah.travis@caladriustherapy.com">
-                      Hannah T
-                    </a>
+                    {" • "}
+                    {teamData.members
+                      .reverse()
+                      .map((member: any, index: any) => {
+                        return (
+                          <span>
+                            <a href={`mailto:${member.email}`}>
+                              {`${member.name.split(" ")[0]} ${
+                                member.name.split(" ")[1][0]
+                              }.`}
+                            </a>
+                            {" • "}
+                          </span>
+                        );
+                      })}
                   </div>
                 </section>
                 <section>
@@ -430,7 +269,7 @@ const IndexPage: React.FC<PageProps> = () => {
                       <span className="icon style2 major solid fa-map-pin"></span>
                     </a>
                     <div className="inner" style={{ textAlign: "center" }}>
-                      <strong>Caladrius @ South End</strong>
+                      <strong>Dilworth</strong>
                     </div>
                     <a href="https://g.page/caladrius-therapy?share">
                       <h4 style={{ textAlign: "center" }}>
@@ -439,7 +278,7 @@ const IndexPage: React.FC<PageProps> = () => {
                       </h4>
                     </a>
                     <div className="inner" style={{ textAlign: "center" }}>
-                      <strong>Caladrius @ South Park</strong>
+                      <strong>South Park</strong>
                     </div>
                     <a href="https://www.google.com/maps/place/2901+Coltsgate+Rd,+Charlotte,+NC+28211/@35.149032,-80.8284798,17z/data=!3m1!4b1!4m5!3m4!1s0x88569e144ed8681b:0x13e0f1a5429c504!8m2!3d35.149032!4d-80.8284798">
                       <h4 style={{ textAlign: "center" }}>
@@ -536,15 +375,12 @@ const IndexPage: React.FC<PageProps> = () => {
                   <h3>Referrals</h3>
                 </header>
                 <div className="content">
-                  Complete the{" "}
-                  <a href="pdf/caladrius_referral_form_20210104.pdf">
-                    referral form
-                  </a>{" "}
-                  and send it via fax (704-980-3082) or email (
-                  <a href="mailto:hello@caladriustherapy.com">
-                    hello@caladriustherapy.com
+                  Are you a provider looking to refer someone to Caladrius
+                  Therapy? If so, please complete{" "}
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLScGrVjx8T30DoF_smDZKS7pOtIQeZxXmVgoazgARc189aJ4Zg/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link">
+                    our referral form
                   </a>
-                  ).
+                  .
                 </div>
               </section>
             </div>

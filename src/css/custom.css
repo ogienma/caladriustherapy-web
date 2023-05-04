@@ -8,7 +8,7 @@
     width: 186px;
     height: 60px;
 }
-
+/* 
 .spwidget-button {
     display: inline-block;
     color: #fff !important;
@@ -27,8 +27,8 @@
 .spwidget-button:active {
     color: rgba(255, 255, 255, .75) !important;
     box-shadow: 0 1px 3px rgba(0, 0, 0, .15) inset
-}
-
+} */
+/* 
 .spwidget-button3 {
     color: #fff !important;
     background: #de6a26 !important;
@@ -48,11 +48,12 @@
 .spwidget-button3:active {
     color: rgba(255, 255, 255, .75) !important;
     box-shadow: 0 1px 3px rgba(0, 0, 0, .15) inset
-}
+} */
 
 .navbar-button {
     color: #fff !important;
-    background: #de6a26 !important;
+    /* background: #de6a26 !important; */
+    background: #943F94 !important;
     border: 0;
     border-radius: 3.325em;
     font-size: 0.75rem !important;
@@ -64,7 +65,8 @@
 
 .navbar-button:hover {
     color: rgba(255, 255, 255, 1) !important;
-    background: rgba(71, 211, 229, 1) !important;
+    background: #5289c9 !important;
+
 }
 
 .navbar-button:active {
@@ -85,23 +87,23 @@
 }
 
 .navbar-item:hover, .navbar-link:hover {
-    color: #47D3E5 !important;
+    color: #b695ce !important;
 }
 
 .navbar-link:hover::after {
-    border-color: #47D3E5 !important;
+    border-color: #b695ce !important;
 }
-
 
 
 /* begin mystery meat */
 /* pulled this from the old index - do we still need it?*/
 
+/* controls the hero button */
 .spwidget-button {
     display: inline-block;
     padding: 12px 24px;
     color: #fff !important;
-    background: #de6a26 !important;
+    background: #943F94 !important;
     border: 0;
     border-radius: 4px;
     font-size: 16px;
@@ -110,7 +112,7 @@
   }
 
   .spwidget-button:hover {
-    background: rgb(189, 223, 228) !important;
+    background: #5289c9 !important;
   }
 
   .spwidget-button:active {

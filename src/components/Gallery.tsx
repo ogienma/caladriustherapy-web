@@ -76,7 +76,6 @@ const Gallery: React.FC<IProps> = () => {
         <div className="inner">
           <h2>See Our Space</h2>
         </div>
-        <div className="gallery style2 small lightbox"></div>
         <Swiper
           spaceBetween={0}
           slidesPerView={"auto"}
@@ -182,7 +181,7 @@ const Gallery: React.FC<IProps> = () => {
               </a>
             </article>
           </SwiperSlide>
-          <SwiperSlide style={{ width: "945px", height: "630px" }}>
+          {/* <SwiperSlide style={{ width: "945px", height: "630px" }}>
             <article>
               <a href="/our-space/0J7A3289.jpg" className="image">
                 <StaticImage
@@ -193,7 +192,21 @@ const Gallery: React.FC<IProps> = () => {
                 />
               </a>{" "}
             </article>
+          </SwiperSlide> */}
+
+<SwiperSlide style={{ width: "630px", height: "630px" }}>
+            <article>
+              <a href="/our-space/0J7A3312.jpg" className="image">
+                <StaticImage
+                  src="../../static/our-space/0J7A3312_square.jpg"
+                  alt="Caladrius Therapy Office"
+                  width={630}
+                  height={630}
+                />
+              </a>{" "}
+            </article>
           </SwiperSlide>
+
           <SwiperSlide style={{ width: "420px", height: "630px"}}> {/* 'you belong here' book */}
             <article>
               <a href="/our-space/0J7A3258.jpg" className="image">

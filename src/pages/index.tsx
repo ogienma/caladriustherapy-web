@@ -4,6 +4,7 @@ import Layout from "../components/Layout";
 import { SEO } from "../components/SEO";
 import OurTeamPanel from "../components/OurTeamPanel";
 import teamData from "../../content/team.yaml";
+import Gallery from "../components/Gallery";
 
     
 const IndexPage: React.FC<PageProps> = () => {
@@ -174,7 +175,7 @@ const IndexPage: React.FC<PageProps> = () => {
             <img src="/heroes/nicole-honeywill-704489-unsplash.jpg" alt="" />
           </div>
         </section>
-
+<Gallery/>
         <section className="wrapper style2 align-center">
           <div className="inner">
             <div className="index align-left">
@@ -313,7 +314,7 @@ const IndexPage: React.FC<PageProps> = () => {
                 </div>
               </section>
               {/* <!-- See Our Space --> */}
-              <section>
+              {/* <section>
                 <header>
                   <h3>See Our Space</h3>
                 </header>
@@ -369,7 +370,7 @@ const IndexPage: React.FC<PageProps> = () => {
                     </article>
                   </div>
                 </div>
-              </section>
+              </section> */}
               {/* <!-- Referrals --> */}
               <section>
                 <header>

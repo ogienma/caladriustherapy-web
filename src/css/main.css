@@ -6878,7 +6878,8 @@ input, select, textarea {
 			display: block;
 			position: relative;
 			overflow: hidden;
-			width: 22.5rem;
+			/* MAX'S OVERRIDE */
+			/* width: 22.5rem; */
 			max-width: 75vw;
 		}
 
@@ -6966,9 +6967,10 @@ input, select, textarea {
 
 		}
 
-		.gallery.style2.small article {
+		/* MAX'S OVERRIDE */
+		/* .gallery.style2.small article {
 			width: 17.5rem;
-		}
+		} */
 
 			.gallery.style2.small article .caption {
 				padding: 2rem;

@@ -81,6 +81,7 @@ const Gallery: React.FC<IProps> = () => {
           spaceBetween={0}
           slidesPerView={"auto"}
           loop={true}
+          centeredSlides={true}
           modules={[Navigation, Pagination]}
           navigation
           pagination={{ clickable: true }}

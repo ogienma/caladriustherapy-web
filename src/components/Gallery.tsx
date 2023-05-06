@@ -80,7 +80,8 @@ const Gallery: React.FC<IProps> = () => {
         <Swiper
           spaceBetween={0}
           slidesPerView={"auto"}
-          modules={[Navigation, Pagination, Scrollbar]}
+          loop={true}
+          modules={[Navigation, Pagination]}
           navigation
           pagination={{ clickable: true }}
         >
@@ -95,6 +96,20 @@ const Gallery: React.FC<IProps> = () => {
                 />
               </a>
             </article></SwiperSlide>
+
+
+            <SwiperSlide style={{ width: "420px", height: "630px"}}>
+            <article>
+              <a href="/our-space/0J7A3075.jpg" className="image">
+                <StaticImage
+                  src="../../static/our-space/3075.jpg"
+                  alt="Caladrius Therapy Office"
+                  width={420}
+                  height={630}
+                />
+              </a>
+            </article></SwiperSlide>
+
             <SwiperSlide style={{ width: "945px", height: "630px"}}>
             <article>
               <a href="/our-space/0J7A3048.jpg" className="image">

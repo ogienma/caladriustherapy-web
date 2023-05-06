@@ -236,7 +236,7 @@ const Gallery: React.FC<IProps> = () => {
             <article>
               <a href="/our-space/0J7A3085.jpg" className="image">
                 <StaticImage
-                  src="../../static/our-space/0J7A3085_square.jpg.jpg"
+                  src="../../static/our-space/0J7A3085_square.jpg"
                   alt="Caladrius Therapy Office"
                   width={630}
                   height={630}

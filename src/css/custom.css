@@ -191,10 +191,18 @@
     height: 100%;
     object-fit: cover;
   } */
-  .swiper-slide{
-    width: 500px;
-    height: 700px;
+ 
+  div.swiper-button-prev,
+  div.swiper-button-next {
+  color: #943F94;
+  right: 0;
+			background-image: linear-gradient(to left, rgba(0, 0, 0, 0.25) 15%, rgba(0, 0, 0, 0));
   }
+  
+  span.swiper-pagination-bullet {
+  background-color: #943F94;
+  }
+
 /* 
  
 

@@ -41,7 +41,7 @@ const Footer: React.FC<IProps> = () => {
               Dominic Lange
             </a>{" "}
             and <a href="https://unsplash.com/@elijahsad">Elijah O'Donnell</a>{" "}
-            on <a href="https://unsplash.com">Unsplash.</a>
+            on <a href="https://unsplash.com">Unsplash</a>. Headshots and "See Our Space" photographs by <a href="https://www.alisharuddphotography.com">Alisha Rudd</a>.
           </p>
         </div>
       </footer>

@@ -2,6 +2,7 @@ members:
 
   - id: deerik-bradley
     name: De'Erik Bradley
+    letters: LCSW-A
     title: Clinician
     image: /headshots/headshot-deerik-bradley-500.jpg
     email: deerik.bradley@caladriustherapy.com
@@ -59,6 +60,7 @@ members:
 
   - id: hannah-travis
     name: Hannah Travis
+    letters: LCSW
     title: Senior Clinician
     image: /headshots/headshot-hannah-travis-500.jpg
     email: hannah.travis@caladriustherapy.com
@@ -93,6 +95,7 @@ members:
 
   - id: madalyn-twist
     name: Madalyn Twist
+    letters: LCSW-A
     title: Clinician
     image: /headshots/headshot-madalyn-twist-500.jpg
     email: madalyn.twist@caladriustherapy.com
@@ -156,6 +159,7 @@ members:
 
   - id: zach-saint
     name: Zach Saint
+    letters: LCSW-A, LCAS-A
     title: Clinician
     image: /headshots/headshot-zach-saint-500.jpg
     email: zach.saint@caladriustherapy.com
@@ -199,6 +203,7 @@ members:
 
   - id: hannah-wagers
     name: Hannah Wagers
+    letters: LCMHC-A
     title: Clinician
     image: /headshots/headshot-hannah-wagers-500.jpg
     email: hannah.wagers@caladriustherapy.com
@@ -242,6 +247,7 @@ members:
 
   - id: kira-rowane
     name: Kira Rowane
+    letters: LCMHC-A
     title: Clinician
     image: /headshots/headshot-kira-rowane-500.jpg
     email: kira.rowane@caladriustherapy.com
@@ -291,6 +297,7 @@ members:
 
   - id: emma-braisted
     name: Emma Braisted
+    letters: LCMHC-A
     title: Clinician
     image: /headshots/headshot-emma-braisted-500.jpg
     email: emma.braisted@caladriustherapy.com
@@ -330,6 +337,7 @@ members:
 
   - id: amy-travis
     name: Amy Travis
+    letters: LCSW
     title: Senior Clinician
     image: /headshots/headshot-amy-travis-500.jpg
     email: amy.travis@caladriustherapy.com
@@ -378,6 +386,7 @@ members:
 
   - id: tatim-lace
     name: Tatim Lace
+    letters: LCSW-A
     title: Clininical Team Lead - South Park, Clinician
     image: /headshots/headshot-tatim-lace-500.jpg
     email: tatim.lace@caladriustherapy.com
@@ -438,6 +447,7 @@ members:
 
   - id: maddy-kostur
     name: Maddy Kostur
+    letters: LCSW-A
     title: Clinician
     image: /headshots/headshot-maddy-kostur-500.jpg
     email: madalyn.kostur@caladriustherapy.com
@@ -504,6 +514,7 @@ members:
 
   - id: emily-lee
     name: Emily Lee
+    letters: LCSW-A
     title: Clinician
     image: /headshots/headshot-emily-lee-500.jpg
     email: emily.lee@caladriustherapy.com
@@ -562,9 +573,10 @@ members:
 
   - id: kaitlyn-miller
     name: Kaitlyn Miller
+    letters: LCSW-A
     title: Clinician
     image: /headshots/headshot-kaitlyn-cannon-500.jpg
-    email: kaitlyn.cannon@caladriustherapy.com
+    email: kaitlyn.miller@caladriustherapy.com
     linkedin: https://www.linkedin.com/in/kaitlyngcannon/
     psychologytoday: https://www.psychologytoday.com/us/therapists/kaitlyn-cannon-charlotte-nc/1035292
     tagline: "My name is Kaitlyn (she/her) and I am here to help you process uncomfortable feelings and support you in finding your most authentic self."
@@ -595,6 +607,7 @@ members:
   
   - id: kim-ernst
     name: Kim Ernst
+    letters: LCSW-A
     title: Clinician
     image: /headshots/headshot-kim2.jpg
     email: kim.ernst@caladriustherapy.com
@@ -667,6 +680,7 @@ members:
 
   - id: kacey-scheuerman
     name: Kacey Scheuerman
+    letters: LCSW-A
     title: Clininical Team Lead - Dilworth, Clinician
     image: /headshots/headshot-kacey-scheuerman-500.jpg
     email: kacey.scheuerman@caladriustherapy.com
@@ -715,6 +729,7 @@ members:
 
   - id: jessie-ogienko
     name: Jessie Ogienko
+    letters: LCSW
     title: CEO, Owner, Senior Clinician
     image: /headshots/headshot-jessie-ogienko-500.jpg
     email: jessie.ogienko@caladriustherapy.com

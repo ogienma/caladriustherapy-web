@@ -59,7 +59,7 @@ members:
 
   - id: hannah-travis
     name: Hannah Travis
-    title: Sr. Clinician
+    title: Senior Clinician
     image: /headshots/headshot-hannah-travis-500.jpg
     email: hannah.travis@caladriustherapy.com
     tagline: "Hi! My name is Hannah and I am here to help you feel connected."
@@ -330,7 +330,7 @@ members:
 
   - id: amy-travis
     name: Amy Travis
-    title: Sr. Clinician
+    title: Senior Clinician
     image: /headshots/headshot-amy-travis-500.jpg
     email: amy.travis@caladriustherapy.com
     linkedin: https://www.linkedin.com/in/amy-travis-88441316/
@@ -715,7 +715,7 @@ members:
 
   - id: jessie-ogienko
     name: Jessie Ogienko
-    title: CEO, Owner, Sr. Clinician
+    title: CEO, Owner, Senior Clinician
     image: /headshots/headshot-jessie-ogienko-500.jpg
     email: jessie.ogienko@caladriustherapy.com
     linkedin: https://www.linkedin.com/in/jessie-ogienko/

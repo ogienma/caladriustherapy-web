@@ -28,7 +28,9 @@ const AboutPage: React.FC<PageProps> = () => {
               id={member.id}
             >
               <div className="content">
-                <h2>{member.name}</h2>
+              <h2>{member.name}</h2>
+              <h4>{member.title}</h4>
+                {/* <span><h2 style={{display: "inline"}}>{member.name}</h2>    <h4 style={{display: "inline"}}>{member.title}</h4></span> */}
                 <ul className="actions">
                   {member.email && (
                     <li>

@@ -2,6 +2,7 @@ members:
 
   - id: deerik-bradley
     name: De'Erik Bradley
+    title: Clinician
     image: /headshots/headshot-deerik-bradley-500.jpg
     email: deerik.bradley@caladriustherapy.com
     tagline: "Hey, what's up! My name is De'Erik (he/him) and I'm here to help you process and progress."
@@ -58,6 +59,7 @@ members:
 
   - id: hannah-travis
     name: Hannah Travis
+    title: Sr. Clinician
     image: /headshots/headshot-hannah-travis-500.jpg
     email: hannah.travis@caladriustherapy.com
     tagline: "Hi! My name is Hannah and I am here to help you feel connected."
@@ -91,6 +93,7 @@ members:
 
   - id: madalyn-twist
     name: Madalyn Twist
+    title: Clinician
     image: /headshots/headshot-madalyn-twist-500.jpg
     email: madalyn.twist@caladriustherapy.com
     tagline: "My name is Madalyn (she/her) and I am here to facilitate your healing and growth as an individual." 
@@ -153,6 +156,7 @@ members:
 
   - id: zach-saint
     name: Zach Saint
+    title: Clinician
     image: /headshots/headshot-zach-saint-500.jpg
     email: zach.saint@caladriustherapy.com
     tagline: "My name is Zach and I'm here to meet you where you are."
@@ -195,6 +199,7 @@ members:
 
   - id: hannah-wagers
     name: Hannah Wagers
+    title: Clinician
     image: /headshots/headshot-hannah-wagers-500.jpg
     email: hannah.wagers@caladriustherapy.com
     linkedin: https://www.linkedin.com/in/hannah-wagers-606140183/
@@ -237,6 +242,7 @@ members:
 
   - id: kira-rowane
     name: Kira Rowane
+    title: Clinician
     image: /headshots/headshot-kira-rowane-500.jpg
     email: kira.rowane@caladriustherapy.com
     linkedin: https://www.linkedin.com/in/kirarowane/
@@ -285,6 +291,7 @@ members:
 
   - id: emma-braisted
     name: Emma Braisted
+    title: Clinician
     image: /headshots/headshot-emma-braisted-500.jpg
     email: emma.braisted@caladriustherapy.com
     linkedin: https://www.linkedin.com/in/emma-braisted-m-ed-lcmhca-40b6215a/
@@ -323,6 +330,7 @@ members:
 
   - id: amy-travis
     name: Amy Travis
+    title: Sr. Clinician
     image: /headshots/headshot-amy-travis-500.jpg
     email: amy.travis@caladriustherapy.com
     linkedin: https://www.linkedin.com/in/amy-travis-88441316/
@@ -370,6 +378,7 @@ members:
 
   - id: tatim-lace
     name: Tatim Lace
+    title: Clininical Team Lead - South Park, Clinician
     image: /headshots/headshot-tatim-lace-500.jpg
     email: tatim.lace@caladriustherapy.com
     linkedin: https://www.linkedin.com/in/tatimlace/
@@ -429,6 +438,7 @@ members:
 
   - id: maddy-kostur
     name: Maddy Kostur
+    title: Clinician
     image: /headshots/headshot-maddy-kostur-500.jpg
     email: madalyn.kostur@caladriustherapy.com
     psychologytoday: https://www.psychologytoday.com/us/therapists/maddy-kostur-charlotte-nc/890410
@@ -494,6 +504,7 @@ members:
 
   - id: emily-lee
     name: Emily Lee
+    title: Clinician
     image: /headshots/headshot-emily-lee-500.jpg
     email: emily.lee@caladriustherapy.com
     linkedin: https://www.linkedin.com/in/emilyelee123/
@@ -549,8 +560,9 @@ members:
         </em>
       </p>
 
-  - id: kaitlyn-cannon
-    name: Kaitlyn Cannon
+  - id: kaitlyn-miller
+    name: Kaitlyn Miller
+    title: Clinician
     image: /headshots/headshot-kaitlyn-cannon-500.jpg
     email: kaitlyn.cannon@caladriustherapy.com
     linkedin: https://www.linkedin.com/in/kaitlyngcannon/
@@ -558,45 +570,32 @@ members:
     tagline: "My name is Kaitlyn (she/her) and I am here to help you process uncomfortable feelings and support you in finding your most authentic self."
     bio:
       <p>
-        At Caladrius, I am both the Clinical Services Coordinator and a
-        second year MSW therapist intern. I have the answers to your
-        everyday office questions, and can also help you therapeutically
-        if you decide that we are the right fit.
+        Often, people experience stress and anxiety if they believe they do not live up to others' expectations of them. It can feel extremely isolating if you think you are outside of the "normal". I believe that "normal" is subjective, and that there is no standard "normal". I enjoy working with clients who are wanting to embrace the parts of themselves that they've been conditioned to keep private.
       </p>
       <p>
-        Sometimes, certain events in our lives can alter the way we view
-        ourselves, others, and the world around us. We all deserve peace.
-        We all deserve to feel safe. We all deserve to feel whole. As
-        humans, we were not made to carry our burdens alone. I am here to
-        help you process your trauma as you adjust to your new normal. I
-        can teach you coping skills and offer comfort and support.
+        I see strength in vulnerability. I think there is so much to be said for a person who is able to acknowledge the pain that they've been through. Without doing so, it can be difficult to learn, heal, and grow.
       </p>
       <p>
-        The intersection between trauma and identity cannot be denied. As
-        a queer woman, I am also passionate about helping LGBTQ+
-        individuals navigate their traumatic life events.
+        Certain events in our lives can alter the way we view ourselves, others, and the world around us. We all deserve peace. We all deserve to feel safe. We all deserve to feel whole. As humans, we were not made to carry our burdens alone. I am here to help you process your trauma as you rediscover yourself. I can teach you coping skills and offer support.
       </p>
       <p>
-        I am here to remind you that you are not what happened to you. I
-        am here to help you recognize and hone in on your resilience and
-        strength.
+        I offer a person-centered approach and incorporate skills of CBT, DBT, ACT, and other modalities into my practice. Additionally, I am able to perform EMDR, which is an evidence-based treatment that is recommended to treat trauma, anxiety, depression, and other mental health concerns. I also have a therapy dog named Kay. She is the goodest girl/co-worker.  She is an English golden retriever who can sit in on session upon request. 
+      </p>
+      <p>
+        The intersection between trauma and identity cannot be denied. As a queer woman, I am also passionate about helping LGBTQ+ individuals navigate their traumatic life events. Additionally, I am passionate about helping those who have been impacted by image-based sexual abuse. 
+      </p>
+      <p>
+        I am here to remind you that you are not what happened to you. I am here to help you recognize and hone in on your resilience and strength. 
       </p>
       <p>
         <em>
-          Kaitlyn Cannon, MSW, is graduating from the University of North
-          Carolina at Charlotte with a Master's of Social Work in 2023.
-          She received her undergraduate degree from Pennsylvania State
-          University in 2016. Kaitlyn has worked as a Crisis Counselor for
-          Crisis Text Line, and has extensive experience advocating for
-          and working with victims of image-based sexual abuse (i.e
-          revenge porn). She has served as a panelist, moderator, and
-          reviewer of literature for cyber sexual abuse
-          conferences/organizations.
+          Kaitlyn Miller, LCSWA received her Masters of Social Work from The University of North Carolina at Charlotte in 2023. She has completed CBT training for depression and suicide from the Beck Institute, and she received training in EMDR from an EMDRIA-approved organization. Kaitlyn's clinical focus has been with members of the LGBTQIA+ population and those who have experienced sexual abuse. Kaitlyn has worked as a Crisis Counselor for Crisis Text Line, and has extensive experience advocating for and working with victims of image-based sexual abuse (i.e revenge porn). She has served as a panelist, moderator, and reviewer of literature for cyber sexual abuse conferences/organizations. 
         </em>
       </p>
   
   - id: kim-ernst
     name: Kim Ernst
+    title: Clinician
     image: /headshots/headshot-kim2.jpg
     email: kim.ernst@caladriustherapy.com
     linkedin: https://www.linkedin.com/in/kimberly-y-k-ernst/
@@ -668,6 +667,7 @@ members:
 
   - id: kacey-scheuerman
     name: Kacey Scheuerman
+    title: Clininical Team Lead - Dilworth, Clinician
     image: /headshots/headshot-kacey-scheuerman-500.jpg
     email: kacey.scheuerman@caladriustherapy.com
     linkedin: https://www.linkedin.com/in/kacey-scheuerman-25754710b/
@@ -715,6 +715,7 @@ members:
 
   - id: jessie-ogienko
     name: Jessie Ogienko
+    title: CEO, Owner, Sr. Clinician
     image: /headshots/headshot-jessie-ogienko-500.jpg
     email: jessie.ogienko@caladriustherapy.com
     linkedin: https://www.linkedin.com/in/jessie-ogienko/

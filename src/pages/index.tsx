@@ -294,7 +294,7 @@ const IndexPage: React.FC<PageProps> = () => {
               </div>
 
               {/* <!-- Map --> */}
-              <section>
+              <section style={{paddingTop: "16px"}}>
                 <div className="content">
                   <div className="iframe-rwd">
                     {/* <!-- Caladrius Therapy: ChIJOZghlXCfVogRkp499dzCZao -->
@@ -307,70 +307,12 @@ const IndexPage: React.FC<PageProps> = () => {
               allowfullscreen></iframe>--> */}
                     <iframe
                       src="https://www.google.com/maps/d/embed?mid=1-Sia_16IEGSduBjEI5NMb-O93DZhGE9A&ehbc=2E312F"
-                      width="640"
+                      width="100%"
                       height="480"
                     ></iframe>
                   </div>
                 </div>
               </section>
-              {/* <!-- See Our Space --> */}
-              {/* <section>
-                <header>
-                  <h3>See Our Space</h3>
-                </header>
-                <div className="content">
-                  <div className="gallery style1 medium lightbox">
-                    <article>
-                      <a
-                        href="office/full/caladriustherapy-6943-sm.jpg"
-                        className="image"
-                      >
-                        <img
-                          src="office/full/caladriustherapy-6943-sm.jpg"
-                          alt="Caladrius Therapy Office"
-                        />
-                      </a>
-                      <div className="caption"></div>
-                    </article>
-                    <article>
-                      <a
-                        href="office/full/caladriustherapy-6941-sm.jpg"
-                        className="image"
-                      >
-                        <img
-                          src="office/full/caladriustherapy-6941-sm.jpg"
-                          alt="Caladrius Therapy Office"
-                        />
-                      </a>
-                      <div className="caption"></div>
-                    </article>
-                    <article>
-                      <a
-                        href="office/full/caladriustherapy-6856-sm.jpg"
-                        className="image"
-                      >
-                        <img
-                          src="office/full/caladriustherapy-6856-sm.jpg"
-                          alt="Caladrius Therapy Office"
-                        />
-                      </a>
-                      <div className="caption"></div>
-                    </article>
-                    <article>
-                      <a
-                        href="office/full/caladriustherapy-6820-sm.jpg"
-                        className="image"
-                      >
-                        <img
-                          src="office/full/caladriustherapy-6820-sm.jpg"
-                          alt="Caladrius Therapy Office"
-                        />
-                      </a>
-                      <div className="caption"></div>
-                    </article>
-                  </div>
-                </div>
-              </section> */}
               {/* <!-- Referrals --> */}
               <section>
                 <header>

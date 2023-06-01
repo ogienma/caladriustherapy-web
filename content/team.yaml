@@ -605,78 +605,78 @@ members:
         </em>
       </p>
   
-  - id: kim-ernst
-    name: Kim Ernst
-    letters: LCSW-A
-    title: Clinician
-    image: /headshots/headshot-kim2.jpg
-    email: kim.ernst@caladriustherapy.com
-    linkedin: https://www.linkedin.com/in/kimberly-y-k-ernst/
-    psychologytoday: https://www.psychologytoday.com/us/therapists/kimberly-ernst-charlotte-nc/866746
-    tagline: "My name is Kim (she/her) and I'm here to help guide you in overcoming life's challenges."
-    bio:
-      <p>
-        It's never easy to seek help for your mental health needs. I'm
-        here to guide you through this process and provide support through
-        your pain, recovery, transition, and path to improvement.
-      </p>
-      <p>
-        Life can be hard at times; you can feel lost and vulnerable. You
-        may want to give up or feel just burnt out. Whether you change
-        jobs, leave a difficult relationship, lose a special person in
-        your life, experience grief, move away, or are adjusting to a new
-        way of life, it can be tough to get through. We want to find our
-        true authentic selves and feel good instead of feeling the weight
-        of the world on our shoulders.
-      </p>
-      <p>
-        Some of us strive for excellence and perfection to the point that
-        we have unhealthy thoughts and habits, experience pressure to
-        always perform at high levels, and meet demands from others that
-        may damage our health – we start to feel we cannot sustain this
-        level of effort in all areas of our life. This leaves us feeling
-        down, feeling stressed, struggling to manage our emotions, hurting
-        relationships we do not mean to, and putting our needs and
-        self-care on the back burner. We often feel a sense of imposter
-        syndrome where we believe we do not deserve the success and
-        happiness we are experiencing; it becomes a barrier created by us
-        and affects our ability to achieve success and happiness.
-      </p>
-      <p>
-        You and I can work through these difficulties together. I work
-        with adults and adolescents experiencing anxiety, depression,
-        grief, trauma, identity issues, anger problems, PTSD, and
-        challenges while in a life transition. I love helping high
-        performers increase their resilience and enhance their
-        performance. I offer tailored organizational high-performance
-        presentations and workshops to maximize potential. As a veteran
-        myself, I especially enjoy working with other veterans. The change
-        process begins with you. Let's do this together, I'm here with
-        you!
-      </p>
-      <p>
-        <em>
-          Kimberly Ernst, a Licensed Clinical Social Worker Associate, is
-          a veteran who served 15 years in the Air Force and continues to
-          serve in the Reserves. Having lived on three different
-          continents during her time in the military has allowed her to
-          interact with multiple cultures and people of diverse
-          backgrounds. During her educational path, she completed her
-          Bachelor of Sociology at the American Military University and
-          her Master of Social Work at the University of North Carolina at
-          Charlotte (UNCC) with honors. Her specialties are military
-          mental health, high-performance consulting, PTSD, life
-          transitions, anxiety, life coaching, and trauma. Kim is a
-          lifelong learner and is pursuing her Ph.D. in Industrial and
-          Organizational Psychology to build professional knowledge in
-          leadership, teams, and performance. She promotes health
-          holistically and teaches indoor cycling part-time. Kim is
-          trained in Eye Movement Desensitization and Reprocessing (EMDR)
-          Therapy, and she is informed on Internal Family Systems (IFS)
-          Therapy. At this time, Kimberly is offering telehealth sessions
-          only.
-        </em>
-      </p>
+  # - id: kim-ernst
+  #   name: Kim Ernst
+  #   letters: LCSW-A
+  #   title: Clinician
+  #   image: /headshots/headshot-kim2.jpg
+  #   email: kim.ernst@caladriustherapy.com
+  #   linkedin: https://www.linkedin.com/in/kimberly-y-k-ernst/
+  #   psychologytoday: https://www.psychologytoday.com/us/therapists/kimberly-ernst-charlotte-nc/866746
+  #   tagline: "My name is Kim (she/her) and I'm here to help guide you in overcoming life's challenges."
+  #   bio:
+  #     <p>
+  #       It's never easy to seek help for your mental health needs. I'm
+  #       here to guide you through this process and provide support through
+  #       your pain, recovery, transition, and path to improvement.
+  #     </p>
+  #     <p>
+  #       Life can be hard at times; you can feel lost and vulnerable. You
+  #       may want to give up or feel just burnt out. Whether you change
+  #       jobs, leave a difficult relationship, lose a special person in
+  #       your life, experience grief, move away, or are adjusting to a new
+  #       way of life, it can be tough to get through. We want to find our
+  #       true authentic selves and feel good instead of feeling the weight
+  #       of the world on our shoulders.
+  #     </p>
+  #     <p>
+  #       Some of us strive for excellence and perfection to the point that
+  #       we have unhealthy thoughts and habits, experience pressure to
+  #       always perform at high levels, and meet demands from others that
+  #       may damage our health – we start to feel we cannot sustain this
+  #       level of effort in all areas of our life. This leaves us feeling
+  #       down, feeling stressed, struggling to manage our emotions, hurting
+  #       relationships we do not mean to, and putting our needs and
+  #       self-care on the back burner. We often feel a sense of imposter
+  #       syndrome where we believe we do not deserve the success and
+  #       happiness we are experiencing; it becomes a barrier created by us
+  #       and affects our ability to achieve success and happiness.
+  #     </p>
+  #     <p>
+  #       You and I can work through these difficulties together. I work
+  #       with adults and adolescents experiencing anxiety, depression,
+  #       grief, trauma, identity issues, anger problems, PTSD, and
+  #       challenges while in a life transition. I love helping high
+  #       performers increase their resilience and enhance their
+  #       performance. I offer tailored organizational high-performance
+  #       presentations and workshops to maximize potential. As a veteran
+  #       myself, I especially enjoy working with other veterans. The change
+  #       process begins with you. Let's do this together, I'm here with
+  #       you!
+  #     </p>
+  #     <p>
+  #       <em>
+  #         Kimberly Ernst, a Licensed Clinical Social Worker Associate, is
+  #         a veteran who served 15 years in the Air Force and continues to
+  #         serve in the Reserves. Having lived on three different
+  #         continents during her time in the military has allowed her to
+  #         interact with multiple cultures and people of diverse
+  #         backgrounds. During her educational path, she completed her
+  #         Bachelor of Sociology at the American Military University and
+  #         her Master of Social Work at the University of North Carolina at
+  #         Charlotte (UNCC) with honors. Her specialties are military
+  #         mental health, high-performance consulting, PTSD, life
+  #         transitions, anxiety, life coaching, and trauma. Kim is a
+  #         lifelong learner and is pursuing her Ph.D. in Industrial and
+  #         Organizational Psychology to build professional knowledge in
+  #         leadership, teams, and performance. She promotes health
+  #         holistically and teaches indoor cycling part-time. Kim is
+  #         trained in Eye Movement Desensitization and Reprocessing (EMDR)
+  #         Therapy, and she is informed on Internal Family Systems (IFS)
+  #         Therapy. At this time, Kimberly is offering telehealth sessions
+  #         only.
+  #       </em>
+  #     </p>
 
   - id: kacey-scheuerman
     name: Kacey Scheuerman

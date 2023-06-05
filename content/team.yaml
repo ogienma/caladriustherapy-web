@@ -295,45 +295,45 @@ members:
         </em>
       </p>
 
-  - id: emma-braisted
-    name: Emma Braisted
-    letters: LCMHC-A
-    title: Clinician
-    image: /headshots/headshot-emma-braisted-500.jpg
-    email: emma.braisted@caladriustherapy.com
-    linkedin: https://www.linkedin.com/in/emma-braisted-m-ed-lcmhca-40b6215a/
-    psychologytoday: https://www.psychologytoday.com/us/therapists/emma-braisted-charlotte-nc/980903
-    tagline: "My name is Emma (she/her) and I'm here to help you discover and foster the healthiest version of yourself."
-    bio:
-      <p>
-        I applaud you for taking this courageous first step in recognizing
-        that you may need or want support to get to where you want to be.
-        My first goal as a therapist is to provide you a safe space to
-        simply exist as your truest self in whatever stage you may be at.
-        I understand the overwhelming emotions and anxieties that can be
-        experienced as a result of trauma, difficult life circumstances
-        and relationships, displacement, loss, or grief.
-      </p>
-      <p>
-        Our therapeutic relationship built in this space will serve as the
-        foundation for discovery and growth. Together, we will navigate
-        the complexities, anxieties, and transitions that life can
-        sometimes throw our way. I commit to holding space for your
-        emotions while encouraging and assisting you to decide what
-        necessary changes to make to become the healthiest and most
-        authentic version of yourself.
-      </p>
-      <p>
-        <em>
-          Emma Braisted, M.Ed, LCMHCA graduated from the University at
-          Buffalo with a Masters of Education in School Counseling in
-          2016. After six years as a School Counselor, Emma pursued her
-          Clinical Mental Health license to practice outside the scope of
-          a school setting. Emma has experience working with older
-          children, adolescents, adults, and families experiencing great
-          risk factors and trauma.
-        </em>
-      </p>
+#   - id: emma-braisted
+#     name: Emma Braisted
+#     letters: LCMHC-A
+#     title: Clinician
+#     image: /headshots/headshot-emma-braisted-500.jpg
+#     email: emma.braisted@caladriustherapy.com
+#     linkedin: https://www.linkedin.com/in/emma-braisted-m-ed-lcmhca-40b6215a/
+#     psychologytoday: https://www.psychologytoday.com/us/therapists/emma-braisted-charlotte-nc/980903
+#     tagline: "My name is Emma (she/her) and I'm here to help you discover and foster the healthiest version of yourself."
+#     bio:
+#       <p>
+#         I applaud you for taking this courageous first step in recognizing
+#         that you may need or want support to get to where you want to be.
+#         My first goal as a therapist is to provide you a safe space to
+#         simply exist as your truest self in whatever stage you may be at.
+#         I understand the overwhelming emotions and anxieties that can be
+#         experienced as a result of trauma, difficult life circumstances
+#         and relationships, displacement, loss, or grief.
+#       </p>
+#       <p>
+#         Our therapeutic relationship built in this space will serve as the
+#         foundation for discovery and growth. Together, we will navigate
+#         the complexities, anxieties, and transitions that life can
+#         sometimes throw our way. I commit to holding space for your
+#         emotions while encouraging and assisting you to decide what
+#         necessary changes to make to become the healthiest and most
+#         authentic version of yourself.
+#       </p>
+#       <p>
+#         <em>
+#           Emma Braisted, M.Ed, LCMHCA graduated from the University at
+#           Buffalo with a Masters of Education in School Counseling in
+#           2016. After six years as a School Counselor, Emma pursued her
+#           Clinical Mental Health license to practice outside the scope of
+#           a school setting. Emma has experience working with older
+#           children, adolescents, adults, and families experiencing great
+#           risk factors and trauma.
+#         </em>
+#       </p>
 
   - id: amy-travis
     name: Amy Travis

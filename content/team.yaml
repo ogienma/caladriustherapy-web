@@ -574,39 +574,39 @@ members:
         </em>
       </p>
 
-  - id: kaitlyn-miller
-    name: Kaitlyn Miller
-    letters: LCSW-A
-    title: Clinician
-    image: /headshots/headshot-kaitlyn-cannon-500.jpg
-    email: kaitlyn.miller@caladriustherapy.com
-    linkedin: https://www.linkedin.com/in/kaitlyngcannon/
-    psychologytoday: https://www.psychologytoday.com/us/therapists/kaitlyn-cannon-charlotte-nc/1035292
-    tagline: "My name is Kaitlyn (she/her) and I am here to help you process uncomfortable feelings and support you in finding your most authentic self."
-    bio:
-      <p>
-        Often, people experience stress and anxiety if they believe they do not live up to others' expectations of them. It can feel extremely isolating if you think you are outside of the "normal". I believe that "normal" is subjective, and that there is no standard "normal". I enjoy working with clients who are wanting to embrace the parts of themselves that they've been conditioned to keep private.
-      </p>
-      <p>
-        I see strength in vulnerability. I think there is so much to be said for a person who is able to acknowledge the pain that they've been through. Without doing so, it can be difficult to learn, heal, and grow.
-      </p>
-      <p>
-        Certain events in our lives can alter the way we view ourselves, others, and the world around us. We all deserve peace. We all deserve to feel safe. We all deserve to feel whole. As humans, we were not made to carry our burdens alone. I am here to help you process your trauma as you rediscover yourself. I can teach you coping skills and offer support.
-      </p>
-      <p>
-        I offer a person-centered approach and incorporate skills of CBT, DBT, ACT, and other modalities into my practice. Additionally, I am able to perform EMDR, which is an evidence-based treatment that is recommended to treat trauma, anxiety, depression, and other mental health concerns. I also have a therapy dog named Kay. She is the goodest girl/co-worker.  She is an English golden retriever who can sit in on session upon request. 
-      </p>
-      <p>
-        The intersection between trauma and identity cannot be denied. As a queer woman, I am also passionate about helping LGBTQ+ individuals navigate their traumatic life events. Additionally, I am passionate about helping those who have been impacted by image-based sexual abuse. 
-      </p>
-      <p>
-        I am here to remind you that you are not what happened to you. I am here to help you recognize and hone in on your resilience and strength. 
-      </p>
-      <p>
-        <em>
-          Kaitlyn Miller, LCSWA received her Masters of Social Work from The University of North Carolina at Charlotte in 2023. She has completed CBT training for depression and suicide from the Beck Institute, and she received training in EMDR from an EMDRIA-approved organization. Kaitlyn's clinical focus has been with members of the LGBTQIA+ population and those who have experienced sexual abuse. Kaitlyn has worked as a Crisis Counselor for Crisis Text Line, and has extensive experience advocating for and working with victims of image-based sexual abuse (i.e revenge porn). She has served as a panelist, moderator, and reviewer of literature for cyber sexual abuse conferences/organizations. 
-        </em>
-      </p>
+  # - id: kaitlyn-miller
+  #   name: Kaitlyn Miller
+  #   letters: LCSW-A
+  #   title: Clinician
+  #   image: /headshots/headshot-kaitlyn-cannon-500.jpg
+  #   email: kaitlyn.miller@caladriustherapy.com
+  #   linkedin: https://www.linkedin.com/in/kaitlyngcannon/
+  #   psychologytoday: https://www.psychologytoday.com/us/therapists/kaitlyn-cannon-charlotte-nc/1035292
+  #   tagline: "My name is Kaitlyn (she/her) and I am here to help you process uncomfortable feelings and support you in finding your most authentic self."
+  #   bio:
+  #     <p>
+  #       Often, people experience stress and anxiety if they believe they do not live up to others' expectations of them. It can feel extremely isolating if you think you are outside of the "normal". I believe that "normal" is subjective, and that there is no standard "normal". I enjoy working with clients who are wanting to embrace the parts of themselves that they've been conditioned to keep private.
+  #     </p>
+  #     <p>
+  #       I see strength in vulnerability. I think there is so much to be said for a person who is able to acknowledge the pain that they've been through. Without doing so, it can be difficult to learn, heal, and grow.
+  #     </p>
+  #     <p>
+  #       Certain events in our lives can alter the way we view ourselves, others, and the world around us. We all deserve peace. We all deserve to feel safe. We all deserve to feel whole. As humans, we were not made to carry our burdens alone. I am here to help you process your trauma as you rediscover yourself. I can teach you coping skills and offer support.
+  #     </p>
+  #     <p>
+  #       I offer a person-centered approach and incorporate skills of CBT, DBT, ACT, and other modalities into my practice. Additionally, I am able to perform EMDR, which is an evidence-based treatment that is recommended to treat trauma, anxiety, depression, and other mental health concerns. I also have a therapy dog named Kay. She is the goodest girl/co-worker.  She is an English golden retriever who can sit in on session upon request. 
+  #     </p>
+  #     <p>
+  #       The intersection between trauma and identity cannot be denied. As a queer woman, I am also passionate about helping LGBTQ+ individuals navigate their traumatic life events. Additionally, I am passionate about helping those who have been impacted by image-based sexual abuse. 
+  #     </p>
+  #     <p>
+  #       I am here to remind you that you are not what happened to you. I am here to help you recognize and hone in on your resilience and strength. 
+  #     </p>
+  #     <p>
+  #       <em>
+  #         Kaitlyn Miller, LCSWA received her Masters of Social Work from The University of North Carolina at Charlotte in 2023. She has completed CBT training for depression and suicide from the Beck Institute, and she received training in EMDR from an EMDRIA-approved organization. Kaitlyn's clinical focus has been with members of the LGBTQIA+ population and those who have experienced sexual abuse. Kaitlyn has worked as a Crisis Counselor for Crisis Text Line, and has extensive experience advocating for and working with victims of image-based sexual abuse (i.e revenge porn). She has served as a panelist, moderator, and reviewer of literature for cyber sexual abuse conferences/organizations. 
+  #       </em>
+  #     </p>
   
   # - id: kim-ernst
   #   name: Kim Ernst

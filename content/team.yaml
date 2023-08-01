@@ -93,6 +93,24 @@ members:
         basis to invite feedback and encourage open communication.
       </p>
 
+  - id: kelsey-cuomo
+    name: Kelsey Cuomo
+    letters: LCSW-A
+    title: Clinician
+    image: /headshots/headshot-kelsey-cuomo-500.jpg
+    email: kelsey.cuomo@caladriustherapy.com
+    linkedin: https://www.linkedin.com
+    psychologytoday: https://www.psychologytoday.com
+    tagline: "Hello, I'm Kelsey (she/her). You are not 'too much' No matter your struggles, you deserve to take up space, and I am here to help you find joy."
+    bio:
+      <p>
+        You may notice that you feel numb or helpless from a broken relationship or a new diagnosis (mental or physical). Or you may feel trapped reliving a traumatic experience. Maybe you recently lost a loved one and are grieving the life that was and could have been. Whatever it is, I'm here to support you on this journey.      </p>
+      <p>
+        I aim to meet you where you are and give you the space to flourish. My holistic and strengths-based approach combines wellness practices with trauma-informed modalities to facilitate your healing process. In addition, as a sex positive, LGBTQIA+ affirming, kink/BDSM, and ethical non-monogamous competent therapist, I value providing a safe, confidential, and supportive space for all. In our sessions, I will happily use meditation floor cushions, a weighted blanket, or snacks to create an environment conducive to processing your experiences. My ultimate goal is to guide you from a place of discomfort to a place of healing.      </p>
+      <p>
+        <em>
+         Kelsey Cuomo, MSW, LCSW-A, holds a Master of Social Work degree from Winthrop University and a Bachelor's in Social Work from Xavier University. Kelsey has experience working with parents who have experienced the loss of a child, prenatal diagnoses, and birth trauma in the NICU and postpartum care setting. Kelsey is a Certified Clinical Trauma Professional-Level II with experience in healing from intimate partner violence, CPTSD, and more. She has also received training in trauma-informed mindfulness and somatic therapy. She is working towards her certification in EMDR and pursuing a Kink Conscious Certification, further broadening her ability to provide comprehensive and inclusive therapeutic support.</em>
+      </p>
 
   - id: molly-carroll
     name: Molly Carroll
@@ -100,8 +118,8 @@ members:
     title: Clinician
     image: /headshots/headshot-molly-carroll-500.jpg
     email: molly.carroll@caladriustherapy.com
-    linkedin: https://www.linkedin.com/in/molly-carroll-0b1a1a1b6/
-    psychologytoday: https://www.psychologytoday.com/us/therapists/molly-carroll-charlotte-nc/797097
+    linkedin: https://www.linkedin.com
+    psychologytoday: https://www.psychologytoday.com
     tagline: "My name is Molly (she/her) and I am here to support you in your unfolding story."
     bio:
       <p>

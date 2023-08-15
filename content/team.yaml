@@ -113,13 +113,13 @@ members:
       </p>
 
   - id: molly-carroll
-    name: Molly Carroll
+    name: Mary "Molly" Carroll
     letters: LCSW-A
     title: Clinician
     image: /headshots/headshot-molly-carroll-500.jpg
     email: molly.carroll@caladriustherapy.com
-    linkedin: https://www.linkedin.com
-    psychologytoday: https://www.psychologytoday.com
+    # linkedin: https://www.linkedin.com
+    # psychologytoday: https://www.psychologytoday.com
     tagline: "My name is Molly (she/her) and I am here to support you in your unfolding story."
     bio:
       <p>
@@ -347,94 +347,94 @@ members:
         </em>
       </p>
 
-#   - id: emma-braisted
-#     name: Emma Braisted
-#     letters: LCMHC-A
-#     title: Clinician
-#     image: /headshots/headshot-emma-braisted-500.jpg
-#     email: emma.braisted@caladriustherapy.com
-#     linkedin: https://www.linkedin.com/in/emma-braisted-m-ed-lcmhca-40b6215a/
-#     psychologytoday: https://www.psychologytoday.com/us/therapists/emma-braisted-charlotte-nc/980903
-#     tagline: "My name is Emma (she/her) and I'm here to help you discover and foster the healthiest version of yourself."
-#     bio:
-#       <p>
-#         I applaud you for taking this courageous first step in recognizing
-#         that you may need or want support to get to where you want to be.
-#         My first goal as a therapist is to provide you a safe space to
-#         simply exist as your truest self in whatever stage you may be at.
-#         I understand the overwhelming emotions and anxieties that can be
-#         experienced as a result of trauma, difficult life circumstances
-#         and relationships, displacement, loss, or grief.
-#       </p>
-#       <p>
-#         Our therapeutic relationship built in this space will serve as the
-#         foundation for discovery and growth. Together, we will navigate
-#         the complexities, anxieties, and transitions that life can
-#         sometimes throw our way. I commit to holding space for your
-#         emotions while encouraging and assisting you to decide what
-#         necessary changes to make to become the healthiest and most
-#         authentic version of yourself.
-#       </p>
-#       <p>
-#         <em>
-#           Emma Braisted, M.Ed, LCMHCA graduated from the University at
-#           Buffalo with a Masters of Education in School Counseling in
-#           2016. After six years as a School Counselor, Emma pursued her
-#           Clinical Mental Health license to practice outside the scope of
-#           a school setting. Emma has experience working with older
-#           children, adolescents, adults, and families experiencing great
-#           risk factors and trauma.
-#         </em>
-#       </p>
+  #   - id: emma-braisted
+  #     name: Emma Braisted
+  #     letters: LCMHC-A
+  #     title: Clinician
+  #     image: /headshots/headshot-emma-braisted-500.jpg
+  #     email: emma.braisted@caladriustherapy.com
+  #     linkedin: https://www.linkedin.com/in/emma-braisted-m-ed-lcmhca-40b6215a/
+  #     psychologytoday: https://www.psychologytoday.com/us/therapists/emma-braisted-charlotte-nc/980903
+  #     tagline: "My name is Emma (she/her) and I'm here to help you discover and foster the healthiest version of yourself."
+  #     bio:
+  #       <p>
+  #         I applaud you for taking this courageous first step in recognizing
+  #         that you may need or want support to get to where you want to be.
+  #         My first goal as a therapist is to provide you a safe space to
+  #         simply exist as your truest self in whatever stage you may be at.
+  #         I understand the overwhelming emotions and anxieties that can be
+  #         experienced as a result of trauma, difficult life circumstances
+  #         and relationships, displacement, loss, or grief.
+  #       </p>
+  #       <p>
+  #         Our therapeutic relationship built in this space will serve as the
+  #         foundation for discovery and growth. Together, we will navigate
+  #         the complexities, anxieties, and transitions that life can
+  #         sometimes throw our way. I commit to holding space for your
+  #         emotions while encouraging and assisting you to decide what
+  #         necessary changes to make to become the healthiest and most
+  #         authentic version of yourself.
+  #       </p>
+  #       <p>
+  #         <em>
+  #           Emma Braisted, M.Ed, LCMHCA graduated from the University at
+  #           Buffalo with a Masters of Education in School Counseling in
+  #           2016. After six years as a School Counselor, Emma pursued her
+  #           Clinical Mental Health license to practice outside the scope of
+  #           a school setting. Emma has experience working with older
+  #           children, adolescents, adults, and families experiencing great
+  #           risk factors and trauma.
+  #         </em>
+  #       </p>
 
-  - id: amy-travis
-    name: Amy Travis
-    letters: LCSW
-    title: Senior Clinician
-    image: /headshots/headshot-amy-travis-500.jpg
-    email: amy.travis@caladriustherapy.com
-    linkedin: https://www.linkedin.com/in/amy-travis-88441316/
-    psychologytoday: https://www.psychologytoday.com/us/therapists/amy-wright-travis-charlotte-nc/983156
-    tagline: "Hi, I'm Amy (she/her) and I am here to walk alongside you in your therapeutic journey."
-    bio:
-      <p>
-        <em>
-          “It is the client who knows what hurts, what directions to go,
-          what problems are crucial, what experiences have been deeply
-          buried.”
-        </em>
-        -Carl Rogers
-      </p>
-      <p>
-        There are times where we don't know where our life is going. We
-        feel stuck, and are struggling with life transitions, anxiety,
-        depression, grief, and trauma. We know something is wrong but
-        aren't equipped with the tools needed in order to feel like
-        ourselves again. This is where I can help in your walk through
-        those uncomfortable emotions and into self-growth and healing.
-      </p>
-      <p>
-        I work with clients who are experiencing anxiety, depression,
-        difficulty adjusting to life transitions, and traumatic evets. I
-        utilize a person-centered approach in which the client sets the
-        focus and direction of each session. I feel that one of the most
-        important parts of therapy is the relationship between client and
-        therapist in forming good rapport. Each client needs to feel both
-        validated and supported in order to open up about what they're
-        experiencing. Throughout the therapeutic process, my goal is to be
-        warm, empathetic, and informed.
-      </p>
-      <p>
-        <em>
-          Amy Travis, MSW, LCSW graduated from Radford University's Master
-          of Social Work program located in southwest Virginia. Amy has
-          extensive experience working as a clinician in the school-based
-          setting, as well as intensive in-home setting. She has
-          experience with adults and adolescents. She has experience
-          working with a wide range of mental health diagnoses and diverse
-          populations and specializes in trauma.
-        </em>
-      </p>
+  # - id: amy-travis
+  #   name: Amy Travis
+  #   letters: LCSW
+  #   title: Senior Clinician
+  #   image: /headshots/headshot-amy-travis-500.jpg
+  #   email: amy.travis@caladriustherapy.com
+  #   linkedin: https://www.linkedin.com/in/amy-travis-88441316/
+  #   psychologytoday: https://www.psychologytoday.com/us/therapists/amy-wright-travis-charlotte-nc/983156
+  #   tagline: "Hi, I'm Amy (she/her) and I am here to walk alongside you in your therapeutic journey."
+  #   bio:
+  #     <p>
+  #       <em>
+  #         “It is the client who knows what hurts, what directions to go,
+  #         what problems are crucial, what experiences have been deeply
+  #         buried.”
+  #       </em>
+  #       -Carl Rogers
+  #     </p>
+  #     <p>
+  #       There are times where we don't know where our life is going. We
+  #       feel stuck, and are struggling with life transitions, anxiety,
+  #       depression, grief, and trauma. We know something is wrong but
+  #       aren't equipped with the tools needed in order to feel like
+  #       ourselves again. This is where I can help in your walk through
+  #       those uncomfortable emotions and into self-growth and healing.
+  #     </p>
+  #     <p>
+  #       I work with clients who are experiencing anxiety, depression,
+  #       difficulty adjusting to life transitions, and traumatic evets. I
+  #       utilize a person-centered approach in which the client sets the
+  #       focus and direction of each session. I feel that one of the most
+  #       important parts of therapy is the relationship between client and
+  #       therapist in forming good rapport. Each client needs to feel both
+  #       validated and supported in order to open up about what they're
+  #       experiencing. Throughout the therapeutic process, my goal is to be
+  #       warm, empathetic, and informed.
+  #     </p>
+  #     <p>
+  #       <em>
+  #         Amy Travis, MSW, LCSW graduated from Radford University's Master
+  #         of Social Work program located in southwest Virginia. Amy has
+  #         extensive experience working as a clinician in the school-based
+  #         setting, as well as intensive in-home setting. She has
+  #         experience with adults and adolescents. She has experience
+  #         working with a wide range of mental health diagnoses and diverse
+  #         populations and specializes in trauma.
+  #       </em>
+  #     </p>
 
   - id: tatim-lace
     name: Tatim Lace
@@ -497,72 +497,72 @@ members:
         </em>
       </p>
 
-  - id: maddy-kostur
-    name: Maddy Kostur
-    letters: LCSW-A
-    title: Clinician
-    image: /headshots/headshot-maddy-kostur-500.jpg
-    email: madalyn.kostur@caladriustherapy.com
-    psychologytoday: https://www.psychologytoday.com/us/therapists/maddy-kostur-charlotte-nc/890410
-    tagline: "My name is Maddy (she/her) and I am here to walk with you and your family through life's ups and downs."
-    bio: "
-      <p>
-          <em>
-            “There is no greater work human hands can do than to hold a
-            child with a fierce tenderness that says in a way words never
-            can: 'you are loved', 'you are safe', 'you can trust'.”
-          </em>
-          -Parker Palmer
-        </p>
-        <p>
-          Every child deserves to be a child - to feel safe, loved, and to
-          experience the world through a lens filled with wonder, joy and
-          curiosity. When trauma occurs, it can affect every fiber of a
-          child's being, causing chaos and disruption to their childhood. It
-          can often feel impossible to know where to begin to start the
-          healing process. That is why I am here - to help your child
-          untangle and process the jumbled and complicated emotions that
-          trauma can cause. Through processing with your child, we will
-          explore emotions and experiences that will help them heal,
-          increase their sense of safety and security, and learn skills to
-          help them cope with intense moments of emotions.
-        </p>
-        <p>
-          I use a child-centered approach, meaning I meet each child where
-          they are with empathy and understanding, taking into account every
-          factor playing a role in their life. In the playroom, your child
-          gets to be fully, authentically them - without judgement and
-          taking the lead. In play therapy, we use the language that all
-          children are fluent in - play. Finding words to fully express how
-          trauma has affected an individual is difficult for anyone,
-          especially a child who might not yet have the vocabulary to
-          process their experiences.The playroom is a place for the child to
-          experience control over the situations and emotions in their life
-          that produce chaos and unease, all the while feeling in their
-          element, surrounded by toys, games, and books familiar to them.
-        </p>
-        <p>
-          Your child and family's stories are precious and deserve to be
-          held with the utmost respect. To be entrusted to walk alongside
-          you and your child as they navigate their past stories, their
-          current stories, and their future stories is the greatest honor.
-        </p>
-        <p>
-          <em>
-            Madalyn Kostur, MSW, LCSWA graduated from the University of
-            North Carolina at Charlotte with a Master of Social Work and a
-            graduate certificate in Play Therapy. She specializes in working
-            with children and adolescents ages 3 and up. She is trained in
-            multiple approaches of play therapy, including Child-Centered
-            Play Therapy, Child-Parent Relationship Training, Expressive
-            Arts Therapy, and Sand Tray Therapy. She is also trained in EMDR
-            and TF-CBT. She specializes in working with children and
-            families who have had DSS involvement as well as adoptees and
-            has extensive experience working with different child welfare
-            programs, including Youth and Family Services, Guardian ad Litem
-            programs, and non-profit organizations.
-          </em>
-        </p>"
+  # - id: maddy-kostur
+  #   name: Maddy Kostur
+  #   letters: LCSW-A
+  #   title: Clinician
+  #   image: /headshots/headshot-maddy-kostur-500.jpg
+  #   email: madalyn.kostur@caladriustherapy.com
+  #   psychologytoday: https://www.psychologytoday.com/us/therapists/maddy-kostur-charlotte-nc/890410
+  #   tagline: "My name is Maddy (she/her) and I am here to walk with you and your family through life's ups and downs."
+  #   bio: "
+  #     <p>
+  #         <em>
+  #           “There is no greater work human hands can do than to hold a
+  #           child with a fierce tenderness that says in a way words never
+  #           can: 'you are loved', 'you are safe', 'you can trust'.”
+  #         </em>
+  #         -Parker Palmer
+  #       </p>
+  #       <p>
+  #         Every child deserves to be a child - to feel safe, loved, and to
+  #         experience the world through a lens filled with wonder, joy and
+  #         curiosity. When trauma occurs, it can affect every fiber of a
+  #         child's being, causing chaos and disruption to their childhood. It
+  #         can often feel impossible to know where to begin to start the
+  #         healing process. That is why I am here - to help your child
+  #         untangle and process the jumbled and complicated emotions that
+  #         trauma can cause. Through processing with your child, we will
+  #         explore emotions and experiences that will help them heal,
+  #         increase their sense of safety and security, and learn skills to
+  #         help them cope with intense moments of emotions.
+  #       </p>
+  #       <p>
+  #         I use a child-centered approach, meaning I meet each child where
+  #         they are with empathy and understanding, taking into account every
+  #         factor playing a role in their life. In the playroom, your child
+  #         gets to be fully, authentically them - without judgement and
+  #         taking the lead. In play therapy, we use the language that all
+  #         children are fluent in - play. Finding words to fully express how
+  #         trauma has affected an individual is difficult for anyone,
+  #         especially a child who might not yet have the vocabulary to
+  #         process their experiences.The playroom is a place for the child to
+  #         experience control over the situations and emotions in their life
+  #         that produce chaos and unease, all the while feeling in their
+  #         element, surrounded by toys, games, and books familiar to them.
+  #       </p>
+  #       <p>
+  #         Your child and family's stories are precious and deserve to be
+  #         held with the utmost respect. To be entrusted to walk alongside
+  #         you and your child as they navigate their past stories, their
+  #         current stories, and their future stories is the greatest honor.
+  #       </p>
+  #       <p>
+  #         <em>
+  #           Madalyn Kostur, MSW, LCSWA graduated from the University of
+  #           North Carolina at Charlotte with a Master of Social Work and a
+  #           graduate certificate in Play Therapy. She specializes in working
+  #           with children and adolescents ages 3 and up. She is trained in
+  #           multiple approaches of play therapy, including Child-Centered
+  #           Play Therapy, Child-Parent Relationship Training, Expressive
+  #           Arts Therapy, and Sand Tray Therapy. She is also trained in EMDR
+  #           and TF-CBT. She specializes in working with children and
+  #           families who have had DSS involvement as well as adoptees and
+  #           has extensive experience working with different child welfare
+  #           programs, including Youth and Family Services, Guardian ad Litem
+  #           programs, and non-profit organizations.
+  #         </em>
+  #       </p>"
 
   - id: emily-lee
     name: Emily Lee

@@ -63,6 +63,16 @@ const AboutPage: React.FC<PageProps> = () => {
                       </a>
                     </li>
                   )}
+                  {member.instagram && (
+                    <li>
+                      <a
+                        href={member.instagram}
+                        className="button small solid icon brands fa-instagram"
+                      >
+                        Instagram
+                      </a>
+                    </li>
+                  )}
                 </ul>
                 <p>{member.tagline}</p>
                 <Text noOfLines={showBio[member.id] ? 0 : 5}>

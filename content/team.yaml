@@ -113,7 +113,7 @@ members:
       </p>
 
   - id: molly-carroll
-    name: Mary "Molly" Carroll
+    name: Mary `Molly` Carroll
     letters: LCSW-A
     title: Clinician
     image: /headshots/headshot-molly-carroll-500.jpg
@@ -140,6 +140,22 @@ members:
         <em>
           Molly Carroll, MSW, LCSW-A, graduated from The University of North Carolina at Chapel Hill with her Master of Social Work degree. She received her Bachelor of Social Work degree from Belmont University in Nashville, TN. Molly specializes in working with children, adolescents, and young adults seeking to heal from the impacts of complex trauma. Molly has a wide range of experiences from working in schools to help children regulate their behavior and emotions to supporting individuals experiencing mental health crises in an urgent care setting.
         </em>
+      </p>
+
+  - id: amara-janel
+    name: Amara Janel
+    title: Trauma-Informed Yoga (TIY) Instructor
+    image: /headshots/headshot-amara-janel-500.jpg
+    email: amara.janel@caladriustherapy.com
+    # linkedin: https://www.linkedin.com
+    # psychologytoday: https://www.psychologytoday.com
+    tagline: "Greetings! My name is Amara, and I am here to assist you in creating a healthy mind and body connection through breath, movement & mindful meditations."
+    bio:
+      <p>
+        My all-time favorite mantra is "Movement is Medicine".
+      </p>
+      <p>
+        I believe that when we move the body, we are able to understand more of how we personally feel from within; we're able to notice our emotions through our breath, release tension through stretching the body, and clear the mind for just a moment through meditation. Within a trauma-informed yoga session, we can experience different ways to not only regulate your nervous system, but most importantly find peace in the middle of your daily lives.
       </p>
 
   - id: madalyn-twist

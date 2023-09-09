@@ -114,18 +114,15 @@ const Nav: FC<IProps> = () => {
                 >
                   Life Transitions
                 </a>
-                <a
-                  className="navbar-item"
-                  href="/community-partners#community-partners-body"
-                >
-                  Community Partners
-                </a>
                 <hr className="navbar-divider" />
                 <a className="navbar-item" href="/#services">
                   All Services
                 </a>
               </div>
             </div>
+            <a className="navbar-item" href="/community-partners#community-partners-body">
+            Community Partners
+            </a>
             <a className="navbar-item" href="https://caladrius.clientsecure.me">
               Current Client Portal
             </a>

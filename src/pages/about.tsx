@@ -27,10 +27,14 @@ const AboutPage: React.FC<PageProps> = () => {
               id={member.id}
             >
               <div className="content">
-              <span><h2 style={{display: "inline"}}>{member.name},</h2><h3 style={{display: "inline", marginLeft: "0.25em"}}>{member.letters}</h3></span>
-
+              <span><h2 style={{display: "inline"}}>{member.name}</h2>
+              {member.letters && (
+                <h2>,</h2>
+                <h3 style={{display: "inline", marginLeft: "0.25em"}}>{member.letters}</h3>
+              )}
+              </span>
               {/* <span><h2 style={{display: "inline"}}>{member.name}</h2><h3 style={{display: "inline", marginLeft: "0.25em", color: "#aeaeae"}}>{member.letters}</h3></span> */}
-              <h4>{member.title}</h4>
+              {member.title && (<h4>{member.title}</h4>)}
                 {/* <span><h2 style={{display: "inline"}}>{member.name}</h2>    <h4 style={{display: "inline"}}>{member.title}</h4></span> */}
                 <ul className="actions">
                   {member.email && (

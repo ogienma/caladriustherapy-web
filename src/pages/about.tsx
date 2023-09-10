@@ -29,10 +29,10 @@ const AboutPage: React.FC<PageProps> = () => {
               <div className="content">
               <span><h2 style={{display: "inline"}}>{member.name}</h2>
               {member.letters && (
-                <>
+                <span>
                   <h2>,</h2>
                   <h3 style={{display: "inline", marginLeft: "0.25em"}}>{member.letters}</h3>
-                </>
+                </span>
               )}
               </span>
               {/* <span><h2 style={{display: "inline"}}>{member.name}</h2><h3 style={{display: "inline", marginLeft: "0.25em", color: "#aeaeae"}}>{member.letters}</h3></span> */}

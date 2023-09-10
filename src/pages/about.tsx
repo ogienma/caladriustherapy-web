@@ -27,13 +27,13 @@ const AboutPage: React.FC<PageProps> = () => {
               id={member.id}
             >
               <div className="content">
-              <span><h2 style={{display: "inline"}}>{member.name}</h2>
+              <span><h2 style={{display: "inline"}}>{member.name}
               {member.letters && (
-                <span>
+                <>
                   <h2>,</h2>
                   <h3 style={{display: "inline", marginLeft: "0.25em"}}>{member.letters}</h3>
-                </span>
-              )}
+                </>
+              )}</h2>
               </span>
               {/* <span><h2 style={{display: "inline"}}>{member.name}</h2><h3 style={{display: "inline", marginLeft: "0.25em", color: "#aeaeae"}}>{member.letters}</h3></span> */}
               {member.title && (<h4>{member.title}</h4>)}

@@ -58,6 +58,24 @@ members:
         </em>
       </p>
 
+  - id: Sav-Raynor
+    name: Sav Raynor
+    letters: LCSW
+    title: Senior Clinician
+    image: /headshots/headshot-sav-raynor-500.jpg
+    email: sav.raynor@caladriustherapy.com
+    # linkedin: https://www.linkedin.com
+    # psychologytoday: https://www.psychologytoday.com
+    tagline: "Hi, I'm Sav (she/her) and I'm here to help you find your voice."
+    bio:
+      <p>
+      <p>
+      <p>
+        <em>
+         Sav is joining the Caladrius Therapy team at Dilworth soon!
+         </em>
+      </p>
+
   - id: kelsey-cuomo
     name: Kelsey Cuomo
     letters: LCSW-A

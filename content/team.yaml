@@ -66,9 +66,10 @@ members:
     email: sav.raynor@caladriustherapy.com
     # linkedin: https://www.linkedin.com
     # psychologytoday: https://www.psychologytoday.com
-    tagline: "Hi, I'm Sav (she/her) and I'm here to help you find your voice."
+    tagline: "Hi, I'm Sav (she/they) and I'm here to help you find your voice."
     bio:
       <p>
+        We are the authors of an ever evolving narrative, rich in identity and possibility and I can't wait to bear witness to your story as your therapist and intentionally chosen audience.
       <p>
       <p>
         <em>
@@ -96,7 +97,7 @@ members:
       </p>
 
   - id: molly-carroll
-    name: Mary 'Molly' Carroll
+    name: Mary 'Molly' Carroll 
     letters: LCSW-A
     title: Clinician
     image: /headshots/headshot-molly-carroll-500.jpg
@@ -144,7 +145,7 @@ members:
       </p>
       <p>
         <em>
-          Hi, my name is Robin (she/her), and I am here to provide support and encouragement as you navigate life challenges with openness and acceptance as you continue to heal, grow, and evolve.
+          Robin Boulware-Abraham, MA, LCMHC-A, graduated from the University of North Carolina at Charlotte with her Master's of Art in Counseling and Graduate Certification in Gerontology as well as her Bachelor's of Science in Psychology. Robin specializes in Child Centered play therapy and has experience working with children, adolescents, and adults in various settings. She is working towards becoming a Registered Play Therapist to broaden her training and experience working with children, families, and adults.
         </em>
       </p>
 

@@ -49,16 +49,16 @@ members:
           University. He utilizes a person-centered approach which
           involves placing emphasis on strength building, self awareness,
           accountability, and authenticity. He has over 8 years of
-          experience working with individuals across all ages. His
+          experience working with individuals of all ages. His
           experience in the Mental Health field includes individual, group
           and family counseling. He provides support with Stress
           Management, Depression, Cultural Specific issues, and Anxiety.
-          He offers both in person and Tele-Health services to fit the
+          He offers both in-person and Tele-Health services to fit the
           needs of each client.
         </em>
       </p>
 
-  - id: Sav-Raynor
+  - id: sav-raynor
     name: Sav Raynor
     letters: MS, LMFT, RYT 200
     title: Senior Clinician
@@ -86,6 +86,31 @@ members:
         <em>
          Sav spent 6 years at East Carolina University, studying Recreational Therapy in their undergraduate degree, pursuing minors in addiction studies, human development and family relations, and psychology. Sav became interested in the significance of relationships, identity formation, and biopsychosocial-spiritual systems, which led her to pursuing their Master's in Marriage and Family Therapy and certification in medical family therapy. Sav worked in various clinical settings applying skills from their 200 RYT yoga training, mindfulness, and adventure recreation to the psychological healing of individuals after physical and mental traumas. Sav continues to apply knowledge from the concentration of Medical Family Therapy to help individuals create Biopsychosocial-spiritual balance, as they navigate comorbidities in their encompassing health.
         </em>
+      </p>
+
+ - id: carlee-wetzler
+    name: Carlee Wetzler
+    letters: LCMHCA
+    title: Clinician
+    image: /headshots/headshot-carlee-wetzler-500.jpg
+    email: carlee.wetzler@caladriustherapy.com
+    # linkedin: https://www.linkedin.com
+    # psychologytoday: https://www.psychologytoday.com
+    tagline: "Hey ya'll! I'm Carlee (she/her)!"
+    bio:
+      <p>
+        I’m an experienced, passionate, enthusiastic, counselor with over 8 years of counseling experience working with students in Union and Mecklenburg County schools. I am a Charlotte, NC native, but consider Charleston my second home after attending college and meeting my husband there!
+      </p>
+      <p>
+        As your counselor, I am here to support you in creating meaning, finding comfort, and uncovering resources to help you be your best self. I enjoy working with a diverse population of high school-aged teens and young adults. My areas of specialty include anxiety, depression, grief, career struggles, and life transitions.
+      </p>
+      <p>
+         I have an eclectic approach drawing on multiple theoretical orientations and techniques including Solution Focused-Brief Therapy, Cognitive Behavioral Therapy, Acceptance and Commitment Therapy, Dialectical Behavioral Therapy, Person Centered, and Gestalt therapies. During sessions we will use the most effective methods to address your individual needs. I believe that all the answers are within you, and, together, we will create a plan to discover what you need to live a meaningful, healthy and purpose filled life. During sessions some unique approaches we may use include play therapy, mindfulness activities, interactive games and tools, and going outside.      </p>
+      <p>
+         Outside of the therapy office I enjoy traveling, live music, cooking for others, and running. I have an ambitious goal of running a half marathon in every state (I’ve done 13 already)! For self-care I enjoy sleeping in, treating myself to iced coffee, comfort watching television, and long walks around my neighborhood listening to music and podcasts.      </p>
+      <p>
+        <em>
+        Carlee Wetzler, LCMHCA graduated from Lenoir Rhyne University with a Master of Arts in Counseling after completing a BS in Sociology from Charleston Southern University. She has 8 years post-graduate experience working with children, teens, and families. She has advanced certification as a Grief Specialist. She loves working with teens and adolescents as well as adults.         </em>
       </p>
 
   - id: kelsey-cuomo

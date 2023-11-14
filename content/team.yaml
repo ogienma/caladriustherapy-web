@@ -427,66 +427,66 @@ members:
         </em>
       </p>
 
-  - id: tatim-lace
-    name: Tatim Lace
-    letters: LCSW-A
-    title: Clininical Team Lead - South Park, Clinician
-    image: /headshots/headshot-tatim-lace-500.jpg
-    email: tatim.lace@caladriustherapy.com
-    linkedin: https://www.linkedin.com/in/tatimlace/
-    psychologytoday: https://www.psychologytoday.com/us/therapists/tatim-lace-charlotte-nc/944737
-    tagline: "My name is Tatim (he/they) and I'm here to let you know you're not alone."
-    bio:
-      <p>
-        Growing up a queer kid in a rural area shaped the person I am
-        today. In my adulthood, I became aware of the power of my own
-        resilience, and the protective factors that enabled me to get to
-        where I am today. I want to help other people who have been
-        through difficult experiences discover the power of their own
-        resilience as well.
-      </p>
-      <p>
-        We might be a good fit if you're struggling with personal
-        relationships or feeling alone in your journey. You may be stuck
-        in a painful past or struggling with sorting out who you are. You
-        might be searching for a different perspective or someone to
-        validate your experience. I believe in the power of building up
-        your resiliency toolbox and finding light at the end of the tunnel
-        together. Each life stage and relationship offers different
-        rewards and challenges that I enjoy working with. Navigating those
-        life stages can be more complex for those struggling with identity
-        and social ostracization. The LGBTQIA+ community is the most near
-        and dear to my heart.
-      </p>
-      <p>
-        I offer a unique clinical and lived experience with a wide variety
-        of complex issues and populations. My clinical instinct operates
-        through a systemic lens. I come from a background working with
-        families to address tough issues related to juvenile justice and
-        DSS involvement. I enjoy helping people find relief and a better
-        way forward. I also enjoy going deep and helping people make sense
-        of their root traumas that may be holding them back. I enjoy
-        practical application and skill-building through CBT and DBT
-        modalities. Much of my experience has been assisting people with
-        finding and practicing communication and coping skills to
-        strengthen their relationships with family, friends, and
-        themselves. I am passionate about helping families and couples
-        have difficult, but necessary conversations. I often challenge my
-        clients to consider circumstances from different angles and guide
-        them out of their comfort zones.
-      </p>
-      <p>
-        <em>
-          Tatim Lace, MSW, LCSW-A graduated from Marywood University in
-          Scranton, PA with a BA in communications and from Appalachian
-          State University with a Masters of Social Work degree and a dual
-          focus in community and clinical social work. He is experienced
-          in training others on best practices for working with the
-          LGBTQIA+ community across different settings. Tatim is trained
-          in Family Centered Treatment (FCT) and Functional Family Therapy
-          (FFT).
-        </em>
-      </p>
+  # - id: tatim-lace
+  #   name: Tatim Lace
+  #   letters: LCSW-A
+  #   title: Clininical Team Lead - South Park, Clinician
+  #   image: /headshots/headshot-tatim-lace-500.jpg
+  #   email: tatim.lace@caladriustherapy.com
+  #   linkedin: https://www.linkedin.com/in/tatimlace/
+  #   psychologytoday: https://www.psychologytoday.com/us/therapists/tatim-lace-charlotte-nc/944737
+  #   tagline: "My name is Tatim (he/they) and I'm here to let you know you're not alone."
+  #   bio:
+  #     <p>
+  #       Growing up a queer kid in a rural area shaped the person I am
+  #       today. In my adulthood, I became aware of the power of my own
+  #       resilience, and the protective factors that enabled me to get to
+  #       where I am today. I want to help other people who have been
+  #       through difficult experiences discover the power of their own
+  #       resilience as well.
+  #     </p>
+  #     <p>
+  #       We might be a good fit if you're struggling with personal
+  #       relationships or feeling alone in your journey. You may be stuck
+  #       in a painful past or struggling with sorting out who you are. You
+  #       might be searching for a different perspective or someone to
+  #       validate your experience. I believe in the power of building up
+  #       your resiliency toolbox and finding light at the end of the tunnel
+  #       together. Each life stage and relationship offers different
+  #       rewards and challenges that I enjoy working with. Navigating those
+  #       life stages can be more complex for those struggling with identity
+  #       and social ostracization. The LGBTQIA+ community is the most near
+  #       and dear to my heart.
+  #     </p>
+  #     <p>
+  #       I offer a unique clinical and lived experience with a wide variety
+  #       of complex issues and populations. My clinical instinct operates
+  #       through a systemic lens. I come from a background working with
+  #       families to address tough issues related to juvenile justice and
+  #       DSS involvement. I enjoy helping people find relief and a better
+  #       way forward. I also enjoy going deep and helping people make sense
+  #       of their root traumas that may be holding them back. I enjoy
+  #       practical application and skill-building through CBT and DBT
+  #       modalities. Much of my experience has been assisting people with
+  #       finding and practicing communication and coping skills to
+  #       strengthen their relationships with family, friends, and
+  #       themselves. I am passionate about helping families and couples
+  #       have difficult, but necessary conversations. I often challenge my
+  #       clients to consider circumstances from different angles and guide
+  #       them out of their comfort zones.
+  #     </p>
+  #     <p>
+  #       <em>
+  #         Tatim Lace, MSW, LCSW-A graduated from Marywood University in
+  #         Scranton, PA with a BA in communications and from Appalachian
+  #         State University with a Masters of Social Work degree and a dual
+  #         focus in community and clinical social work. He is experienced
+  #         in training others on best practices for working with the
+  #         LGBTQIA+ community across different settings. Tatim is trained
+  #         in Family Centered Treatment (FCT) and Functional Family Therapy
+  #         (FFT).
+  #       </em>
+  #     </p>
 
   # - id: maddy-kostur
   #   name: Maddy Kostur

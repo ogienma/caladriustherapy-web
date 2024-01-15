@@ -233,7 +233,7 @@ const IndexPage: React.FC<PageProps> = () => {
                       <h4 style={{ textAlign: "center" }}>(704) 980-3082</h4>
                     </a>
                     <p style={{ textAlign: "center" }}>
-                      Fax and SMS messages accepted.
+                      Fax messages are accepted.
                     </p>
                   </div>
                 </section>

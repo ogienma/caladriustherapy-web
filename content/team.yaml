@@ -19,6 +19,61 @@ members:
         You deserve to feel truly heard, supported, and inspired to grow. Together we can build an authentic therapeutic relationship and identify how you can live a more fulfilling life. Feel free to reach out to me for a free consultation to see if I'm a good fit for your needs. I look forward in supporting you through this next journey!
       </p>
 
+  - id: kelsey-grant
+    name: Kelsey Grant
+    letters: LCMHCA
+    title: Clinician
+    image: /headshots/headshot-kelsey-grant-500.jpg
+    email: kelsey.grant@caladriustherapy.com
+    psychologytoday: https://www.psychologytoday.com/us/therapists/kelsey-lynn-grant-charlotte-nc/1266527
+    tagline: ""
+    bio:
+     <p>
+        Hi there, my name is Kelsey (she/her) and I am here to help you reshape your thinking, behaviors, and relationships.
+</p>
+
+      <p>
+        <em>
+          "Vulnerability is the birthplace of innovation, creativity and change." - Brené Brown</em>
+      </p>
+
+      <p>
+        Whether this is your first time giving therapy a shot, or you have sought support when facing a tough times before - give yourself some praise for starting the process of self-awareness and change. None of this is easy.
+      </p>
+<p>
+It is my greatest honor to walk alongside people who have decided to do the work. Therapy isn't a magic wand. It will take some time and at least a few (or more than a few…) missteps. My job is to get you to a place where you have the self-awareness, support system, strategies and knowledge to manage life without me. Yes, my goal is to work myself out of a job! Until then, I will foster a space that invites trust, vulnerability, honest feedback for each other, and some laughs here and there.
+</p>
+
+
+      <p>
+        <em>
+        Kelsey Grant graduated from UNC-Charlotte with a B.S. in Psychology and a minor in Statistics. She continued on to receive her M.A. in Clinical Mental Health Counseling. Kelsey is Gottman Level I Certified and is pursuing further education around couples therapy and trauma informed care. Since 2020, Kelsey has worked virtually with clients experiencing Grief, Anxiety, Depression, Relationship Concerns, Uncertainty in Career/Education, Life Transitions, Parenting, Suicidal Ideation and more.
+        </em>
+              </p>
+
+  - id: robin-boulware-abraham
+    name: Robin Boulware Abraham
+    letters: MA, LCMHC-A
+    title: Clinician
+    image: /headshots/headshot-robin-boulware-abraham-500.jpg
+    email: robin.boulware-abraham@caladriustherapy.com
+    linkedin: https://www.linkedin.com/in/rvboulware01
+    # psychologytoday: https://www.psychologytoday.com
+    tagline: "Hi, my name is Robin (she/her), and I am here to provide support and encouragement as you navigate life challenges with openness and acceptance as you continue to heal, grow, and evolve."
+    bio:
+      <p>
+        <em>
+          "Just because no one else can heal or do your inner work for you, doesn't mean you can, should, or need to do it alone." - Lisa Olivera</em>
+      </p>
+      <p>
+        Challenges in life are inevitable and can hinder how one may take care of him or herself, grow and thrive. Through these challenges, you may become stressed or overwhelmed and seeking solutions on how to overcome these difficulties. Everyon deserves the opportunity to experience joy and to find their true selves. It is my passion to genuinely connect and support you in your journey, so you can find those solutions and get the most from your therapeutic experience.
+      </p>
+      <p>
+        <em>
+          Robin Boulware-Abraham, MA, LCMHC-A, graduated from the University of North Carolina at Charlotte with her Master's of Art in Counseling and Graduate Certification in Gerontology as well as her Bachelor's of Science in Psychology. Robin specializes in Child Centered play therapy and has experience working with children, adolescents, and adults in various settings. She is working towards becoming a Registered Play Therapist to broaden her training and experience working with children, families, and adults.
+        </em>
+      </p>
+
   - id: deerik-bradley
     name: De'Erik Bradley
     letters: LCSW-A
@@ -74,29 +129,6 @@ members:
           Management, Depression, Cultural Specific issues, and Anxiety.
           He offers both in-person and Tele-Health services to fit the
           needs of each client.
-        </em>
-      </p>
-
-  - id: robin-boulware-abraham
-    name: Robin Boulware Abraham
-    letters: MA, LCMHC-A
-    title: Clinician
-    image: /headshots/headshot-robin-boulware-abraham-500.jpg
-    email: robin.boulware-abraham@caladriustherapy.com
-    linkedin: https://www.linkedin.com/in/rvboulware01
-    # psychologytoday: https://www.psychologytoday.com
-    tagline: "Hi, my name is Robin (she/her), and I am here to provide support and encouragement as you navigate life challenges with openness and acceptance as you continue to heal, grow, and evolve."
-    bio:
-      <p>
-        <em>
-          "Just because no one else can heal or do your inner work for you, doesn't mean you can, should, or need to do it alone." - Lisa Olivera</em>
-      </p>
-      <p>
-        Challenges in life are inevitable and can hinder how one may take care of him or herself, grow and thrive. Through these challenges, you may become stressed or overwhelmed and seeking solutions on how to overcome these difficulties. Everyon deserves the opportunity to experience joy and to find their true selves. It is my passion to genuinely connect and support you in your journey, so you can find those solutions and get the most from your therapeutic experience.
-      </p>
-      <p>
-        <em>
-          Robin Boulware-Abraham, MA, LCMHC-A, graduated from the University of North Carolina at Charlotte with her Master's of Art in Counseling and Graduate Certification in Gerontology as well as her Bachelor's of Science in Psychology. Robin specializes in Child Centered play therapy and has experience working with children, adolescents, and adults in various settings. She is working towards becoming a Registered Play Therapist to broaden her training and experience working with children, families, and adults.
         </em>
       </p>
 

@@ -6,17 +6,28 @@ members:
     title: Clinician - Dilworth
     image: /headshots/headshot-nicole-brito-500.jpg
     email: nicole.brito@caladriustherapy.com
+    linkedin: https://www.linkedin.com/in/nicole-brito/
     psychologytoday: https://www.psychologytoday.com/us/therapists/nicole-brito-charlotte-nc/1260234
-    tagline: ""
+    tagline: "Hi there! I'm Nicole (she/her), and I'm honored to be part of your healing journey. My mission is to provide a nurturing and genuine space where you can tell your story."
     bio:
+      <p>
+        <em>
+          "Vulnerability sounds like truth and feels like courage. Truth and courage aren't always comfortable, but they're never weakness." - Brené Brown
+        </em>
+      </p>
      <p>
-        Taking this brave step in your healing journey is something to be truly proud of. I'm here to support my clients through self-exploration, navigating challenges, and embracing their strengths. Whether it's managing anxiety, depression, trauma, or seeking growth, I offer a supportive space where you're empowered, validated, and truly heard. Your expertise in your life is valued, and I provide you with tools that best suit your unique needs. Together we focus on your strengths, holistic well-being, and promoting cultural practices. Let’s work together to achieve your goals and cultivate the positive changes you deserve.
+       I'm deeply passionate about helping individuals navigate life's complexities with clarity, ease, and resilience. By embracing holistic wellness principles, I strive to foster a safe and inclusive environment for clients of diverse backgrounds. Within my therapy practice, my primary goal is to cultivate a safe and nurturing environment where clients feel empowered to explore their innermost thoughts and emotions. It&#39;s in this space of comfort and vulnerability that we can go into the core issues, asking and answering the tough questions that lead to meaningful breakthroughs. I firmly believe in collaboration, working hand in hand with clients to navigate this journey of self-discovery and facilitate lasting transformation. Working together, we embark on a profound journey to uncover your truest self, laying the groundwork for genuine and lasting change.
+    </p>
+      <p>
+        I pull from an eclectic approach, which includes Person-Centered, Mindfulness, Cognitive Behavioral Therapy, Acceptance and Commitment Therapy, Solution-Focused Therapy, and more. I tailor each session to meet your unique needs and cultural perspectives, honoring your beliefs, values, and norms during our sessions.
       </p>
       <p>
-        I have experience in working with adolescents and adults dealing with anxiety, depression, trauma, relationship issues, identity acceptance, body image, and disordered eating. As a bilingual therapist, I offer both Spanish and English counseling sessions. I pull from an eclectic approach, ensuring tailored support for each of my client's needs.
+      Outside of counseling, I'm all about watching movies and TV shows, cooking and trying new foods with family and friends (which includes drinking lots of coffee) and loving on my fur babies. I’m also big on practicing self-care and incorporating a form of movement for my body, such as hitting the gym, trying new yoga classes, or hanging outside and going on a walk with my favorite people.
       </p>
       <p>
-        You deserve to feel truly heard, supported, and inspired to grow. Together we can build an authentic therapeutic relationship and identify how you can live a more fulfilling life. Feel free to reach out to me for a free consultation to see if I'm a good fit for your needs. I look forward in supporting you through this next journey!
+        <em>
+Nicole Brito, MA, LCMHCA, NCC graduated from The University of North Carolina at Charlotte with her Master’s of Art in Counseling. She received her Bachelor’s of Arts in Psychology with a minor in Social Work from Winthrop University. Nicole has experience in working with teens, young adults, and adults offering Spanish and English services. She has a special interest in supporting clients with anxiety, body image, disordered eating, multicultural concerns, LGBTQIA+, ADHD, women issues, and life transitions. She is passionate about providing cultural and holistic practices as well as an affirming space for the needs of each client.
+              </em>
       </p>
 
   - id: kelsey-grant
@@ -30,7 +41,8 @@ members:
     bio:
       <p>
         <em>
-          "Vulnerability is the birthplace of innovation, creativity and change." - Brené Brown</em>
+          "Vulnerability is the birthplace of innovation, creativity and change." - Brené Brown
+        </em>
       </p>
       <p>
         Whether this is your first time giving therapy a shot, or you have sought support when facing a tough times before - give yourself some praise for starting the process of self-awareness and change. None of this is easy.

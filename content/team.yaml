@@ -1,12 +1,12 @@
 members:
 
-
   - id: nicole-brito
     name: Nicole Brito
     letters: LCMHCA
     title: Clinician - Dilworth
     image: /headshots/headshot-nicole-brito-500.jpg
     email: nicole.brito@caladriustherapy.com
+    psychologytoday: https://www.psychologytoday.com/us/therapists/nicole-brito-charlotte-nc/1260234
     tagline: ""
     bio:
      <p>
@@ -74,6 +74,29 @@ members:
           Management, Depression, Cultural Specific issues, and Anxiety.
           He offers both in-person and Tele-Health services to fit the
           needs of each client.
+        </em>
+      </p>
+
+  - id: robin-boulware-abraham
+    name: Robin Boulware Abraham
+    letters: MA, LCMHC-A
+    title: Clinician
+    image: /headshots/headshot-robin-boulware-abraham-500.jpg
+    email: robin.boulware-abraham@caladriustherapy.com
+    linkedin: https://www.linkedin.com/in/rvboulware01
+    # psychologytoday: https://www.psychologytoday.com
+    tagline: "Hi, my name is Robin (she/her), and I am here to provide support and encouragement as you navigate life challenges with openness and acceptance as you continue to heal, grow, and evolve."
+    bio:
+      <p>
+        <em>
+          "Just because no one else can heal or do your inner work for you, doesn't mean you can, should, or need to do it alone." - Lisa Olivera</em>
+      </p>
+      <p>
+        Challenges in life are inevitable and can hinder how one may take care of him or herself, grow and thrive. Through these challenges, you may become stressed or overwhelmed and seeking solutions on how to overcome these difficulties. Everyon deserves the opportunity to experience joy and to find their true selves. It is my passion to genuinely connect and support you in your journey, so you can find those solutions and get the most from your therapeutic experience.
+      </p>
+      <p>
+        <em>
+          Robin Boulware-Abraham, MA, LCMHC-A, graduated from the University of North Carolina at Charlotte with her Master's of Art in Counseling and Graduate Certification in Gerontology as well as her Bachelor's of Science in Psychology. Robin specializes in Child Centered play therapy and has experience working with children, adolescents, and adults in various settings. She is working towards becoming a Registered Play Therapist to broaden her training and experience working with children, families, and adults.
         </em>
       </p>
 
@@ -177,29 +200,6 @@ members:
       <p>
         <em>
           Molly Carroll, MSW, LCSW-A, holds a Master of Social Work degree from The University of North Carolina at Chapel Hill and earned a Bachelor of Social Work degree from Belmont University in Nashville, TN. Molly specializes in working with children, adolescents, and adults seeking healing from the effects of complex trauma. Molly has a wide range of experiences from working in schools to help children regulate their emotions to supporting individuals experiencing mental health crises in an urgent care setting.
-        </em>
-      </p>
-
-  - id: robin-boulware-abraham
-    name: Robin Boulware Abraham
-    letters: MA, LCMHC-A
-    title: Clinician
-    image: /headshots/headshot-robin-boulware-abraham-500.jpg
-    email: robin.boulware-abraham@caladriustherapy.com
-    linkedin: https://www.linkedin.com/in/rvboulware01
-    # psychologytoday: https://www.psychologytoday.com
-    tagline: "Hi, my name is Robin (she/her), and I am here to provide support and encouragement as you navigate life challenges with openness and acceptance as you continue to heal, grow, and evolve."
-    bio:
-      <p>
-        <em>
-          "Just because no one else can heal or do your inner work for you, doesn't mean you can, should, or need to do it alone." - Lisa Olivera</em>
-      </p>
-      <p>
-        Challenges in life are inevitable and can hinder how one may take care of him or herself, grow and thrive. Through these challenges, you may become stressed or overwhelmed and seeking solutions on how to overcome these difficulties. Everyon deserves the opportunity to experience joy and to find their true selves. It is my passion to genuinely connect and support you in your journey, so you can find those solutions and get the most from your therapeutic experience.
-      </p>
-      <p>
-        <em>
-          Robin Boulware-Abraham, MA, LCMHC-A, graduated from the University of North Carolina at Charlotte with her Master's of Art in Counseling and Graduate Certification in Gerontology as well as her Bachelor's of Science in Psychology. Robin specializes in Child Centered play therapy and has experience working with children, adolescents, and adults in various settings. She is working towards becoming a Registered Play Therapist to broaden her training and experience working with children, families, and adults.
         </em>
       </p>
 

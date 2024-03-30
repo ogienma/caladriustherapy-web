@@ -12,42 +12,32 @@ const RatesPage: React.FC<PageProps> = () => {
           <div className="content">
           <h2>Community Partners</h2>
         <ul>
-            <li><strong><a href="https://www.mindbodybabync.org/">Mind Body Baby</a></strong> is a community of
-                perinatal specialists in different fields providing resources and support for mothers, fathers, and
-                couples in the perinatal period. They offer groups, breastfeeding support, and more. We are thrilled to
-                be part of their collaborative. Caladrius Therapy is an approved practice, Jessie Ogienko, LCSW is an
-                approved provider. You can visit the Mind Body Baby main website to learn more as well as check out our listing:
-                https://www.mindbodybabync.org/listing/Jessie-Ogienko.
+            <li><strong><a href="https://www.mindbodybabync.org/">Mind Body Baby</a></strong> is a community of perinatal specialists in different fields providing resources and support for mothers, fathers, and couples in the perinatal period. They offer groups, breastfeeding support, and more. We are thrilled to be part of their collaborative. Caladrius Therapy is an approved practice and Emily Lee, LCSWA and Jessie Ogienko, LCSW are approved providers. You can visit the Mind Body Baby main website to learn more as well as check out our listings. 
             </li>
         </ul>
         <ul>
-            <li><strong><a href="https://cthcg.org/">The Charlotte Transgender Healthcare Group (CTHCG)</a></strong> is
-                a group of healthcare professionals dedicated to providing resources, access to care, and informed care
-                to the transgender community of Charlotte. Caladrius Therapy, PLLC is a member and committed to
-                providing transgender informed care to its clients as well as connecting with specialists as
-                appropriate.
+            <li><strong><a href="https://cthcg.org/">The Charlotte Transgender Healthcare Group (CTHCG)</a></strong> is a group of healthcare professionals dedicated to providing resources, access to care, and informed care to the transgender community of Charlotte. Caladrius Therapy, PLLC is a member and committed to providing transgender informed care to its clients as well as connecting with specialists as appropriate.
             </li>
         </ul>
         <ul>
-            <li><strong><a href="https://www.patsplacecac.org/">Pat's Place</a></strong> is the only child advocacy
-                center in Charlotte, NC. They coordinate
-                investigation, persecution, and treatment for child abuse cases. Caladrius Therapy is a member of Pat's
-                Place
-                CHAT collaborative, providing evidence based services for affected children. Pat's Place also works to
-                provide
-                funding for bilingual families to receive therapy.
+            <li><strong><a href="https://www.patsplacecac.org/">Pat's Place</a></strong> is the only child advocacy center in Charlotte, NC. They coordinate investigation, persecution, and treatment for child abuse cases. Caladrius Therapy is a member of Pat's Place CHAT collaborative, providing evidence based services for affected children. Pat's Place also works to provide funding for bilingual families to receive therapy.
             </li>
         </ul>
         <ul>
-            <li><strong><a href="https://www.nccadv.org/">North Carolina Coalition Against Domestic Violence (NCCADV)</a></strong> works with survivors of domestic violence and also provides education,
-                advocacy, and collaboration to increase education and end domestic violence.
+            <li><strong><a href="https://www.nccadv.org/">North Carolina Coalition Against Domestic Violence (NCCADV)</a></strong> works with survivors of domestic violence and also provides education, advocacy, and collaboration to increase education and end domestic violence.
             </li>
         </ul>
         
                 <ul>
-            <li><strong><a href="https://www.missingkids.org/home">Family Advocacy Outreach Network (FAON)</a></strong> is a program of the National Center for Missing and Exploited Children. We are a participating member and stay connected to recieve updates and helpful information of the latest developments and trends in the field of at-risk children, missing children, and sexual exploitation. 
+            <li><strong><a href="https://www.missingkids.org/home">Family Advocacy Outreach Network (FAON)</a></strong> is a program of the National Center for Missing and Exploited Children. We are a participating member and stay connected to recieve updates and helpful information of the latest developments and trends in the field of at-risk children, missing children, and sexual exploitation.
             </li>
         </ul>
+
+                <ul>
+            <li><strong><a href="https://www.adoptionsupportalliance.org/">Adoption Support Alliance (ASA)</a></strong> is a nonprofit connecting adoptees and their families with resources and adoption-competent providers. They provide resources for private adoption, foster care involved youth and families, and adult adoptees. Jessie Ogienko, LCSW is a TAC-approved (Training in Adoption Competency) provider and supervises staff who are working with youth involved in foster care.             </li>
+        </ul>
+
+            
           </div>
           <div className="image">
             <img src={"/heroes/shane-rounce-DNkoNXQti3c-unsplash.jpg"} alt="Caladrius Therapy Charlotte NC" />

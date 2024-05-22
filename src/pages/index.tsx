@@ -275,21 +275,11 @@ const IndexPage: React.FC<PageProps> = () => {
                     </div>
                     <a href="https://g.page/caladrius-therapy?share">
                       <h4 style={{ textAlign: "center" }}>
-                        700 East Blvd, Suites 1 & 3<br />
-                        Charlotte NC 28203
+                        200 Queens Road, Suite 3<br />
+                        Charlotte NC 28204
                       </h4>
                     </a>
-                    <div className="inner" style={{ textAlign: "center" }}>
-                      <strong>South Park</strong>
-                    </div>
-                    <a href="https://www.google.com/maps/place/2901+Coltsgate+Rd,+Charlotte,+NC+28211/@35.149032,-80.8284798,17z/data=!3m1!4b1!4m5!3m4!1s0x88569e144ed8681b:0x13e0f1a5429c504!8m2!3d35.149032!4d-80.8284798">
-                      <h4 style={{ textAlign: "center" }}>
-                        2901 Coltsgate Rd, Suite 202
-                        <br />
-                        Charlotte NC 28211
-                      </h4>
-                    </a>
-                  </div>
+                 </div>
                 </section>
               </div>
 

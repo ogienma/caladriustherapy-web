@@ -271,11 +271,11 @@ const IndexPage: React.FC<PageProps> = () => {
                       <span className="icon style2 major solid fa-map-pin"></span>
                     </a>
                     <div className="inner" style={{ textAlign: "center" }}>
-                      <strong>Dilworth</strong>
+                      <strong>Elizabeth</strong>
                     </div>
                     <a href="https://g.page/caladrius-therapy?share">
                       <h4 style={{ textAlign: "center" }}>
-                        200 Queens Road, Suite 3<br />
+                        200 Queens Road, Suite 300<br />
                         Charlotte NC 28204
                       </h4>
                     </a>

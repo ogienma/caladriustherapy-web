@@ -53,7 +53,7 @@
 .navbar-button {
     color: #fff !important;
     /* background: #de6a26 !important; */
-    background: #943F94 !important;
+    background: #A0B7A9 !important;
     border: 0;
     border-radius: 3.325em;
     font-size: 0.75rem !important;
@@ -103,7 +103,7 @@
     display: inline-block;
     padding: 12px 24px;
     color: #fff !important;
-    background: #943F94 !important;
+    background: #A0B7A9 !important;
     border: 0;
     border-radius: 4px;
     font-size: 16px;
@@ -198,7 +198,7 @@
   }
   
   span.swiper-pagination-bullet {
-  background-color: #943F94;
+  background-color: #A0B7A9;
   }
 
 /* 
@@ -219,7 +219,7 @@
   } */
   /* .swiper {
     width: 2000px;
-    background-color: #943F94;
+    background-color: #A0B7A9;
     padding-top: 50px;
     padding-bottom: 50px;
   } */

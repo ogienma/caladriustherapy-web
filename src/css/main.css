@@ -1,6 +1,7 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i");
 @import url('https://fonts.googleapis.com/css?family=Baskerville');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i");
 
 /*
 	Story by HTML5 UP
@@ -207,7 +208,7 @@ input, select, textarea {
 	h1 {
 		font-size: 3.0rem; /* down from 3.5rem in the orignal */
 		line-height: 1.2;
-		font-family: "baskerville", georgia, serif;  /* added new font */
+		font-family: "Baskerville", georgia, serif;  /* added new font */
 		/* font-size: 70px ;
 		font-style: normal;
 		font-weight: 400; */
@@ -216,6 +217,7 @@ input, select, textarea {
 
 	h2 {
 		font-size: 2.25rem;
+		font-family: "Noto Sans", Helvetica, sans-serif;
 	}
 
 	h3 {

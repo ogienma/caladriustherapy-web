@@ -6,7 +6,6 @@ import OurTeamPanel from "../components/OurTeamPanel";
 import teamData from "../../content/team.yaml";
 import Gallery from "../components/Gallery";
 
-    
 const IndexPage: React.FC<PageProps> = () => {
   return (
     <>
@@ -60,7 +59,11 @@ const IndexPage: React.FC<PageProps> = () => {
               alt=""
             />
             <div className="content birddiv">
-              <img src="/bird.png" alt="" style={{ position: "relative" }} />
+              <img
+                src="/badge-white.svg"
+                alt=""
+                style={{ position: "relative" }}
+              />
             </div>
           </div>
         </section>
@@ -175,7 +178,7 @@ const IndexPage: React.FC<PageProps> = () => {
             <img src="/heroes/nicole-honeywill-704489-unsplash.jpg" alt="" />
           </div>
         </section>
-<Gallery/>
+        <Gallery />
         <section className="wrapper style2 align-center">
           <div className="inner">
             <div className="index align-left">
@@ -275,16 +278,17 @@ const IndexPage: React.FC<PageProps> = () => {
                     </div>
                     <a href="https://g.page/caladrius-therapy?share">
                       <h4 style={{ textAlign: "center" }}>
-                        200 Queens Road, Suite 300<br />
+                        200 Queens Road, Suite 300
+                        <br />
                         Charlotte NC 28204
                       </h4>
                     </a>
-                 </div>
+                  </div>
                 </section>
               </div>
 
               {/* <!-- Map --> */}
-              <section style={{paddingTop: "16px"}}>
+              <section style={{ paddingTop: "16px" }}>
                 <div className="content">
                   <div className="iframe-rwd">
                     {/* <!-- Caladrius Therapy: ChIJOZghlXCfVogRkp499dzCZao -->

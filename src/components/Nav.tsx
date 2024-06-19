@@ -14,8 +14,8 @@ const Nav: FC<IProps> = () => {
   return (
     <>
       <nav
-        className="navbar is-fixed-top"
-        style={{backgroundColor: "#214661"}}
+        className="navbar is-fixed-top is-black"
+        style={{backgroundColor: "#214661 !important"}}
         role="navigation"
         aria-label="main navigation"
       >

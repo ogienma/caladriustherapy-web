@@ -93,7 +93,7 @@ const IndexPage: React.FC<PageProps> = () => {
             </p>
           </div>
           <div className="image">
-            <img src="/heroes/stephen-walker-572414-unsplash.jpg" alt="" />
+            <img src="/heroes/pexels-stijn-dijkstra-1306815-18709770-2160p.jpg" alt="" />
           </div>
         </section>
         {/* 

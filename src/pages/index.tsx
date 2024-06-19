@@ -54,7 +54,7 @@ const IndexPage: React.FC<PageProps> = () => {
           </div>
           <div className="image">
             <img
-              src="/heroes/banner-dominik-lange-35224-unsplash.jpg"
+              src="/heroes/pexels-stijn-dijkstra-1306815-18709770-2160p.jpg"
               style={{ filter: "brightness(50%)" }}
               alt=""
             />

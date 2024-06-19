@@ -14,14 +14,15 @@ const Nav: FC<IProps> = () => {
   return (
     <>
       <nav
-        className="navbar is-fixed-top is-black"
+        className="navbar is-fixed-top"
+        style={{backgroundColor: "#214661"}}
         role="navigation"
         aria-label="main navigation"
       >
         <div className="navbar-brand">
           <a className="navbar-item" href="/">
             <StaticImage
-              src="../images/caladrius-therapy-c-logo.png"
+              src="../images/icon-white.svg"
               height={40}
               alt="Caladrius Therapy Logo"
             />

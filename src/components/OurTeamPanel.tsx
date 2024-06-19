@@ -46,9 +46,7 @@ const OurTeamPanel: React.FC<IProps> = () => {
     <>
       <section className="wrapper style1 align-center">
         <div className="inner" style={{ padding: "1rem" }}>
-          <a href="/about">
             <h2>Our Team</h2>
-          </a>
         </div>
         <div style={{ clear: "both" }}>
           <section className="spotlight style2" style={{ padding: "0rem" }}>

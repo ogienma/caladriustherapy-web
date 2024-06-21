@@ -12,10 +12,10 @@ const RatesPage: React.FC<PageProps> = () => {
           <div className="content">
             <h2>Rates</h2>
             <ul>
-              <li>$165 per initial evaluation</li>
-              <li>$165 per 50-60-minute session</li>
-              <li>$135 per 45-minute session</li>
-              <li>$100 per 30-minute session</li>
+              <li>$200 per initial evaluation</li>
+              <li>$185 per 50-60-minute session</li>
+              <li>$165 per 45-minute session</li>
+              <li>$130 per 30-minute session</li> 
             </ul>
             <h3>In-Network Insurance</h3>
             <p>We accept the following insurance plans:</p>

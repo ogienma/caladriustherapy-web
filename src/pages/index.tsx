@@ -60,7 +60,7 @@ const IndexPage: React.FC<PageProps> = () => {
             />
             <div className="content birddiv">
               <img
-                src="/badge-white.svg"
+                src="/bird-white.svg"
                 alt=""
                 style={{ position: "relative" }}
               />
@@ -93,7 +93,7 @@ const IndexPage: React.FC<PageProps> = () => {
             </p>
           </div>
           <div className="image">
-            <img src="/heroes/pexels-stijn-dijkstra-1306815-18709770-2160p.jpg" alt="" />
+          <img src="/heroes/stephen-walker-572414-unsplash.jpg" alt="" />
           </div>
         </section>
         {/* 
@@ -138,9 +138,6 @@ const IndexPage: React.FC<PageProps> = () => {
               </li>
               <li>
                 <a href="/family-therapy">Family Therapy</a>
-              </li>
-              <li>
-                <a href="/trauma">Trauma-Informed CCA (TICCA)</a>
               </li>
               <li>
                 <a href="/emdr">
@@ -235,8 +232,8 @@ const IndexPage: React.FC<PageProps> = () => {
                     <a href="tel:7049803082">
                       <h4 style={{ textAlign: "center" }}>(704) 980-3082</h4>
                     </a>
-                    <p style={{ textAlign: "center", color: "#f2f2f2" }}>
-                      Fax: <a href="tel:7047091344">(704) 709-1344</a>.
+                    <p style={{ textAlign: "center", color: "#9ba3ae" }}>
+                      Fax: (704) 709-1344.
                     </p>
                   </div>
                 </section>

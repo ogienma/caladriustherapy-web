@@ -62,12 +62,6 @@ const Gallery: React.FC<IProps> = () => {
       alt: "Caladrius Therapy Charlotte NC",
       caption: "Caladrius Therapy Charlotte NC",
     },
-    {
-      src: "/our-space/0J7A3360.jpg",
-      staticSrc: "../../static/our-space/0J7A3360.jpg",
-      alt: "Caladrius Therapy Charlotte NC",
-      caption: "Caladrius Therapy Charlotte NC",
-    },
   ];
 
   return (

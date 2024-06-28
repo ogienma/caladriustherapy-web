@@ -22,6 +22,7 @@ const Layout: React.FC<IProps> = ({ children }) => {
   return (
     <ChakraBaseProvider theme={theme} resetCSS={false}>
       <Script src="https://widget-cdn.simplepractice.com/assets/integration-1.0.js" />
+      <Script src="https://kit.fontawesome.com/733365380c.js" crossorigin="anonymous"/>
       <div id="wrapper" className="divided">
         <Nav />
         {children}

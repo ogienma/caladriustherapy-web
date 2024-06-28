@@ -82,7 +82,7 @@ const AboutPage: React.FC<PageProps> = () => {
                         href={member.tiktok}
                         className="button small solid icon brands fa-tiktok"
                       >
-                        Instagram
+                        TikTok
                       </a>
                     </li>
                   )}

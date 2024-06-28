@@ -3,7 +3,7 @@ members:
   - id: nicole-brito
     name: Nicole Brito
     letters: LCMHCA
-    title: Clinician - Dilworth
+    title: Clinician
     image: /headshots/headshot-nicole-brito-500.jpg
     email: nicole.brito@caladriustherapy.com
     linkedin: https://www.linkedin.com/in/nicole-brito/
@@ -626,6 +626,7 @@ members:
     email: jessie.ogienko@caladriustherapy.com
     linkedin: https://www.linkedin.com/in/jessie-ogienko/
     psychologytoday: https://www.psychologytoday.com/us/therapists/jessie-lee-ogienko-charlotte-nc/435847
+    instagram: https://www.instagram.com/@jessieogienkolcsw
     tagline: "My name is Jessie (she/her) and I can help you move forward."
     bio:
       <p>
@@ -688,6 +689,7 @@ members:
     name: Storm Ogienko
     image: /headshots/headshot-storm-ogienko-500.jpg
     email: jessie.ogienko@caladriustherapy.com
+    tiktok: https://www.tiktok.com/@calm_in_the_storm
     bio:
       <p>
         <em>

@@ -63,12 +63,7 @@ In-network fees and out of pocket costs may vary from above based on the insuran
             </p>
             <h3>Sliding Scale Fee Schedule</h3>
             <p>
-              If we are unable to take your insurance or you are uninsured and
-              cannot afford to pay for services, you may be eligible for our
-              sliding scale fee with a fully licensed provider or a Masters
-              Level Intern. Please reach out via phone to ask about the current
-              availability of sliding fee slots and a short application to
-              apply.
+              If we are unable to take your insurance or you are uninsured and cannot afford to pay for services, you may be eligible for our sliding scale fee with a second-year Masters-Level Intern. Sliding scale is 10% of your weekly income for a one-hour session. Proof of income is required. No minimum or maximum. Please reach out via phone or email to ask about the current availability of sliding fee slots. 
             </p>
             <h3>Self-Pay</h3>
             <p>

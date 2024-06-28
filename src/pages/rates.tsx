@@ -23,24 +23,24 @@ const RatesPage: React.FC<PageProps> = () => {
               <li>Alliance Behavioral Health</li>
               <li>Amerihealth</li>
               <li>AETNA</li>
-              <li>Blue Cross Blue Shield (*)</li>
+              <li>Blue Cross Blue Shield <sup>1</sup></li>
               <li>Carolina Complete Health</li>
               <li>Cigna</li>
               <li>Healthy Blue</li>
               <li>Partners Behavioral Health</li>
               <li>Trillium</li>
-              <li>United Healthcare (**)</li>
+              <li>United Healthcare <sup>2</sup></li>
               <li>United Healthcare Community</li>
               <li>Wellcare</li>
             </ul>
                         <p>
               <em>
-                (*) Blue Value and Blue Local are unfortunately considered out-of-network. Blue Home is typically in-network, but we will verify your benefits for you.
+                <sup>1</sup> Blue Value and Blue Local are unfortunately considered out-of-network. Blue Home is typically in-network, but we will verify your benefits for you.
                 </em>
                           </p>
                                     <p>
               <em>
-                (**) Hannah Travis, LCSW, Sav Raynor, LMFT, and Jessie Ogienko, LCSW are the only providers considered in-network at this time. All other providers can bill on out-of-network benefits.   
+                <sup>2</sup> Hannah Travis, LCSW, Sav Raynor, LMFT, and Jessie Ogienko, LCSW are the only providers considered in-network at this time. All other providers can bill on out-of-network benefits.   
                 </em>
                           </p>
             <p>

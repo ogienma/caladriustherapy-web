@@ -10,7 +10,7 @@ const RatesPage: React.FC<PageProps> = () => {
       <Layout>
         <section className="spotlight style1 orient-left content-align-left image-position-center">
           <div className="content">
-            <h2>Rates</h2>
+            <h2>Rates & Insurance</h2>
             <ul>
               <li>$200 per initial evaluation</li>
               <li>$185 per 50-60-minute session</li>
@@ -33,23 +33,16 @@ const RatesPage: React.FC<PageProps> = () => {
               <li>United Healthcare Community</li>
               <li>Wellcare</li>
             </ul>
-                        <p>
+              <p>
               <em>
                 <sup>1</sup> Blue Value and Blue Local are unfortunately considered out-of-network. Blue Home is typically in-network, but we will verify your benefits for you.
                 </em>
-                          </p>
-                                    <p>
               <em>
                 <sup>2</sup> Hannah Travis, LCSW, Sav Raynor, LMFT, and Jessie Ogienko, LCSW are the only providers considered in-network at this time. All other providers can bill on out-of-network benefits.   
                 </em>
-                          </p>
+              </p>
             <p>
-              <em>
-                
-In-network fees and out of pocket costs may vary from above based on the insurance provider and individual benefits. Couples therapy may not be covered in-network; please call for a free consultation to see if it is covered in your case (more information on the blog!). 
-
-                
-              </em>
+              In-network fees and out of pocket costs may vary from above based on the insurance provider and individual benefits. Couples therapy may not be covered in-network; please call for a free consultation to see if it is covered in your case (more information on the blog!). 
             </p>
             <h3>Out of Network Insurance Benefits</h3>
             <p>

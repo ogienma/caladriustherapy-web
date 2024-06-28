@@ -20,18 +20,35 @@ const RatesPage: React.FC<PageProps> = () => {
             <h3>In-Network Insurance</h3>
             <p>We accept the following insurance plans:</p>
             <ul>
-              <li>Blue Cross Blue Shield</li>
+              <li>Alliance Behavioral Health</li>
+              <li>Amerihealth</li>
+              <li>AETNA</li>
+              <li>Blue Cross Blue Shield (*)</li>
+              <li>Carolina Complete Health</li>
               <li>Cigna</li>
-              <li>United Healthcare</li>
-              <li>Partners Health Management (Medicaid)</li>
+              <li>Healthy Blue</li>
+              <li>Partners Behavioral Health</li>
+              <li>Trillium</li>
+              <li>United Healthcare (**)</li>
+              <li>United Healthcare Community</li>
+              <li>Wellcare</li>
             </ul>
+                        <p>
+              <em>
+                (*) Blue Value and Blue Local are unfortunately considered out-of-network. Blue Home is typically in-network, but we will verify your benefits for you.
+                </em>
+                          </p>
+                                    <p>
+              <em>
+                (**) Hannah Travis, LCSW, Sav Raynor, LMFT, and Jessie Ogienko, LCSW are the only providers considered in-network at this time. All other providers can bill on out-of-network benefits.   
+                </em>
+                          </p>
             <p>
               <em>
-                Not all therapists accept all insurance plans as in-network
-                providers. Please call us to determine which therapist is
-                in-network with your insurance and if they have availability.
-                In-network fees and out of pocket costs may vary from above
-                based on the insurance provider and individual benefits.
+                
+In-network fees and out of pocket costs may vary from above based on the insurance provider and individual benefits. Couples therapy may not be covered in-network; please call for a free consultation to see if it is covered in your case (more information on the blog!). 
+
+                
               </em>
             </p>
             <h3>Out of Network Insurance Benefits</h3>

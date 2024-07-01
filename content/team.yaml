@@ -392,6 +392,8 @@ members:
     linkedin: https://www.linkedin.com/in/emilyelee123/
     psychologytoday: https://www.psychologytoday.com/us/therapists/emily-lee-charlotte-nc/963361
     tagline: "My name is Emily (she/her) and I am here to help you nurture who you are as a person and a parent."
+    badges:
+      - "/badges/psi-pmhc-125.png"
     bio:
       <p>
         Motherhood (and fatherhood!) looks different on everyone. My

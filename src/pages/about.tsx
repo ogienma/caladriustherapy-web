@@ -32,9 +32,7 @@ const AboutPage: React.FC<PageProps> = () => {
                 <>, {member.letters}</>
               )}</h2>
               </span>
-              {/* <span><h2 style={{display: "inline"}}>{member.name}</h2><h3 style={{display: "inline", marginLeft: "0.25em", color: "#aeaeae"}}>{member.letters}</h3></span> */}
               {member.title && (<h4>{member.title}</h4>)}
-                {/* <span><h2 style={{display: "inline"}}>{member.name}</h2>    <h4 style={{display: "inline"}}>{member.title}</h4></span> */}
                 <ul className="actions">
                   {member.email && (
                     <li>
@@ -87,6 +85,12 @@ const AboutPage: React.FC<PageProps> = () => {
                     </li>
                   )}
                 </ul>
+
+                  {member.badges && (                <div style={{margin: "1rem 0"}}>
+                      {member.badges.map((badge: string) => (
+                        <img src={badge} alt={badge} style={{width: "100px", margin: "0 0.5rem"}}/>
+                      ))}
+                  </div>)}
                 <p>{member.tagline}</p>
                 <Text noOfLines={showBio[member.id] ? 0 : 5}>
                   <div dangerouslySetInnerHTML={{ __html: member.bio }} />

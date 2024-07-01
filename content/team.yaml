@@ -143,9 +143,10 @@ members:
     title: Senior Clinician
     image: /headshots/headshot-sav-raynor-500.jpg
     email: sav.raynor@caladriustherapy.com
-    # linkedin: https://www.linkedin.com
-    # psychologytoday: https://www.psychologytoday.com
+    psychologytoday: https://www.psychologytoday.com/us/therapists/sav-raynor-charlotte-nc/1210298
     tagline: "Hi, I’m Sav (they/she) and I’m here to help you find your voice."
+    badges:
+      - "/badges/ryt-200-125.jpg"
     bio:
       <p>
         <em>
@@ -363,14 +364,14 @@ members:
         struggling to protect and maintain their mental health. There are
         times where we feel silenced or bothersome for advocating for
         ourselves. One of my objectives is to walk with you as you find
-        your voice and embrace your strengths.{" "}
+        your voice and embrace your strengths.
       </p>
       <p>
         I operate from a person-centered lens which allows the client to
         lead sessions at a pace that makes sense for them. We may be a
         strong fit if you are in need of someone to process or explore
         parts of your identity with. Asking for help is a brave step in
-        and of itself!{" "}
+        and of itself!
       </p>
       <p>
         <em>
@@ -381,134 +382,6 @@ members:
           has experience working with teens, young adults, and adults.
         </em>
       </p>
-
-  # - id: tatim-lace
-  #   name: Tatim Lace
-  #   letters: LCSW-A
-  #   title: Clininical Team Lead - South Park, Clinician
-  #   image: /headshots/headshot-tatim-lace-500.jpg
-  #   email: tatim.lace@caladriustherapy.com
-  #   linkedin: https://www.linkedin.com/in/tatimlace/
-  #   psychologytoday: https://www.psychologytoday.com/us/therapists/tatim-lace-charlotte-nc/944737
-  #   tagline: "My name is Tatim (he/they) and I’m here to let you know you're not alone."
-  #   bio:
-  #     <p>
-  #       Growing up a queer kid in a rural area shaped the person I am
-  #       today. In my adulthood, I became aware of the power of my own
-  #       resilience, and the protective factors that enabled me to get to
-  #       where I am today. I want to help other people who have been
-  #       through difficult experiences discover the power of their own
-  #       resilience as well.
-  #     </p>
-  #     <p>
-  #       We might be a good fit if you're struggling with personal
-  #       relationships or feeling alone in your journey. You may be stuck
-  #       in a painful past or struggling with sorting out who you are. You
-  #       might be searching for a different perspective or someone to
-  #       validate your experience. I believe in the power of building up
-  #       your resiliency toolbox and finding light at the end of the tunnel
-  #       together. Each life stage and relationship offers different
-  #       rewards and challenges that I enjoy working with. Navigating those
-  #       life stages can be more complex for those struggling with identity
-  #       and social ostracization. The LGBTQIA+ community is the most near
-  #       and dear to my heart.
-  #     </p>
-  #     <p>
-  #       I offer a unique clinical and lived experience with a wide variety
-  #       of complex issues and populations. My clinical instinct operates
-  #       through a systemic lens. I come from a background working with
-  #       families to address tough issues related to juvenile justice and
-  #       DSS involvement. I enjoy helping people find relief and a better
-  #       way forward. I also enjoy going deep and helping people make sense
-  #       of their root traumas that may be holding them back. I enjoy
-  #       practical application and skill-building through CBT and DBT
-  #       modalities. Much of my experience has been assisting people with
-  #       finding and practicing communication and coping skills to
-  #       strengthen their relationships with family, friends, and
-  #       themselves. I am passionate about helping families and couples
-  #       have difficult, but necessary conversations. I often challenge my
-  #       clients to consider circumstances from different angles and guide
-  #       them out of their comfort zones.
-  #     </p>
-  #     <p>
-  #       <em>
-  #         Tatim Lace, MSW, LCSW-A graduated from Marywood University in
-  #         Scranton, PA with a BA in communications and from Appalachian
-  #         State University with a Masters of Social Work degree and a dual
-  #         focus in community and clinical social work. He is experienced
-  #         in training others on best practices for working with the
-  #         LGBTQIA+ community across different settings. Tatim is trained
-  #         in Family Centered Treatment (FCT) and Functional Family Therapy
-  #         (FFT).
-  #       </em>
-  #     </p>
-
-  # - id: maddy-kostur
-  #   name: Maddy Kostur
-  #   letters: LCSW-A
-  #   title: Clinician
-  #   image: /headshots/headshot-maddy-kostur-500.jpg
-  #   email: madalyn.kostur@caladriustherapy.com
-  #   psychologytoday: https://www.psychologytoday.com/us/therapists/maddy-kostur-charlotte-nc/890410
-  #   tagline: "My name is Maddy (she/her) and I am here to walk with you and your family through life's ups and downs."
-  #   bio: "
-  #     <p>
-  #         <em>
-  #           “There is no greater work human hands can do than to hold a
-  #           child with a fierce tenderness that says in a way words never
-  #           can: 'you are loved', 'you are safe', 'you can trust'.”
-  #         </em>
-  #         -Parker Palmer
-  #       </p>
-  #       <p>
-  #         Every child deserves to be a child - to feel safe, loved, and to
-  #         experience the world through a lens filled with wonder, joy and
-  #         curiosity. When trauma occurs, it can affect every fiber of a
-  #         child's being, causing chaos and disruption to their childhood. It
-  #         can often feel impossible to know where to begin to start the
-  #         healing process. That is why I am here - to help your child
-  #         untangle and process the jumbled and complicated emotions that
-  #         trauma can cause. Through processing with your child, we will
-  #         explore emotions and experiences that will help them heal,
-  #         increase their sense of safety and security, and learn skills to
-  #         help them cope with intense moments of emotions.
-  #       </p>
-  #       <p>
-  #         I use a child-centered approach, meaning I meet each child where
-  #         they are with empathy and understanding, taking into account every
-  #         factor playing a role in their life. In the playroom, your child
-  #         gets to be fully, authentically them - without judgement and
-  #         taking the lead. In play therapy, we use the language that all
-  #         children are fluent in - play. Finding words to fully express how
-  #         trauma has affected an individual is difficult for anyone,
-  #         especially a child who might not yet have the vocabulary to
-  #         process their experiences.The playroom is a place for the child to
-  #         experience control over the situations and emotions in their life
-  #         that produce chaos and unease, all the while feeling in their
-  #         element, surrounded by toys, games, and books familiar to them.
-  #       </p>
-  #       <p>
-  #         Your child and family's stories are precious and deserve to be
-  #         held with the utmost respect. To be entrusted to walk alongside
-  #         you and your child as they navigate their past stories, their
-  #         current stories, and their future stories is the greatest honor.
-  #       </p>
-  #       <p>
-  #         <em>
-  #           Madalyn Kostur, MSW, LCSWA graduated from the University of
-  #           North Carolina at Charlotte with a Master of Social Work and a
-  #           graduate certificate in Play Therapy. She specializes in working
-  #           with children and adolescents ages 3 and up. She is trained in
-  #           multiple approaches of play therapy, including Child-Centered
-  #           Play Therapy, Child-Parent Relationship Training, Expressive
-  #           Arts Therapy, and Sand Tray Therapy. She is also trained in EMDR
-  #           and TF-CBT. She specializes in working with children and
-  #           families who have had DSS involvement as well as adoptees and
-  #           has extensive experience working with different child welfare
-  #           programs, including Youth and Family Services, Guardian ad Litem
-  #           programs, and non-profit organizations.
-  #         </em>
-  #       </p>"
 
   - id: emily-lee
     name: Emily Lee
@@ -627,6 +500,9 @@ members:
     linkedin: https://www.linkedin.com/in/jessie-ogienko/
     psychologytoday: https://www.psychologytoday.com/us/therapists/jessie-lee-ogienko-charlotte-nc/435847
     instagram: https://www.instagram.com/@jessieogienkolcsw
+    badges:
+      - /badges/nbcc-acep-125.jpg
+      - /badges/tac-case-125.jpg
     tagline: "My name is Jessie (she/her) and I can help you move forward."
     bio:
       <p>
@@ -691,6 +567,8 @@ members:
     image: /headshots/headshot-storm-ogienko-500.jpg
     email: jessie.ogienko@caladriustherapy.com
     tiktok: https://www.tiktok.com/@calm_in_the_storm
+    badges:
+      - /badges/akc-star-125.png
     bio:
       <p>
         <em>

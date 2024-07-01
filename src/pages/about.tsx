@@ -88,7 +88,7 @@ const AboutPage: React.FC<PageProps> = () => {
 
                   {member.badges && (                <div style={{margin: "1rem 0"}}>
                       {member.badges.map((badge: string) => (
-                        <img src={badge} alt={badge} style={{height: "100px", margin: "0 0.5rem"}}/>
+                        <img src={badge} alt={badge} style={{height: "100px", margin: "0 0.5rem 0 0"}}/>
                       ))}
                   </div>)}
                 <p>{member.tagline}</p>

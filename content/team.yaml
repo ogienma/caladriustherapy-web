@@ -29,6 +29,25 @@ members:
           Nicole Brito, MA, LCMHCA, NCC graduated from The University of North Carolina at Charlotte with her Master’s of Art in Counseling. She received her Bachelor’s of Arts in Psychology with a minor in Social Work from Winthrop University. Nicole has experience in working with teens, young adults, and adults offering Spanish and English services. She has a special interest in supporting clients with anxiety, body image, disordered eating, multicultural concerns, LGBTQIA+, ADHD, women issues, and life transitions. She is passionate about providing cultural and holistic practices as well as an affirming space for the needs of each client.
         </em>
       </p>
+  
+  - id: mylah-chandler
+    name: Mylah Chandler
+    letters: LCSWA
+    title: Clinician
+    image: /headshots/headshot-joining-soon-500.jpg
+    email: mylah.chandler@caladriustherapy.com
+    linkedin: https://www.linkedin.com/in/mylah-chandler-903529145/
+    psychologytoday: https://www.psychologytoday.com/us/therapists/mylah-m-chandler-charlotte-nc/1188525
+    tagline: "My name is Mylah Chandler (she/her) and when teaching middle school special needs classes didn’t fulfill my desire to provide support, encouragement, and build skills necessary to navigate the world or the emotions it may cause, I realized I needed to change my career. I moved from upstate NY to Charlotte, NC in hopes of being able to better support youth, adolescents, and young adults who needed it."
+    bio:
+      <p>
+        I want to provide a safe space to process your emotions and past traumas, a nonjudgmental and supportive ear to listen to your concerns, an open heart and mind, and an empowering guide to work with you to achieve goals that matter to you. At the end of our sessions, I hope you leave my office feeling replenished and prepared to face what life throws at you.
+      </p>
+      <p>
+        <em>
+          Mylah Chandler MSW, LCSWA graduated from Tulane University. She provides counseling services for children, adolescents, and young adults and has experience with children and adults with Autism, behavioral issues, cognitive and developmental disorders, anxiety, depression, and trauma related to sexual abuse, domestic violence, relationships, and more.
+        </em>
+      </p> 
 
   - id: kelsey-grant
     name: Kelsey Grant

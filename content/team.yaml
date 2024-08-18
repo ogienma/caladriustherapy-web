@@ -617,6 +617,14 @@ members:
         .
       </p>
 
+  - id: cathy-dobbs
+    name: Cathy Dobbs
+    title: Office Manager
+    image: /headshots/headshot-cathy-dobbs-500.jpg
+    email: hello@caladriustherapy.com
+    tagline: ""
+    bio: ""
+
   - id: storm
     name: Storm Ogienko
     title: Good Boy

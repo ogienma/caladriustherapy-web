@@ -1,5 +1,25 @@
 members:
 
+  - id: mia-dadian
+    name: Mia Dadian
+    letters: LCMHCA, NCC
+    title: Clinician
+    image: /headshots/headshot-mia-dadian-500.jpg
+    email: mia.dadian@caladriustherapy.com
+    tagline: "Hi there! My name is Mia Dadian (she/her), and I am both honored and humbled to be alongside you on your journey to creating a life that reflects and honors who you truly are. My goal is to provide an affirming space where youth, adolescents, and emerging adults can navigate their paths of identity exploration in all its forms."
+    bio:
+      <p>
+        I am dedicated and passionate about supporting queer and neurodivergent communities as we work to build daily routines and coping strategies, shape and understand your own sense of self, and explore and honor any and all of your identities. My approach is grounded in an eclectic model where I pull from Person-Centered, Cognitive-Behavioral, Mindfulness, Solution-Focused Therapy, and other approaches based on you and your journey.
+      </p>
+      <p>
+        I am a nerd through and through and spent the final year of my graduate program finding ways of incorporating gaming and individuals’ niche interests into their therapeutic plans. This can take all forms: books, video games, TTRPGs, tv shows, etc. - I want to hear about your favorite things and find ways to make them not only a source of comfort but to explore how they might be utilized to support your own personal growth and journey to being your favorite self!
+      </p>
+      <p>
+        <em>
+          Mia Dadian, LCMHCA is a Registered Play Therapist (RPT) under supervision. She has a Bachelor of Arts in Psychology and a Master of Science in Counseling and Educational Development, both from UNC. She sees children, adolescents, and adults. 
+        </em>
+      </p>
+    
   - id: nicole-brito
     name: Nicole Brito
     letters: LCMHCA

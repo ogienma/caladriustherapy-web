@@ -7,7 +7,7 @@ members:
     image: /headshots/headshot-mia-dadian-500.jpg
     email: mia.dadian@caladriustherapy.com
     tagline: "Hi there! My name is Mia Dadian (she/her), and I am both honored and humbled to be alongside you on your journey to creating a life that reflects and honors who you truly are. My goal is to provide an affirming space where youth, adolescents, and emerging adults can navigate their paths of identity exploration in all its forms."
-    bio:
+    bio: |
       <p>
         I am dedicated and passionate about supporting queer and neurodivergent communities as we work to build daily routines and coping strategies, shape and understand your own sense of self, and explore and honor any and all of your identities. My approach is grounded in an eclectic model where I pull from Person-Centered, Cognitive-Behavioral, Mindfulness, Solution-Focused Therapy, and other approaches based on you and your journey.
       </p>
@@ -29,7 +29,7 @@ members:
     linkedin: https://www.linkedin.com/in/nicole-brito/
     psychologytoday: https://www.psychologytoday.com/us/therapists/nicole-brito-charlotte-nc/1260234
     tagline: "Hi there! I’m Nicole (she/her), and I’m honored to be part of your healing journey. My mission is to provide a nurturing and genuine space where you can tell your story."
-    bio:
+    bio: |
       <p>
         <em>
           "Vulnerability sounds like truth and feels like courage. Truth and courage aren't always comfortable, but they're never weakness." - Brené Brown
@@ -58,7 +58,7 @@ members:
     email: elizabeth.riley@caladriustherapy.com
     linkedin: https://www.linkedin.com/in/elizabeth-riley-ma-lcmhca-ncc-82b4a5197/
     tagline: ""
-    bio:
+    bio: |
       <p>
         <em>
           Elizabeth Riley, LCMHCA sees adolescents and adults. She utilizes IFS, CBT, DBT, trauma-informed care, and attachment-based interventions. Elizabeth is a generalist who works with clients experiencing grief, life transitions, anxiety, depression, autism, and women's issues. Elizabeth provides therapy for individuals, couples, and families.
@@ -74,7 +74,7 @@ members:
     linkedin: https://www.linkedin.com/in/mylah-chandler-903529145/
     psychologytoday: https://www.psychologytoday.com/us/therapists/mylah-m-chandler-charlotte-nc/1188525
     tagline: "My name is Mylah Chandler (she/her) and when teaching middle school special needs classes didn’t fulfill my desire to provide support, encouragement, and build skills necessary to navigate the world or the emotions it may cause, I realized I needed to change my career. I moved from upstate NY to Charlotte, NC in hopes of being able to better support youth, adolescents, and young adults who needed it."
-    bio:
+    bio: |
       <p>
         I want to provide a safe space to process your emotions and past traumas, a nonjudgmental and supportive ear to listen to your concerns, an open heart and mind, and an empowering guide to work with you to achieve goals that matter to you. At the end of our sessions, I hope you leave my office feeling replenished and prepared to face what life throws at you.
       </p>
@@ -92,7 +92,7 @@ members:
     email: kelsey.grant@caladriustherapy.com
     psychologytoday: https://www.psychologytoday.com/us/therapists/kelsey-lynn-grant-charlotte-nc/1266527
     tagline: Hi there, my name is Kelsey (she/her) and I am here to help you reshape your thinking, behaviors, and relationships.
-    bio:
+    bio: |
       <p>
         <em>
           Vulnerability is the birthplace of innovation, creativity and change. - Brené Brown
@@ -119,7 +119,7 @@ members:
     linkedin: https://www.linkedin.com/in/rvboulware01
     # psychologytoday: https://www.psychologytoday.com
     tagline: "Hi, my name is Robin (she/her), and I am here to provide support and encouragement as you navigate life challenges with openness and acceptance as you continue to heal, grow, and evolve."
-    bio:
+    bio: |
       <p>
         <em>
           "Just because no one else can heal or do your inner work for you, doesn't mean you can, should, or need to do it alone." - Lisa Olivera</em>
@@ -140,7 +140,7 @@ members:
     image: /headshots/headshot-deerik-bradley-500.jpg
     email: deerik.bradley@caladriustherapy.com
     tagline: "Hey, what's up! My name is De'Erik (he/him) and I’m here to help you process and progress."
-    bio:
+    bio: |
       <p>
         <em>
           "As long as you have breath, you have options" - Imani Cohen

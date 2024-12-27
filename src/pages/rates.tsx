@@ -37,7 +37,7 @@ const RatesPage: React.FC<PageProps> = () => {
                 <sup>1</sup> Blue Value and Blue Local are unfortunately considered out-of-network. Blue Home is typically in-network, but we will verify your benefits for you.
                 </em>
               <em>
-                <sup>2</sup> Hannah Travis, LCSW, Sav Raynor, LMFT, and Jessie Ogienko, LCSW are the only providers considered in-network at this time. All other providers can bill on out-of-network benefits.   
+                <sup>2</sup> Hannah Travis, LCSW, Sav Raynor, LMFT are the only providers considered in-network at this time. All other providers can bill on out-of-network benefits.   
                 </em>
               </p>
             <p>

@@ -25,7 +25,6 @@ const RatesPage: React.FC<PageProps> = () => {
               <li>AETNA</li>
               <li>Blue Cross Blue Shield <sup>1</sup></li>
               <li>Carolina Complete Health</li>
-              <li>Cigna</li>
               <li>Healthy Blue</li>
               <li>Partners Behavioral Health</li>
               <li>Trillium</li>

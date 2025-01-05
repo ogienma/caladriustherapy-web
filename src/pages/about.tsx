@@ -38,7 +38,7 @@ const AboutPage: React.FC<PageProps> = () => {
                     <li>
                       <a
                         href={`mailto:${member.email}`}
-                        className="button small solid icon fa-envelope"
+                        className="button small solid icon fas fa-envelope"
                       >
                         Email
                       </a>
@@ -48,7 +48,7 @@ const AboutPage: React.FC<PageProps> = () => {
                     <li>
                       <a
                         href={member.linkedin}
-                        className="button small solid icon brands fa-linkedin"
+                        className="button small solid icon brands fas fa-linkedin"
                       >
                         LinkedIn
                       </a>
@@ -58,7 +58,7 @@ const AboutPage: React.FC<PageProps> = () => {
                     <li>
                       <a
                         href={member.psychologytoday}
-                        className="button small solid icon fa-external-link-alt"
+                        className="button small solid icon fas fa-external-link-alt"
                       >
                         PsychologyToday
                       </a>
@@ -68,7 +68,7 @@ const AboutPage: React.FC<PageProps> = () => {
                     <li>
                       <a
                         href={member.instagram}
-                        className="button small solid icon brands fa-instagram"
+                        className="button small solid icon brands fas fa-instagram"
                       >
                         Instagram
                       </a>
@@ -78,7 +78,7 @@ const AboutPage: React.FC<PageProps> = () => {
                     <li>
                       <a
                         href={member.tiktok}
-                        className="button small solid icon brands fa-tiktok"
+                        className="button small solid icon brands fas fa-tiktok"
                       >
                         TikTok
                       </a>

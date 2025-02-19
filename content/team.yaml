@@ -397,7 +397,7 @@ members:
   - id: emily-lee
     name: Emily Lee
     letters: LCSW-A
-    title: Clinician
+    title: Clinician, Training and QA Lead
     image: /headshots/headshot-emily-lee-500.jpg
     email: emily.lee@caladriustherapy.com
     linkedin: https://www.linkedin.com/in/emilyelee123/
@@ -578,9 +578,17 @@ members:
 
   - id: cathy-dobbs
     name: Cathy Dobbs
-    title: Office Manager
+    title: Clinical Intake Coordinator
     image: /headshots/headshot-cathy-dobbs-500.jpg
     email: hello@caladriustherapy.com
+    tagline: ""
+    bio: ""
+
+  - id: casey-reames
+    name: Casey Reames
+    title: Administrative Assistant
+    image: /headshots/headshot-coming-soon-500.jpg
+    email: casey.reames@caladriustherapy.com
     tagline: ""
     bio: ""
 

@@ -276,18 +276,6 @@ const Gallery: React.FC<IProps> = () => {
               </a>{" "}
             </article>
           </SwiperSlide>
-          <SwiperSlide style={{ width: "630px", height: "630px" }}>
-            <article>
-              <a href="/our-space/0J7A3360.jpg" className="image">
-                <StaticImage
-                  src="../../static/our-space/0J7A3360_square.jpg"
-                  alt="Caladrius Therapy Office"
-                  width={630}
-                  height={630}
-                />
-              </a>{" "}
-            </article>
-          </SwiperSlide>
         </Swiper>
         {/* <div className="gallery style2 small lightbox">
            *<div className="modal" tabindex="-1">

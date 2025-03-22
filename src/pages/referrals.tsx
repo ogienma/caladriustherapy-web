@@ -15,9 +15,13 @@ const ReferralsPage: React.FC<PageProps> = () => {
               <form name="referrals" method="POST" data-netlify="true">
                 <input type="hidden" name="form-name" value="referrals" />
                 <div className="fields">
-                  <div className="field">
-                    <label htmlFor="email">Email</label>
-                    <input type="email" name="email" id="email" />
+                  <div className="field half">
+                    <label htmlFor="referral-source">Referral source (organization/individual name)</label>
+                    <input type="text" name="referral-source" id="referral-source" />
+                  </div>
+                  <div className="field half">
+                    <label htmlFor="referral-email">Referral email</label>
+                    <input type="email" name="referral-email" id="referral-email" />
                   </div>
                 </div>
                 <ul className="actions">

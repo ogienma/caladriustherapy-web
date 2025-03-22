@@ -245,25 +245,6 @@ const ReferralsPage: React.FC<PageProps> = () => {
             </form>
           </div>
         </section>
-        <form name="colors" method="POST" data-netlify="true">
-      <input type="hidden" name="form-name" value="colors" />
-      <fieldset name="color">
-  <div className="radio-group">
-<div className="radio">
-      <input type="radio" name="color" id="red" value="red"/> <label htmlFor="red">Red</label>
-  </div>
-  <div className="radio">
-      <input type="radio" name="color" id="green" value="green"/> <label htmlFor="green">Green</label>
-  </div>
-  <div className="radio">
-      <input type="radio" name="color" id="blue" value="blue"/>  <label htmlFor="blue">Blue</label>
-  </div>
-  </div>
-</fieldset>
-<button type="submit" className="primary" name="submit" id="submit">
-                    Submit
-                  </button>
-</form>
       </Layout>
     </>
   );

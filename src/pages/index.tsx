@@ -260,6 +260,9 @@ const ReferralsPage: React.FC<PageProps> = () => {
   </div>
   </div>
 </fieldset>
+<button type="submit" className="primary" name="submit" id="submit">
+                    Submit
+                  </button>
 </form>
       </Layout>
     </>

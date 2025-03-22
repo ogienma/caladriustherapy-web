@@ -305,7 +305,7 @@ const ReferralsPage: React.FC<PageProps> = () => {
                   ></textarea>
                 </div> */}
                 <div className="field">
-                  <fieldset className="checkboxes grid grid-cols-2 md:grid-cols-3 gap-2">
+                  <fieldset name="insurance2" className="checkboxes grid grid-cols-2 md:grid-cols-3 gap-2">
                     <legend>Insurance2</legend>
                     <div className="checkbox">
                       <input

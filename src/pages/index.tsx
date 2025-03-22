@@ -312,7 +312,7 @@ const IndexPage: React.FC<PageProps> = () => {
                 <div className="content">
                   Are you a provider looking to refer someone to Caladrius
                   Therapy? If so, please complete{" "}
-                  <a href="https://docs.google.com/forms/d/e/1FAIpQLScGrVjx8T30DoF_smDZKS7pOtIQeZxXmVgoazgARc189aJ4Zg/viewform?vc=0&c=0&w=1&flr=0&usp=mail_form_link">
+                  <a href="https://caladriustherapy.com/referrals/">
                     our referral form
                   </a>
                   .

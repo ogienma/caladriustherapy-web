@@ -1,331 +1,271 @@
 import * as React from "react";
 import type { HeadFC, PageProps } from "gatsby";
-import Layout from "../components/Layout";
 import { SEO } from "../components/SEO";
-import OurTeamPanel from "../components/OurTeamPanel";
-import teamData from "../../content/team.yaml";
-import Gallery from "../components/Gallery";
+import Layout from "../components/Layout";
+import { StaticImage } from "gatsby-plugin-image";
 
-const IndexPage: React.FC<PageProps> = () => {
+const ReferralsPage: React.FC<PageProps> = () => {
   return (
     <>
       <Layout>
-        {/* // <!-- Banner --> */}
-        <section className="banner style1 orient-left content-align-left image-position-right fullscreen">
+      
+        <section className="spotlight style1 orient-left content-align-left image-position-center">
           <div className="content">
-            <h1>your first step to inner calm</h1>
-            <p className="major">
-              <strong>Caladrius Therapy</strong> in{" "}
-              <strong>Charlotte, NC</strong>.
-            </p>
-            <p>
-              Everyone deserves to be seen and to share their story with someone
-              who is empathetic, caring, and helpful.
-            </p>
-            {/* <!--<ul className="actions stacked">
-      <li>
-        <a href="#form" className="button primary large wide mr-3">Get In Touch</a>
-        <a href="https://caladrius.clientsecure.me" className="button primary large wide mr-3"
-        data-spwidget-scope-id="9ea36f87-56fd-4ef3-8641-a0a82839a987" data-spwidget-scope-uri="caladrius"
-        data-spwidget-application-id="7c72cb9f9a9b913654bb89d6c7b4e71a77911b30192051da35384b4d0c6d505b"
-        data-spwidget-scope-global data-spwidget-autobind>Book Appointment</a>
-      </li>
-    </ul>--> */}
-            <ul className="actions">
-              <li>
-                <a href="#form" className="button primary large wide mr-3">
-                  Get In Touch
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://caladrius.clientsecure.me"
-                  className="spwidget-button button primary large wide mr-3"
-                  data-spwidget-scope-id="9ea36f87-56fd-4ef3-8641-a0a82839a987"
-                  data-spwidget-scope-uri="caladrius"
-                  data-spwidget-application-id="7c72cb9f9a9b913654bb89d6c7b4e71a77911b30192051da35384b4d0c6d505b"
-                  data-spwidget-scope-global
-                  data-spwidget-autobind
-                >
-                  Book Appointment
-                </a>
-              </li>
-            </ul>
-          </div>
-          <div className="image">
-            <img
-              src="/heroes/pexels-stijn-dijkstra-1306815-18709770-2160p.jpg"
-              style={{ filter: "brightness(50%)" }}
-              alt=""
-            />
-            <div className="content birddiv">
-              <img
-                src="/bird-white.svg"
-                alt=""
-                style={{ position: "relative" }}
-              />
-            </div>
-          </div>
-        </section>
-
-        {/* <!-- Spotlight --> */}
-        <section
-          className="spotlight style1 orient-right content-align-left image-position-center"
-          id="first"
-        >
-          <div className="content">
-            <h2>Our Approach</h2>
-            <p>
-              <em>
-                The caladrius is a white bird from Roman mythology that was said
-                to gaze on those in pain and share it with them. The bird could
-                then heal both itself and the injured, dispersing the pain as it
-                flew towards the sun.
-              </em>
-            </p>
-            <p>
-              We believe empathy is essential to a beneficial therapeutic
-              relationship. Empathy is feeling with someone; it is different
-              from sympathy, which is feeling bad for someone. We believe
-              everyone has the capacity to be strong, to know what they need,
-              and to guide their own treatment goals. We believe in being honest
-              and transparent. You are the expert on you.
-            </p>
-          </div>
-          <div className="image">
-          <img src="/heroes/stephen-walker-572414-unsplash.jpg" alt="" />
-          </div>
-        </section>
-        {/* 
-<!-- Spotlight: About Trauma -->
-<!--
-<section className="spotlight style1 orient-left content-align-left image-position-center" id="second">
-  <div className="content">
-    <h2>About Trauma</h2>
-    <p><em>"I am not what happened to me. I am what I choose to become." - Carl Jung</em></p>
-    <p>Many people have had scary or terrible things happen to them: trauma isn't just what happens to you - it's how
-      you experience it.</p>
-    <p>Maybe - as is the case with many others - you haven’t told anyone. Maybe you <em>have</em> told people what
-      happened and their response was confusing, hurtful, or dismissive. Maybe you feel like you just want it to be
-      over or you should have gotten past it already. You might have reminders of what happened impacting your life
-      through nightmares, flashbacks, or trying to avoid any mention or reminder of the events. You might feel numb.
-      Maybe you are a parent and are completely lost on how to help your child recover. </p>
-    <p>You have the capacity to be a survivor and not feel like a victim. You have the ability to move forward.</p>
-  </div>
-  <div className="image">
-    <img src="images/hand-elijah-o-donnell-715864-unsplash.jpg" alt="" />
-  </div>
-</section>
---> */}
-
-        {/* <!-- Team --> */}
-        <OurTeamPanel />
-        {/* <!-- Spotlight: Services --> */}
-        <section
-          className="spotlight style1 orient-left content-align-left image-position-center"
-          id="services"
-        >
-          <div className="content">
-            <h2>Services</h2>
-            <ul>
-              <li>
-                <a href="/couples-therapy#couples-therapy-body">
-                  Couples Therapy
-                </a>
-              </li>
-              <li>
-                <a href="/group-therapy#group-therapy-body">Group Therapy</a>
-              </li>
-              <li>
-                <a href="/family-therapy">Family Therapy</a>
-              </li>
-              <li>
-                <a href="/emdr">
-                  Eye Movement Desensitization and Reprocessing (EMDR) Therapy
-                </a>
-              </li>
-              <li>
-                <a href="/tf-cbt">
-                  Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)
-                </a>
-              </li>
-              <li>
-                <a href="/sandtray-therapy#sandtray-therapy-body">
-                  Sandtray Therapy
-                </a>
-              </li>
-              <li>
-                <a href="/life-transitions-therapy#life-transitions-therapy-body">
-                  Life Transitions
-                </a>
-              </li>
-              <li>Comprehensive Clinical Assessment (CCA)</li>
-              {/* <!-- <li>Global Appraisal of Individual Needs (GAIN) Assessment</li> --> */}
-              <li>
-                Children, Adolescents, Adult, and Family Outpatient Therapy
-              </li>
-              <li>
-                Parent Training for Disruptive Behavior (The RUBI Autism
-                Network)
-              </li>
-              <li>Parent Coaching</li>
-            </ul>
-          </div>
-          <div className="image">
-            <img src="/heroes/nicole-honeywill-704489-unsplash.jpg" alt="" />
-          </div>
-        </section>
-        <Gallery />
-        <section className="wrapper style2 align-center">
-          <div className="inner">
-            <div className="index align-left">
-              {/* <!-- Contact Form --> */}
-              <section id="form">
-                <header>
-                  <h3>Get In Touch</h3>
-                </header>
-
-                <div className="content">
-                  <form name="contact" method="POST" data-netlify="true">
-                    <input type="hidden" name="form-name" value="contact" />
-                    <div className="fields">
-                      <div className="field half">
-                        <label htmlFor="name">Name</label>
-                        <input type="text" name="name" id="name" />
-                      </div>
-                      <div className="field half">
-                        <label htmlFor="email">Email</label>
-                        <input type="email" name="email" id="email" />
-                      </div>
-                      <div className="field">
-                        <label htmlFor="message">Message</label>
-                        <textarea
-                          name="message"
-                          id="message"
-                          rows={5}
-                        ></textarea>
-                      </div>
-                    </div>
-                    <ul className="actions">
-                      <li>
-                        <button
-                          type="submit"
-                          className="primary"
-                          name="submit"
-                          id="submit"
-                        >
-                          Send Message
-                        </button>
-                      </li>
-                    </ul>
-                  </form>
+            <h2>Referrals</h2>
+            <p>For providers: please use this form to send a referral to Caladrius Therapy.</p>
+            <form name="referrals" method="POST" data-netlify="true">
+              <input type="hidden" name="form-name" value="referrals" />
+              <div className="fields">
+                {/* Referral Source Information */}
+                <div className="field half">
+                  <label htmlFor="referral-source">Referral Source (Agency/Person Name)*</label>
+                  <input type="text" name="referral-source" id="referral-source" required />
                 </div>
-              </section>
+                <div className="field half">
+                  <label htmlFor="referral-email">Referral Source Email Address*</label>
+                  <input type="email" name="referral-email" id="referral-email" required />
+                </div>
+                <div className="field half">
+                  <label htmlFor="referral-phone">Referral Source Phone Number*</label>
+                  <input type="tel" name="referral-phone" id="referral-phone" required />
+                </div>
+                <div className="field half">
+                  <label htmlFor="referral-address">Referral Source Address</label>
+                  <input type="text" name="referral-address" id="referral-address" />
+                </div>
+                <div className="field half">
+                  <label htmlFor="referral-fax">Referral Source Fax Number</label>
+                  <input type="text" name="referral-fax" id="referral-fax" />
+                </div>
 
-              {/* <!-- Contact Details --> */}
-              <div className="items style1 medium">
-                <section>
-                  <div className="inner">
-                    <a href="tel:7049803082">
-                      <span className="icon style2 major solid fa-phone-alt"></span>
-                    </a>
-                    <a href="tel:7049803082">
-                      <h4 style={{ textAlign: "center" }}>(704) 980-3082</h4>
-                    </a>
-                    <p style={{ textAlign: "center", color: "#9ba3ae" }}>
-                      Fax: (704) 709-1344
-                    </p>
-                  </div>
-                </section>
-                <section>
-                  <div className="inner" style={{ textAlign: "center" }}>
-                    <a href="mailto:hello@caladriustherapy.com">
-                      <span className="icon style2 major solid fa-envelope"></span>
-                    </a>
+                {/* Client Information */}
+                <div className="field half">
+                  <label htmlFor="client-name">Client Name*</label>
+                  <input type="text" name="client-name" id="client-name" required />
+                </div>
+                <div className="field half">
+                  <label htmlFor="client-phone">Client Phone Number*</label>
+                  <input type="tel" name="client-phone" id="client-phone" required />
+                </div>
+                <div className="field half">
+                  <label htmlFor="client-email">Client Email Address*</label>
+                  <input type="email" name="client-email" id="client-email" required />
+                </div>
+                <div className="field half">
+                  <label htmlFor="client-dob">Client Date of Birth*</label>
+                  <input type="date" name="client-dob" id="client-dob" required />
+                </div>
+                <div className="field half">
+                  <label htmlFor="guardian-name">(If Minor) Client's Parent/Legal Guardian Name</label>
+                  <input type="text" name="guardian-name" id="guardian-name" />
+                </div>
+                <div className="field half">
+                  <label htmlFor="guardian-relationship">(If Minor) Client's Parent/Legal Guardian Relationship</label>
+                  <input type="text" name="guardian-relationship" id="guardian-relationship" />
+                </div>
 
-                    <div className="inner" style={{ textAlign: "center" }}>
-                      <a href="mailto:hello@caladriustherapy.com">
-                        <strong>General Inquiries</strong>
-                      </a>
+                {/* Client Demographics */}
+                <div className="field half">
+                  <label htmlFor="client-sex">Client Sex Assigned at Birth</label>
+                  <select name="client-sex" id="client-sex">
+                    <option value="">Select an option</option>
+                    <option value="female">Female</option>
+                    <option value="male">Male</option>
+                    <option value="intersex">Intersex</option>
+                  </select>
+                </div>
+                <div className="field half">
+                  <label htmlFor="client-gender">Client Gender Identity</label>
+                  <input type="text" name="client-gender" id="client-gender" />
+                </div>
+                <div className="field half">
+                  <label htmlFor="client-pronouns">Client Pronouns</label>
+                  <input type="text" name="client-pronouns" id="client-pronouns" />
+                </div>
+
+                {/* Reasons for Referral */}
+                <div className="field">
+                  <label>Reason(s) For Referral (check all that apply)*</label>
+                  <div className="checkboxes grid grid-cols-2 md:grid-cols-3 gap-2">
+                    <div className="checkbox">
+                      <input type="checkbox" id="individual" name="referral-reasons" value="Individual Therapy" />
+                      <label htmlFor="individual">Individual Therapy</label>
                     </div>
-                    {" • "}
-                    {teamData.members
-                      .reverse()
-                      .map((member: any, index: any) => {
-                        return (
-                          <span>
-                            <a href={`mailto:${member.email}`}>
-                              {`${member.name.split(" ")[0]} ${
-                                member.name.split(" ")[1][0]
-                              }.`}
-                            </a>
-                            {" • "}
-                          </span>
-                        );
-                      })}
-                  </div>
-                </section>
-                <section>
-                  <div className="inner">
-                    <a href="https://g.page/caladrius-therapy?share">
-                      <span className="icon style2 major solid fa-map-pin"></span>
-                    </a>
-                    <div className="inner" style={{ textAlign: "center" }}>
-                      <strong>Elizabeth</strong>
+                    <div className="checkbox">
+                      <input type="checkbox" id="couples" name="referral-reasons" value="Couples Therapy" />
+                      <label htmlFor="couples">Couples Therapy</label>
                     </div>
-                    <a href="https://g.page/caladrius-therapy?share">
-                      <h4 style={{ textAlign: "center" }}>
-                        200 Queens Road, Suite 300
-                        <br />
-                        Charlotte NC 28204
-                      </h4>
-                    </a>
+                    <div className="checkbox">
+                      <input type="checkbox" id="family" name="referral-reasons" value="Family Therapy" />
+                      <label htmlFor="family">Family Therapy</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="checkbox" id="play" name="referral-reasons" value="Play Therapy" />
+                      <label htmlFor="play">Play Therapy</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="checkbox" id="parent" name="referral-reasons" value="Parent Coaching" />
+                      <label htmlFor="parent">Parent Coaching</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="checkbox" id="assessment" name="referral-reasons" value="Comprehensive Clinical Assessment" />
+                      <label htmlFor="assessment">Comprehensive Clinical Assessment</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="checkbox" id="trauma-assessment" name="referral-reasons" value="Trauma Informed Comprehensive Clinical Assessment" />
+                      <label htmlFor="trauma-assessment">Trauma Informed Comprehensive Clinical Assessment</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="checkbox" id="tfcbt" name="referral-reasons" value="TF-CBT" />
+                      <label htmlFor="tfcbt">TF-CBT</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="checkbox" id="emdr" name="referral-reasons" value="EMDR" />
+                      <label htmlFor="emdr">EMDR</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="checkbox" id="brainspotting" name="referral-reasons" value="Brainspotting" />
+                      <label htmlFor="brainspotting">Brainspotting</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="checkbox" id="sex" name="referral-reasons" value="Sex Therapy" />
+                      <label htmlFor="sex">Sex Therapy</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="checkbox" id="group" name="referral-reasons" value="Group Therapy" />
+                      <label htmlFor="group">Group Therapy</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="checkbox" id="reunification" name="referral-reasons" value="Reunification Therapy" />
+                      <label htmlFor="reunification">Reunification Therapy</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="checkbox" id="sandtray" name="referral-reasons" value="Sandtray Therapy" />
+                      <label htmlFor="sandtray">Sandtray Therapy</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="checkbox" id="other-reason" name="referral-reasons" value="Other" />
+                      <label htmlFor="other-reason">Other</label>
+                    </div>
                   </div>
-                </section>
+                </div>
+                <div className="field">
+                  <label htmlFor="referral-description">Brief Description of Reason For Referral*</label>
+                  <textarea name="referral-description" id="referral-description" rows={4} required 
+                    placeholder="PLEASE FORWARD MEDICAL & BEHAVIORAL INFORMATION, COURT REPORTS, SOCIAL SUMMARIES, PREVIOUS EVALUATIONS, ETC."></textarea>
+                </div>
+
+                {/* Billing Information */}
+                <div className="field">
+                  <label>Billing Information / Primary Insurance Company*</label>
+                  <div className="checkboxes grid grid-cols-2 md:grid-cols-3 gap-2">
+                    <div className="checkbox">
+                      <input type="radio" id="self-pay" name="insurance" value="Self-Pay" />
+                      <label htmlFor="self-pay">Self-Pay</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="radio" id="aetna" name="insurance" value="AETNA" />
+                      <label htmlFor="aetna">AETNA</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="radio" id="bcbs" name="insurance" value="BCBS" />
+                      <label htmlFor="bcbs">BCBS</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="radio" id="blue-value" name="insurance" value="Blue Value / Blue Home" />
+                      <label htmlFor="blue-value">Blue Value / Blue Home (out of network at this time)</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="radio" id="healthy-blue" name="insurance" value="Healthy Blue" />
+                      <label htmlFor="healthy-blue">Healthy Blue</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="radio" id="united" name="insurance" value="United HealthCare / Optum" />
+                      <label htmlFor="united">United HealthCare / Optum</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="radio" id="united-eap" name="insurance" value="United EAP" />
+                      <label htmlFor="united-eap">United EAP</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="radio" id="united-community" name="insurance" value="United Community" />
+                      <label htmlFor="united-community">United Community</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="radio" id="partners" name="insurance" value="Partners Medicaid" />
+                      <label htmlFor="partners">Partners Medicaid</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="radio" id="trillium" name="insurance" value="Trillium" />
+                      <label htmlFor="trillium">Trillium</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="radio" id="alliance" name="insurance" value="Alliance Medicaid" />
+                      <label htmlFor="alliance">Alliance Medicaid (requires a single case agreement request/pre-authorization)</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="radio" id="cigna" name="insurance" value="Cigna" />
+                      <label htmlFor="cigna">Cigna (out of network as of February 2025)</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="radio" id="sliding-scale" name="insurance" value="Request for Sliding Scale" />
+                      <label htmlFor="sliding-scale">Request for Sliding Scale</label>
+                    </div>
+                    <div className="checkbox">
+                      <input type="radio" id="other-insurance" name="insurance" value="Other" />
+                      <label htmlFor="other-insurance">Other</label>
+                    </div>
+                  </div>
+                </div>
+                <div className="field">
+                  <label>Does client have any other form of insurance?*</label>
+                  <div className="radio-group">
+                    <div className="radio">
+                      <input type="radio" id="secondary-yes" name="secondary-insurance" value="Yes" required />
+                      <label htmlFor="secondary-yes">Yes</label>
+                    </div>
+                    <div className="radio">
+                      <input type="radio" id="secondary-no" name="secondary-insurance" value="No" />
+                      <label htmlFor="secondary-no">No</label>
+                    </div>
+                    <div className="radio">
+                      <input type="radio" id="secondary-unknown" name="secondary-insurance" value="Unknown" />
+                      <label htmlFor="secondary-unknown">Unknown</label>
+                    </div>
+                  </div>
+                </div>
               </div>
-
-              {/* <!-- Map --> */}
-              <section style={{ paddingTop: "16px" }}>
-                <div className="content">
-                  <div className="iframe-rwd">
-                    {/* <!-- Caladrius Therapy: ChIJOZghlXCfVogRkp499dzCZao -->
-            <!--<iframe id ="1" width="600" height="450" frameborder="0" style="border:0"
-              src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJOZghlXCfVogRkp499dzCZao&key=MY_KEY_HERE" visit https://console.cloud.google.com/apis/credentials/key/25e0c3ca-fdcc-4da5-825e-17be62395978?project=caldrius-220122
-              allowfullscreen></iframe>-->
-            <!-- REST Charlotte:    ChIJ_1JFIXahVogRkSmoiwEc8I8 -->
-            <!-- <iframe id="2" width="600" height="450" frameborder="0" style="border:0"
-              src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJ_1JFIXahVogRkSmoiwEc8I8&key=MY_KEY_HERE" visit https://console.cloud.google.com/apis/credentials/key/25e0c3ca-fdcc-4da5-825e-17be62395978?project=caldrius-220122
-              allowfullscreen></iframe>--> */}
-                    <iframe
-                      src="https://www.google.com/maps/d/embed?mid=1-Sia_16IEGSduBjEI5NMb-O93DZhGE9A&ehbc=2E312F"
-                      width="100%"
-                      height="480"
-                    ></iframe>
-                  </div>
-                </div>
-              </section>
-              {/* <!-- Referrals --> */}
-              <section>
-                <header>
-                  <h3>Referrals</h3>
-                </header>
-                <div className="content">
-                  Are you a provider looking to refer someone to Caladrius
-                  Therapy? If so, please complete{" "}
-                  <a href="https://caladriustherapy.com/referrals/">
-                    our referral form
-                  </a>
-                  .
-                </div>
-              </section>
-            </div>
+              <ul className="actions">
+                <li>
+                  <button type="submit" className="primary" name="submit" id="submit">
+                    Submit
+                  </button>
+                </li>
+              </ul>
+            </form>
           </div>
         </section>
+        <form name="colors" method="POST" data-netlify="true">
+      <input type="hidden" name="form-name" value="colors" />
+      <fieldset name="color">
+  <div className="radio-group">
+<div className="radio">
+      <input type="radio" name="color" id="red" value="red"/> <label htmlFor="red">Red</label>
+  </div>
+  <div className="radio">
+      <input type="radio" name="color" id="green" value="green"/> <label htmlFor="green">Green</label>
+  </div>
+  <div className="radio">
+      <input type="radio" name="color" id="blue" value="blue"/>  <label htmlFor="blue">Blue</label>
+  </div>
+  </div>
+</fieldset>
+</form>
       </Layout>
     </>
   );
 };
 
-export default IndexPage;
+export default ReferralsPage;
 
-export const Head: HeadFC = () => <SEO />;
+export const Head: HeadFC = () => <SEO title="Referrals | Caladrius Therapy" />;

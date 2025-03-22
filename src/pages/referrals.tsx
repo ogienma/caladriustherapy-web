@@ -307,7 +307,7 @@ const ReferralsPage: React.FC<PageProps> = () => {
                 <div className="field">
                   <fieldset name="insurance2" className="checkboxes grid grid-cols-2 md:grid-cols-3 gap-2">
                     <legend>Insurance2</legend>
-                    <div className="checkbox">
+                    <p>
                       <input
                         type="radio"
                         id="self-pay"
@@ -315,8 +315,8 @@ const ReferralsPage: React.FC<PageProps> = () => {
                         value="Self-Pay"
                       />
                       <label htmlFor="self-pay">Self-Pay</label>
-                    </div>
-                    <div className="checkbox">
+                    </p>
+                    <p>
                       <input
                         type="radio"
                         id="aetna"
@@ -324,7 +324,7 @@ const ReferralsPage: React.FC<PageProps> = () => {
                         value="AETNA"
                       />
                       <label htmlFor="aetna">AETNA</label>
-                    </div>
+                    </p>
                   </fieldset>
                 </div>
                 {/* Billing Information */}

@@ -103,6 +103,9 @@ const Nav: FC<IProps> = () => {
                 <a className="navbar-item" href="/tf-cbt">
                   TF-CBT
                 </a>
+                <a className="navbar-item" href="/dbt">
+                  DBT
+                </a>
                 <a
                   className="navbar-item"
                   href="/sandtray-therapy#sandtray-therapy-body"

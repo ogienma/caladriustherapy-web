@@ -3,7 +3,6 @@ import type { HeadFC, PageProps } from "gatsby";
 import { SEO } from "../components/SEO";
 import Layout from "../components/Layout";
 import { useState } from "react";
-import { RiUserHeartLine, RiUserStarLine } from "@remixicon/react";
 
 const DBTPage: React.FC<PageProps> = () => {
   const [isProviderReferral, setIsProviderReferral] = useState(false);
@@ -38,43 +37,53 @@ const DBTPage: React.FC<PageProps> = () => {
               <div className="form-intro">
                 <h3>Getting Started with DBT</h3>
                 <p>To begin your journey with DBT, please select how you'd like to proceed:</p>
-                <div className="form-type-selector">
+                <div className="flex flex-col space-y-4 max-w-md mx-auto">
                   <button 
-                    className="button is-large is-fullwidth mb-4"
+                    className="flex flex-col items-center justify-center p-6 border-2 border-gray-200 rounded-lg hover:border-blue-500 hover:bg-blue-50 transition-all duration-200"
                     onClick={() => {
                       setIsProviderReferral(false);
                       setShowForm(true);
                     }}
                   >
-                    <RiUserHeartLine className="mr-2" />
-                    Self Referral
-                    <p className="is-size-7 mt-2">I am interested in DBT for myself</p>
+                    <span className="text-2xl mb-2">👤</span>
+                    <span className="text-lg font-semibold">Self Referral</span>
+                    <span className="text-sm text-gray-600 mt-2">I am interested in DBT for myself</span>
                   </button>
                   <button 
-                    className="button is-large is-fullwidth"
+                    className="flex flex-col items-center justify-center p-6 border-2 border-gray-200 rounded-lg hover:border-blue-500 hover:bg-blue-50 transition-all duration-200"
                     onClick={() => {
                       setIsProviderReferral(true);
                       setShowForm(true);
                     }}
                   >
-                    <RiUserStarLine className="mr-2" />
-                    Provider Referral
-                    <p className="is-size-7 mt-2">I am a provider referring a client</p>
+                    <span className="text-2xl mb-2">👨‍⚕️</span>
+                    <span className="text-lg font-semibold">Provider Referral</span>
+                    <span className="text-sm text-gray-600 mt-2">I am a provider referring a client</span>
                   </button>
                 </div>
               </div>
             ) : (
               <>
-                <div className="form-toggle mb-4">
-                  <div className="buttons has-addons is-centered">
-                    <button 
-                      className={`button ${!isProviderReferral ? 'is-primary' : ''}`}
+                <div className="flex justify-center mb-8">
+                  <div className="inline-flex rounded-md shadow-sm" role="group">
+                    <button
+                      type="button"
+                      className={`px-4 py-2 text-sm font-medium rounded-l-lg border ${
+                        !isProviderReferral
+                          ? 'bg-blue-600 text-white border-blue-600'
+                          : 'bg-white text-gray-700 border-gray-200 hover:bg-gray-100'
+                      }`}
                       onClick={() => setIsProviderReferral(false)}
                     >
                       Self Referral
                     </button>
-                    <button 
-                      className={`button ${isProviderReferral ? 'is-primary' : ''}`}
+                    <button
+                      type="button"
+                      className={`px-4 py-2 text-sm font-medium rounded-r-lg border ${
+                        isProviderReferral
+                          ? 'bg-blue-600 text-white border-blue-600'
+                          : 'bg-white text-gray-700 border-gray-200 hover:bg-gray-100'
+                      }`}
                       onClick={() => setIsProviderReferral(true)}
                     >
                       Provider Referral

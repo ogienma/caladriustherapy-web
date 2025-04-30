@@ -15,19 +15,6 @@ const DBTPage: React.FC<PageProps> = () => {
           <div className="content">
             <h2>Dialectical Behavior Therapy (DBT)</h2>
             <p>Dialectical Behavior Therapy (DBT) is an evidence-based, cognitive-behavioral treatment designed to help individuals who experience intense emotions, impulsive behaviors, and challenges in relationships and may also exhibit moderate to high-risk behaviors such as suicidality, self-harm, and addiction.</p>
-             <ul className="actions">
-              <li>
-                <a href="https://form.jotform.com/251196339441156" className="button primary large wide mr-3">
-                  I am interested in DBT for myself
-                </a>
-              </li>
-              <li>
-                <a href="https://form.jotform.com/251195172346154" className="button primary large wide"
-                >
-                  I am a provider referring a client
-                </a>
-              </li>
-            </ul>
             <p>DBT focuses on building skills in four key areas:</p>
             <ul>
               <li>Mindfulness</li>
@@ -35,14 +22,12 @@ const DBTPage: React.FC<PageProps> = () => {
               <li>Distress Tolerance</li>
               <li>Interpersonal Effectiveness</li>
             </ul>
-
             <p>The DBT Full Program at Caladrius Therapy is a comprehensive, manualized treatment that includes:</p>
             <ul>
               <li>Weekly individual therapy</li>
               <li>Weekly group therapy</li>
               <li>Phone/email coaching between sessions to generalize skills</li>
             </ul>
-
             <p>Group sessions are available to adults of all ages and genders, with remote and onsite options. Treatment length is 6 months to 1 year based on client need.</p>
             <h3>Getting Started with DBT</h3>
             <p>To begin your journey with DBT, please select how you'd like to proceed:</p>
@@ -54,7 +39,6 @@ const DBTPage: React.FC<PageProps> = () => {
             <a href="https://form.jotform.com/251195172346154">I am a provider referring a client</a>
             </li>  
             </ul>
-           
           </div>
           <div className="image">
             <img src={"/heroes/photo-1564121211835-e88c852648ab.jpg"} alt="Caladrius Therapy DBT" />

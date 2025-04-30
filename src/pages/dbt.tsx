@@ -36,7 +36,7 @@ const DBTPage: React.FC<PageProps> = () => {
             <p>To begin your journey with DBT, please select how you'd like to proceed:</p>
             <ul>
               <li>
-            <a href="https://form.jotform.com/251195172346154">I am interested in DBT for myself</a>
+            <a href="https://form.jotform.com/251196339441156">I am interested in DBT for myself</a>
                 </li>
               <li>
             <a href="https://form.jotform.com/251195172346154">I am a provider referring a client</a>

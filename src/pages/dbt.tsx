@@ -42,6 +42,26 @@ const DBTPage: React.FC<PageProps> = () => {
             <a href="https://form.jotform.com/251195172346154">I am a provider referring a client</a>
             </li>  
             </ul>
+            <ul className="actions">
+              <li>
+                <a href="#form" className="button primary large wide mr-3">
+                  Get In Touch
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://caladrius.clientsecure.me"
+                  className="spwidget-button button primary large wide mr-3"
+                  data-spwidget-scope-id="9ea36f87-56fd-4ef3-8641-a0a82839a987"
+                  data-spwidget-scope-uri="caladrius"
+                  data-spwidget-application-id="7c72cb9f9a9b913654bb89d6c7b4e71a77911b30192051da35384b4d0c6d505b"
+                  data-spwidget-scope-global
+                  data-spwidget-autobind
+                >
+                  Book Appointment
+                </a>
+              </li>
+            </ul>
           </div>
           <div className="image">
             <img src={"/heroes/photo-1564121211835-e88c852648ab.jpg"} alt="Caladrius Therapy DBT" />

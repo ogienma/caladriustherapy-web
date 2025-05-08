@@ -128,7 +128,7 @@ const Nav: FC<IProps> = () => {
             Community Partners
             </a>
             <a className="navbar-item" href="https://caladrius.clientsecure.me">
-              Current Client Portal
+              Client Portal
             </a>
           </div>
           <div className="navbar-end">

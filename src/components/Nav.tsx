@@ -66,7 +66,7 @@ const Nav: FC<IProps> = () => {
               Blog
             </a>
             <a className="navbar-item" href="/about">
-              Our Team
+              Team
             </a>
             <a className="navbar-item" href="/rates">
               Rates

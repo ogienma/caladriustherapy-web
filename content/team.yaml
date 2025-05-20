@@ -1,5 +1,25 @@
 members:
 
+  - id: josie-rana
+    name: Josie Rana
+    letters: LCSW
+    title: Clinician
+    image: /headshots/headshot-josie-rana-500.jpg
+    email: josie.rana@caladriustherapy.com
+    tagline: "Hi y’all! I’m Josie (she/her), a therapist who believes in meeting people where they are—with warmth, honesty, and curiosity."
+    bio: |
+      <p>
+        I work with individuals navigating the complexities of borderline personality disorder, bipolar disorder, attachment wounds, and the lingering effects of trauma. I hold deep respect for the resilience that comes from lived experience, especially for those who have endured past trauma.
+      </p>
+      <p>
+        I understand that therapy can be both a vulnerable and empowering journey, so I strive to create a space where all parts of you are welcome. My style is collaborative, warm, and nonjudgmental. I often integrate psychodynamic, trauma-informed, and skills-based approaches to support growth, stability, and a deeper understanding of self.
+      </p>
+      <p>
+        <em>
+          Josie Rana graduated from the University of Alabama with Bachelors’ of Science in Psychology and Chemistry and a Master’s in Social Work. She provides Dialectical Behavior Therapy with fidelity to the full model standards. Josie is certified in Trauma Focused Cognitive Behavioral Therapy (TF-CBT) and Exposure and Response Prevention (ERP) therapy. She is a certified forensic evaluator for legal defendants. Josie has experience working with young adults and adults in the outpatient setting, hospital setting, and in crisis intervention.
+        </em>
+      </p>
+
   - id: mia-dadian
     name: Mia Dadian
     letters: LCMHCA, NCC

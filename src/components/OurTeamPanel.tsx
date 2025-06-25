@@ -1,5 +1,5 @@
 import React from "react";
-import teamData from "../../content/team.yaml";
+import teamData from "../data/team.yaml";
 import {
   Box,
   VStack,

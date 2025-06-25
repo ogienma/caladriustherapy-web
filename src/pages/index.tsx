@@ -3,7 +3,7 @@ import type { HeadFC, PageProps } from "gatsby";
 import Layout from "../components/Layout";
 import { SEO } from "../components/SEO";
 import OurTeamPanel from "../components/OurTeamPanel";
-import teamData from "../../content/team.yaml";
+import teamData from "../data/team.yaml";
 import Gallery from "../components/Gallery";
 
 const IndexPage: React.FC<PageProps> = () => {

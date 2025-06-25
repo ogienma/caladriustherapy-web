@@ -4,7 +4,7 @@ import { SEO } from "../components/SEO";
 import Layout from "../components/Layout";
 import { StaticImage } from "gatsby-plugin-image";
 import { Text, Button } from "@chakra-ui/react";
-import teamData from "../../content/team.yaml";
+import teamData from "../data/team.yaml";
 const AboutPage: React.FC<PageProps> = () => {
   // set showbio to false for all members to start - it's a dict with team member name as the key
   const [showBio, setShowBio] = React.useState(

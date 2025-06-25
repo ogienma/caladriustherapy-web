@@ -1,5 +1,25 @@
 members:
 
+  - id: devin-gladney
+    name: Devin Gladney
+    letters: LCMHC-A
+    title: Clinician
+    image: /headshots/headshot-devin-gladney-500.jpg
+    email: devin.gladney@caladriustherapy.com
+    tagline: Hi! My name is Devin (she/her) and I am excited to join you on your journey to healing!
+    bio: |
+      <p>
+        No one knows your story better than you. Everyone has their own experience and I am here to meet you where you are at. I am passionate about creating a safe space where you can feel empowered, experience growth and increase your sense of wellbeing. Whether you are navigating major life changes or just need a listening ear - I am here for you. I believe that the therapeutic relationship is one of collaboration. Together we will explore what it is you are seeking out of counseling. In a nonjudgmental and empathetic atmosphere, self exploration and healing can occur. 
+      </p>
+      <p>
+        I enjoy working with children and adolescents who are navigating issues such as depression, life transitions, trauma, anxiety, identity issues and neurodiversity. I operate through a trauma informed lens with a person centered approach and incorporate Cognitive Behavioral Therapy (CBT), Acceptance and Commitment Therapy (ACT), Solution Focused Therapy (SFT) and Dialectical Behavioral Therapy (DBT).  When working with children I rely largely on play therapy. 
+      </p>
+      <p>
+        <em>
+          Devin Gladney, LCMHC-A, earned her MA in Clinical Mental Health Counseling from Wake Forest University. Devin received her B.S. in Psychology with a minor in Studio Art from the University of Georgia.
+        </em>
+      </p>
+
   - id: josie-rana
     name: Josie Rana
     letters: LCSW
@@ -290,7 +310,7 @@ members:
     image: /headshots/headshot-sav-raynor-500.jpg
     email: sav.raynor@caladriustherapy.com
     psychologytoday: https://www.psychologytoday.com/us/therapists/sav-raynor-charlotte-nc/1210298
-    tagline: "Hi, I’m Sav (they/she) and I’m here to help you find your voice."
+    tagline: "Hi, I’m Sav (they/them) and I’m here to help you find your voice."
     badges:
       - "/badges/ryt-200-125.jpg"
     bio:

@@ -95,29 +95,7 @@ const IndexPage: React.FC<PageProps> = () => {
           <div className="image">
           <img src="/heroes/stephen-walker-572414-unsplash.jpg" alt="" />
           </div>
-        </section>
-        {/* 
-<!-- Spotlight: About Trauma -->
-<!--
-<section className="spotlight style1 orient-left content-align-left image-position-center" id="second">
-  <div className="content">
-    <h2>About Trauma</h2>
-    <p><em>"I am not what happened to me. I am what I choose to become." - Carl Jung</em></p>
-    <p>Many people have had scary or terrible things happen to them: trauma isn't just what happens to you - it's how
-      you experience it.</p>
-    <p>Maybe - as is the case with many others - you haven’t told anyone. Maybe you <em>have</em> told people what
-      happened and their response was confusing, hurtful, or dismissive. Maybe you feel like you just want it to be
-      over or you should have gotten past it already. You might have reminders of what happened impacting your life
-      through nightmares, flashbacks, or trying to avoid any mention or reminder of the events. You might feel numb.
-      Maybe you are a parent and are completely lost on how to help your child recover. </p>
-    <p>You have the capacity to be a survivor and not feel like a victim. You have the ability to move forward.</p>
-  </div>
-  <div className="image">
-    <img src="images/hand-elijah-o-donnell-715864-unsplash.jpg" alt="" />
-  </div>
-</section>
---> */}
-
+        </section>ß
         {/* <!-- Team --> */}
         <OurTeamPanel />
         {/* <!-- Spotlight: Services --> */}
@@ -142,6 +120,11 @@ const IndexPage: React.FC<PageProps> = () => {
               <li>
                 <a href="/emdr">
                   Eye Movement Desensitization and Reprocessing (EMDR) Therapy
+                </a>
+              </li>
+              <li>
+                <a href="/dbt">
+                  Dialectical Behavior Therapy (DBT)
                 </a>
               </li>
               <li>

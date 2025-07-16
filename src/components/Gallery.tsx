@@ -188,13 +188,13 @@ const Gallery: React.FC<IProps> = () => {
             </article>
           </SwiperSlide> */}
 
-        <SwiperSlide style={{ width: "945px", height: "630px" }}>
+        <SwiperSlide style={{ width: "630px", height: "630px" }}>
             <article>
               <a href="/our-space/IMG_0366.webp" className="image">
                 <StaticImage
-                  src="../../static/our-space/IMG_0366.webp"
+                  src="../../static/our-space/IMG_0366_square.jpg"
                   alt="Caladrius Therapy Office"
-                  width={945}
+                  width={630}
                   height={630}
                 />
               </a>

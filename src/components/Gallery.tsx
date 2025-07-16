@@ -190,7 +190,7 @@ const Gallery: React.FC<IProps> = () => {
 
         <SwiperSlide style={{ width: "630px", height: "630px" }}>
             <article>
-              <a href="/our-space/IMG_0366.webp" className="image">
+              <a href="/our-space/IMG_0366_square.jpg" className="image">
                 <StaticImage
                   src="../../static/our-space/IMG_0366_square.jpg"
                   alt="Caladrius Therapy Office"
@@ -227,9 +227,9 @@ const Gallery: React.FC<IProps> = () => {
           </SwiperSlide>
           <SwiperSlide style={{ width: "630px", height: "630px"}}>
             <article>
-              <a href="/our-space/0J7A3022.jpg" className="image">
+              <a href="/our-space/IMG_5706_square.jpg" className="image">
                 <StaticImage
-                  src="../../static/our-space/0J7A3022_square.jpg"
+                  src="../../static/our-space/IMG_5706_square.jpg"
                   alt="Caladrius Therapy Office"
                   width={630}
                   height={630}

@@ -214,7 +214,8 @@ const Gallery: React.FC<IProps> = () => {
               </a>{" "}
             </article>
           </SwiperSlide>
-          <SwiperSlide style={{ width: "630px", height: "630px"}}>
+
+          {/* <SwiperSlide style={{ width: "630px", height: "630px"}}>
             <article>
               <a href="/our-space/IMG_5706_square.jpg" className="image">
                 <StaticImage
@@ -225,7 +226,7 @@ const Gallery: React.FC<IProps> = () => {
                 />
               </a>{" "}
             </article>
-          </SwiperSlide>
+          </SwiperSlide> */}
 
           <SwiperSlide style={{ width: "630px", height: "630px"}}>
             <article>

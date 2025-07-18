@@ -103,22 +103,11 @@ const Gallery: React.FC<IProps> = () => {
                 />
               </a>
             </article></SwiperSlide>
-            {/* <SwiperSlide style={{ width: "945px", height: "630px"}}>
-            <article>
-              <a href="/our-space/0J7A3048.jpg" className="image">
-                <StaticImage
-                  src="../../static/our-space/0J7A3048.jpg"
-                  alt="Caladrius Therapy Office"
-                  width={945}
-                  height={630}
-                />
-              </a>{" "}
-            </article></SwiperSlide> */}
             <SwiperSlide style={{ width: "630px", height: "630px"}}>
             <article>
-              <a href="/our-space/0J7A3048.jpg" className="image">
+              <a href="/our-space/IMG_0399_square.jpg" className="image">
                 <StaticImage
-                  src="../../static/our-space/0J7A3048_square.jpg"
+                  src="../../static/our-space/IMG_0399_square.jpg"
                   alt="Caladrius Therapy Office"
                   width={630}
                   height={630}
@@ -215,9 +204,9 @@ const Gallery: React.FC<IProps> = () => {
           <SwiperSlide style={{ width: "420px", height: "630px" }}>
             {" "}
             <article>
-              <a href="/our-space/0J7A2974.jpg" className="image">
+              <a href="/our-space/IMG_0377.jpg" className="image">
                 <StaticImage
-                  src="../../static/our-space/0J7A2974.jpg"
+                  src="../../static/our-space/IMG_0377.jpg"
                   alt="Caladrius Therapy Office"
                   width={420}
                   height={630}

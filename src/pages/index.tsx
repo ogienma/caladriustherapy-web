@@ -22,15 +22,29 @@ const IndexPage: React.FC<PageProps> = () => {
               Everyone deserves to be seen and to share their story with someone
               who is empathetic, caring, and helpful.
             </p>
-            {/* <!--<ul className="actions stacked">
-      <li>
-        <a href="#form" className="button primary large wide mr-3">Get In Touch</a>
-        <a href="https://caladrius.clientsecure.me" className="button primary large wide mr-3"
-        data-spwidget-scope-id="9ea36f87-56fd-4ef3-8641-a0a82839a987" data-spwidget-scope-uri="caladrius"
-        data-spwidget-application-id="7c72cb9f9a9b913654bb89d6c7b4e71a77911b30192051da35384b4d0c6d505b"
-        data-spwidget-scope-global data-spwidget-autobind>Book Appointment</a>
-      </li>
-    </ul>--> */}
+            <p>
+              <strong>
+              <span
+                  style={{
+                    backgroundColor: "#ff6b6b",
+                    color: "white",
+                    fontSize: "0.7em",
+                    padding: "2px 6px",
+                    borderRadius: "4px",
+                    marginLeft: "8px",
+                    fontWeight: "bold",
+                    textTransform: "uppercase"
+                  }}
+                >
+                  NEW
+                </span>{" "}
+                <a href="https://caladriustherapy-next.netlify.app/match">
+                  Take our quiz
+                </a>
+                {" "}
+                to match with a therapist!
+              </strong>
+            </p>
             <ul className="actions">
               <li>
                 <a href="#form" className="button primary large wide mr-3">
@@ -67,7 +81,6 @@ const IndexPage: React.FC<PageProps> = () => {
             </div>
           </div>
         </section>
-
         {/* <!-- Spotlight --> */}
         <section
           className="spotlight style1 orient-right content-align-left image-position-center"
@@ -93,10 +106,10 @@ const IndexPage: React.FC<PageProps> = () => {
             </p>
           </div>
           <div className="image">
-          <img src="/heroes/stephen-walker-572414-unsplash.jpg" alt="" />
+            <img src="/heroes/stephen-walker-572414-unsplash.jpg" alt="" />
           </div>
-        </section>ß
-        {/* <!-- Team --> */}
+        </section>
+        ß{/* <!-- Team --> */}
         <OurTeamPanel />
         {/* <!-- Spotlight: Services --> */}
         <section
@@ -123,9 +136,7 @@ const IndexPage: React.FC<PageProps> = () => {
                 </a>
               </li>
               <li>
-                <a href="/dbt">
-                  Dialectical Behavior Therapy (DBT)
-                </a>
+                <a href="/dbt">Dialectical Behavior Therapy (DBT)</a>
               </li>
               <li>
                 <a href="/tf-cbt">

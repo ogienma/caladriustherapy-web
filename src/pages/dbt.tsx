@@ -22,7 +22,7 @@ const DBTPage: React.FC<PageProps> = () => {
               <li>Distress Tolerance</li>
               <li>Interpersonal Effectiveness</li>
             </ul>
-            <p>The DBT Full Program at Caladrius Therapy is a comprehensive, manualized treatment that includes:</p>
+            <p>Led by a DBT-Linehan Board Certified Clinician, the DBT Full Program at Caladrius Therapy is a comprehensive, manualized treatment that includes:</p>
             <ul>
               <li>Weekly individual therapy</li>
               <li>Weekly group therapy</li>

@@ -42,8 +42,8 @@ members:
 
   - id: mia-dadian
     name: Mia Dadian
-    letters: LCMHCA, NCC
-    title: Clinician
+    letters: LCMHC, NCC
+    title: Senior Clinician
     image: /headshots/headshot-mia-dadian-500.jpg
     email: mia.dadian@caladriustherapy.com
     tagline: "Hi there! My name is Mia Dadian (she/her), and I am both honored and humbled to be alongside you on your journey to creating a life that reflects and honors who you truly are. My goal is to provide an affirming space where youth, adolescents, and emerging adults can navigate their paths of identity exploration in all its forms."
@@ -252,64 +252,6 @@ members:
         </em>
       </p>
 
-  - id: deerik-bradley
-    name: De'Erik Bradley
-    letters: LCSW-A
-    title: Clinician
-    image: /headshots/headshot-deerik-bradley-500.jpg
-    email: deerik.bradley@caladriustherapy.com
-    tagline: "Hey, what's up! My name is De'Erik (he/him) and I’m here to help you process and progress."
-    bio: |
-      <p>
-        <em>
-          "As long as you have breath, you have options" - Imani Cohen
-        </em>
-      </p>
-      <p>
-        Progress in life is a process. To move forward, sometimes you have
-        to look back to see how much progress you have made, but you must
-        also look ahead to see how much more progress remains. This
-        process doesn’t come without bumps and bruises. It can produce
-        feelings of anxiety, anger, or depression, and sometimes we may
-        lose loved ones or damage relationships while on our journey.
-      </p>
-      <p>
-        No matter where you are on your journey, I am here to help you
-        process those traumatic experiences, those sleepless nights that
-        keep you up, and the moments that prevent you from being present.
-      </p>
-      <p>
-        Progress awaits you with open arms. Trust and give yourself grace
-        along the way. Therapy can be scary. Perhaps this isn’t your first
-        time attending therapy. Or maybe, therapy is not common in your
-        community and you never even considered it.
-      </p>
-      <p>
-        We all deserve the feeling of being present, inspired, and happy.
-        I’m here to guide you along your journey to help you reach that.
-        Together we will get to the root of your challenges to help you
-        find clarity and embrace your authentic self.I will provide a
-        person-centered approach that meets you where you are and allows
-        you a space where you will have grace to process, cry, and laugh,
-        as you come back home to yourself.
-      </p>
-      <p>
-        <em>
-          De’Erik is a Licensed Clinical Social Worker Associate. He
-          earned his Bachelor’s degree in Social Work at Johnson C. Smith
-          University and earned his Masters in Social Work at Winthrop
-          University. He utilizes a person-centered approach which
-          involves placing emphasis on strength building, self awareness,
-          accountability, and authenticity. He has over 8 years of
-          experience working with individuals of all ages. His
-          experience in the Mental Health field includes individual, group
-          and family counseling. He provides support with Stress
-          Management, Depression, Cultural Specific issues, and Anxiety.
-          He offers both in-person and Tele-Health services to fit the
-          needs of each client.
-        </em>
-      </p>
-
   - id: sav-raynor
     name: Sav Raynor
     letters: MS, LMFT, RYT 200
@@ -366,24 +308,24 @@ members:
         Carlee Wetzler, LCMHCA graduated from Lenoir Rhyne University with a Master of Arts in Counseling after completing a BS in Sociology from Charleston Southern University. She has 8 years post-graduate experience working with children, teens, and families. She has advanced certification as a Grief Specialist. She loves working with teens and adolescents as well as adults.         </em>
       </p>
 
-  - id: kelsey-cuomo
-    name: Kelsey Cuomo
-    letters: LCSW
-    title: Senior Clinician
-    image: /headshots/headshot-kelsey-cuomo-500.jpg
-    email: kelsey.cuomo@caladriustherapy.com
-    # linkedin: https://www.linkedin.com
-    # psychologytoday: https://www.psychologytoday.com
-    tagline: "Hello, I’m Kelsey (she/her). You are not 'too much' No matter your struggles, you deserve to take up space, and I am here to help you find joy."
-    bio:
-      <p>
-        You may notice that you feel numb or helpless from a broken relationship or a new diagnosis (mental or physical). Or you may feel trapped reliving a traumatic experience. Maybe you recently lost a loved one and are grieving the life that was and could have been. Whatever it is, I’m here to support you on this journey.      </p>
-      <p>
-        I aim to meet you where you are and give you the space to flourish. My holistic and strengths-based approach combines wellness practices with trauma-informed modalities to facilitate your healing process. In addition, as a sex positive, LGBTQIA+ affirming, kink/BDSM, and ethical non-monogamous competent therapist, I value providing a safe, confidential, and supportive space for all. In our sessions, I will happily use meditation floor cushions, a weighted blanket, or snacks to create an environment conducive to processing your experiences. My ultimate goal is to guide you from a place of discomfort to a place of healing.      </p>
-      <p>
-        <em>
-         Kelsey Cuomo, MSW, LCSW-A, holds a Master of Social Work degree from Winthrop University and a Bachelor’s in Social Work from Xavier University. Kelsey has experience working with parents who have experienced the loss of a child, prenatal diagnoses, and birth trauma in the NICU and postpartum care setting. Kelsey is a Certified Clinical Trauma Professional-Level II with experience in healing from intimate partner violence, CPTSD, and more. She has also received training in trauma-informed mindfulness and somatic therapy. She is working towards her certification in EMDR and pursuing a Kink Conscious Certification, further broadening her ability to provide comprehensive and inclusive therapeutic support.</em>
-      </p>
+  # - id: kelsey-cuomo
+  #   name: Kelsey Cuomo
+  #   letters: LCSW
+  #   title: Senior Clinician
+  #   image: /headshots/headshot-kelsey-cuomo-500.jpg
+  #   email: kelsey.cuomo@caladriustherapy.com
+  #   # linkedin: https://www.linkedin.com
+  #   # psychologytoday: https://www.psychologytoday.com
+  #   tagline: "Hello, I’m Kelsey (she/her). You are not 'too much' No matter your struggles, you deserve to take up space, and I am here to help you find joy."
+  #   bio:
+  #     <p>
+  #       You may notice that you feel numb or helpless from a broken relationship or a new diagnosis (mental or physical). Or you may feel trapped reliving a traumatic experience. Maybe you recently lost a loved one and are grieving the life that was and could have been. Whatever it is, I’m here to support you on this journey.      </p>
+  #     <p>
+  #       I aim to meet you where you are and give you the space to flourish. My holistic and strengths-based approach combines wellness practices with trauma-informed modalities to facilitate your healing process. In addition, as a sex positive, LGBTQIA+ affirming, kink/BDSM, and ethical non-monogamous competent therapist, I value providing a safe, confidential, and supportive space for all. In our sessions, I will happily use meditation floor cushions, a weighted blanket, or snacks to create an environment conducive to processing your experiences. My ultimate goal is to guide you from a place of discomfort to a place of healing.      </p>
+  #     <p>
+  #       <em>
+  #        Kelsey Cuomo, MSW, LCSW-A, holds a Master of Social Work degree from Winthrop University and a Bachelor’s in Social Work from Xavier University. Kelsey has experience working with parents who have experienced the loss of a child, prenatal diagnoses, and birth trauma in the NICU and postpartum care setting. Kelsey is a Certified Clinical Trauma Professional-Level II with experience in healing from intimate partner violence, CPTSD, and more. She has also received training in trauma-informed mindfulness and somatic therapy. She is working towards her certification in EMDR and pursuing a Kink Conscious Certification, further broadening her ability to provide comprehensive and inclusive therapeutic support.</em>
+  #     </p>
 
   - id: molly-carroll
     name: Mary 'Molly' Carroll 

@@ -179,7 +179,12 @@ const IndexPage: React.FC<PageProps> = () => {
                   <h3>Get In Touch</h3>
                 </header>
                 <div className="content">
-                  <form name="contact" method="POST" data-netlify="true" data-netlify-recaptcha="true">
+                  <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" data-netlify-recaptcha="false">
+                    <p class="hidden">
+                      <label>
+                        Don’t fill this out if you’re human: <input name="bot-field" type="text" />
+                      </label>
+                    </p>
                     <input type="hidden" name="form-name" value="contact" />
                     <div className="fields">
                       <div className="field half">

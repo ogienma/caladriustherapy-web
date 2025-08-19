@@ -179,7 +179,7 @@ const IndexPage: React.FC<PageProps> = () => {
                   <h3>Get In Touch</h3>
                 </header>
                 <div className="content">
-                  <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+                  <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" data-netlify-recaptcha="true">
                     <input type="hidden" name="form-name" value="contact" />
                     <p style={{ display: "none" }}>
                       <label>
@@ -203,6 +203,9 @@ const IndexPage: React.FC<PageProps> = () => {
                           rows={5}
                         ></textarea>
                       </div>
+                    </div>
+                    <div className="field">
+                      <div data-netlify-recaptcha="true"></div>
                     </div>
                     <ul className="actions">
                       <li>

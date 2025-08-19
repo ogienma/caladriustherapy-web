@@ -8,6 +8,15 @@
     width: 186px;
     height: 60px;
 }
+
+.hidden {
+	position: absolute;
+    left: -9999px;
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+}
+
 /* 
 .spwidget-button {
     display: inline-block;

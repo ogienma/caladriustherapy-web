@@ -179,10 +179,8 @@ const IndexPage: React.FC<PageProps> = () => {
                   <h3>Get In Touch</h3>
                 </header>
                 <div className="content">
-                  <form name="contact" method="POST" data-netlify="true" netlify-honeypot="xxx-field">
-                    <p className="hidden">
-                      <input name="xxx-field" type="text" />
-                    </p>
+                  <form name="contact" method="POST" data-netlify="true" netlify-honeypot="phone">
+
                     <input type="hidden" name="form-name" value="contact" />
                     <div className="fields">
                       <div className="field half">
@@ -192,6 +190,9 @@ const IndexPage: React.FC<PageProps> = () => {
                       <div className="field half">
                         <label htmlFor="email">Email</label>
                         <input type="email" name="email" id="email" />
+                      </div>
+                      <div className="hidden">
+                        <input name="phone" type="text" />
                       </div>
                       <div className="field">
                         <label htmlFor="message">Message</label>

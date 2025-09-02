@@ -20,6 +20,52 @@ members:
         </em>
       </p>
 
+  - id: krista-hoover
+    name: Krista Hoover
+    letters: LCMHC
+    title: Senior Clinician
+    image: /headshots/headshot-krista-hoover-500.jpg
+    email: krista.hoover@caladriustherapy.com
+    tagline: "Hi! My name is Krista (she/her) and I believe that each person holds the power to create a meaningful life."
+    bio: |
+      <p>
+        My role is to help you break through the barriers that stand in your way, whether they are rooted in relationships, childhood experiences, family conflicts, or self-doubt. Together, we will develop tools that empower you to take greater control of your thoughts, emotions, and perspectives.
+      </p>
+      <p>
+        My experience spans outpatient clinics, hospitals, schools, and substance use treatment centers, giving me a well-rounded and empathetic approach to care. My therapeutic style is integrative, drawing from Solution-Focused Therapy, Existential Therapy, Dialectical Behavior Therapy (DBT), Eye Movement Desensitization and Reprocessing (EMDR), and Internal Family Systems (IFS).
+      </p>
+      <p>
+        I believe you already carry the courage needed for change. I am here to walk beside you, offering support and guidance as you move toward greater clarity, resilience, and fulfillment.
+      </p>
+      <p>
+        <em>
+          Krista Hoover, LCMHC, earned her Master’s in Mental Health Counseling from Niagara University (2020), where she was a member of the Kappa Delta Pi Honors Society. She received her Bachelor’s in Psychology from D’Youville University (2016). Krista is licensed in both North Carolina and New York and has extensive experience across outpatient, hospital, school, and substance use treatment settings.
+        </em>
+      </p>
+  
+  - id: bonnie-anderson
+    name: Bonnie Anderson
+    letters: LCSWA
+    title: Clinician
+    image: /headshots/headshot-bonnie-anderson-500.jpg
+    email: bonnie.anderson@caladriustherapy.com
+    tagline: "Hi! My name is Bonnie (she/her) and I am passionate about fostering hope and resilience through compassionate, collaborative therapy."
+    bio: |
+      <p>
+        I see our work together as a partnership where you feel seen, heard, and empowered to create meaningful change. My background as a peer support specialist allows me to bring lived experience to my clinical work, and I strive to create a safe, affirming space for all clients, including those in LGBTQIA+, kink, and poly communities. Inspired by the empathy of Deanna Troi from Star Trek: The Next Generation, I believe deeply in the power of connection and understanding to support healing and growth.
+      </p>
+      <p>
+        I enjoy working with adults navigating depression, anxiety, trauma, perinatal mental health challenges, life transitions, and parenting struggles. I operate through a trauma-informed, strengths-based lens and integrate Cognitive Behavioral Therapy (CBT), Acceptance and Commitment Therapy (ACT), and advanced training in Perinatal Mental Health Disorders, always grounded in the principles of mutual empowerment.
+      </p>
+      <p>
+        A Charlotte native, I am a double graduate of UNC Charlotte with a B.A. in Psychology and a Master’s in Social Work. Outside of the office, I am a proud mom in a blended family of five kids, and I love dancing in my kitchen and finding inspiration at our local libraries.
+      </p>
+      <p>
+        <em>
+          Bonnie Anderson, MSW, LCSWA, earned her B.A. in Psychology (2003) and M.S.W. (2024) from UNC Charlotte. She has additional training in Perinatal Mental Health Disorders and a strong foundation in peer support practices.
+        </em>
+      </p>
+
   - id: josie-rana
     name: Josie Rana
     letters: LCSW

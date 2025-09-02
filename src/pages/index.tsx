@@ -109,7 +109,7 @@ const IndexPage: React.FC<PageProps> = () => {
             <img src="/heroes/stephen-walker-572414-unsplash.jpg" alt="" />
           </div>
         </section>
-        ß{/* <!-- Team --> */}
+        {/* <!-- Team --> */}
         <OurTeamPanel />
         {/* <!-- Spotlight: Services --> */}
         <section

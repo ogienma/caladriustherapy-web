@@ -23,11 +23,43 @@ const RatesPage: React.FC<PageProps> = () => {
               Do you find it easier to be kind to others than to yourself? In this group, we’ll explore practical skills for quieting your inner critic, improving your sense of self, and building confidence. Through guided practices, discussion, and support, you’ll learn how self-compassion can reduce stress, improve mood, and strengthen resilience.
             </p>
             <p>
-              <em>Who’s it for?</em>
+              <em>Who’s it for?</em> Adults who want to let go of self-judgment and develop a kinder relationship with themselves.
+            </p>
+          </dd>
+          <dt>Healing Together: An IFS Group for Parents</dt>
+          <dd>
+            <p>
+              This group is a safe and supportive space for parents who grew up with childhood trauma or attachment wounds. Together, we’ll use Internal Family Systems (IFS) to gently get to know the parts of us that carry old hurts and the parts that try to protect us. Our goal is to heal, grow, and find new ways to show up for ourselves and our children with more compassion, connection, and care.
             </p>
             <p>
-              Adults who want to let go of self-judgment and develop a kinder relationship with themselves.
+              <em>Who’s it for?</em> Parents who want to break cycles of pain from their own childhood, build healthier patterns, and create more nurturing relationships with their children. No prior experience with IFS is needed, just a willingness to explore and grow in a supportive group.
+            </p>          
+          </dd>
+          <dt>DBT Skills Group</dt>
+          <dd>
+            <p>
+              This group is a supportive place to learn tools for calming big emotions, coping with stress, and building stronger connections. We’ll practice Dialectical Behavior Therapy (DBT) skills together in a gentle, step-by-step way that helps you be less reactive and more in control of your life.
             </p>
+            <p>
+              <em>Who’s it for?</em> Adults who feel emotions deeply, have been impacted by trauma, or struggle to manage distress. No DBT experience needed.
+            </p>          
+          </dd>
+          <dt>Neurodivergent Support Group</dt>
+          <dd>
+            <p>
+              Come as you are to a welcoming space created for neurodivergent folks to share and support one another. Together we’ll celebrate strengths, talk through challenges, and explore strategies for navigating life in a way that honors who we are while recovering from the traumatic invalidation of being in an Allistic world.
+            </p>
+            <p>
+              <em>Who’s it for?</em> Autistic, ADHD, and other neurodivergent adults looking for understanding, community, and a safe place to normalize their experiences.
+            </p>          
+          </dd>
+          <dt>Unmasking: Support for Those Late Diagnosed with Autism and/or ADHD</dt>
+          <dd>
+            <p>
+              Finding out you’re autistic or ADHD later in life can bring relief, new understanding, and also big questions. This group is a supportive space to explore your story, unlearn old messages, and connect with others who “get it.” Together, we’ll celebrate strengths, share struggles, and practice showing up as our authentic selves without the mask.            </p>
+            <p>
+              <em>Who’s it for?</em> Adults who received an autism and/or ADHD diagnosis later in life (or who strongly identify with these experiences) and want a safe, affirming community for reflection, support, and connection.
+            </p>          
           </dd>
           <dt>Finding Freedom: An Adolescent Trauma Support Group</dt>
           <dd>This group is for adolescents age 13-21 who have experienced trauma through abuse, sexual assault,

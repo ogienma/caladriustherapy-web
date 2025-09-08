@@ -17,13 +17,26 @@ const RatesPage: React.FC<PageProps> = () => {
             therapeutic and life goals.</p>
         <h3>Current Groups</h3>
         <dl>
-            <dt>Finding Freedom: An Adolescent Trauma Support Group</dt>
-            <dd>This group is for adolescents age 13-21 who have experienced trauma through abuse, sexual assault,
+          <dt>Self-Compassion Group</dt>
+          <dd>
+            <p>
+              Do you find it easier to be kind to others than to yourself? In this group, we’ll explore practical skills for quieting your inner critic, improving your sense of self, and building confidence. Through guided practices, discussion, and support, you’ll learn how self-compassion can reduce stress, improve mood, and strengthen resilience.
+            </p>
+            <p>
+              <em>Who’s it for?</em>
+            </p>
+            <p>
+              Adults who want to let go of self-judgment and develop a kinder relationship with themselves.
+            </p>
+          </dd>
+          <dt>Finding Freedom: An Adolescent Trauma Support Group</dt>
+          <dd>This group is for adolescents age 13-21 who have experienced trauma through abuse, sexual assault,
                 foster care, etc. who wish to connect with others around their age to gain support, understanding, and
                 coping skills. This group is not designed as a substitute for trauma based therapy. Group members need
                 to have either a letter from a current or past therapist stating they are appropriate for the group or
                 have an interview at Caladrius to determine that the group is a good fit. <em>Currently on hold due to
-                COVID-19.</em></dd>
+                COVID-19.</em>
+          </dd>
         </dl>
         <p>Insurance often covers group therapy. Reach out to us with any billing questions!</p>     </div>
           <div className="image">

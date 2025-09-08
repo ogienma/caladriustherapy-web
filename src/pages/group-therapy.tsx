@@ -56,11 +56,78 @@ const RatesPage: React.FC<PageProps> = () => {
           <dt>Unmasking: Support for Those Late Diagnosed with Autism and/or ADHD</dt>
           <dd>
             <p>
-              Finding out you’re autistic or ADHD later in life can bring relief, new understanding, and also big questions. This group is a supportive space to explore your story, unlearn old messages, and connect with others who “get it.” Together, we’ll celebrate strengths, share struggles, and practice showing up as our authentic selves without the mask.            </p>
+              Finding out you’re autistic or ADHD later in life can bring relief, new understanding, and also big questions. This group is a supportive space to explore your story, unlearn old messages, and connect with others who “get it.” Together, we’ll celebrate strengths, share struggles, and practice showing up as our authentic selves without the mask.
+            </p>
             <p>
               <em>Who’s it for?</em> Adults who received an autism and/or ADHD diagnosis later in life (or who strongly identify with these experiences) and want a safe, affirming community for reflection, support, and connection.
             </p>          
           </dd>
+          <dt>Bibliotherapy: Non-Monogamy Relationship Support</dt>
+          <dd>
+            <p>
+              Through books and shared readings, this group creates space to reflect on the unique joys, needs, and challenges of non-monogamous relationships. Together, we’ll learn relationship skills, share insights, and support one another in building connection and resilience in alternative relationships.
+            </p>
+            <p>
+              <em>Who’s it for?</em> Adults curious about or practicing non-monogamy who want to grow in self-understanding, strengthening relationships, and connecting with others walking a similar path. 
+            </p>          
+          </dd>
+          <dt>Perinatal Support Group: Pregnancy & Postpartum</dt>
+          <dd>
+            <p>
+              This group is a gentle, supportive space for moms from pregnancy through baby’s first year. Together, we’ll talk openly about the joys and challenges of motherhood: shifts in identity, postpartum mood and anxiety, changes in relationships, self-care struggles, and the ups and downs of adjusting to life with a new little one. Babies are welcome, and you’ll find connection with other moms who truly understand this tender season.
+            </p>
+            <p>
+              <em>Who’s it for?</em> Expecting moms and moms in the first year after birth who want a safe place to share their experiences, care for their mental health, and build community while navigating the transitions of early motherhood.
+            </p>          
+          </dd>
+          <dt>Social Group for Neurodivergent Teens</dt>
+          <dd>
+            <p>
+              A safe and welcoming space for neurodivergent teens to connect, have fun, and build friendships in ways that feel authentic and comfortable. Through games, activities, and shared experiences, we’ll celebrate neurodivergent strengths and create a community where everyone can show up as themselves.
+            </p>
+            <p>
+              <em>Who’s it for?</em> Neurodivergent teens looking for friendship, connection, and a place where they are understood and accepted just as they are.
+            </p>          
+          </dd>
+          <dt>Social Group for Kids (Ages 5–7 & 8–10)</dt>
+          <dd>
+            <p>
+              A fun and supportive space where kids can connect, play, and make friends in ways that feel natural to them. After the challenges of COVID, many children are looking for opportunities to practice social connection and build confidence. Through games, creative activities, and shared experiences, kids will explore their interests, strengthen friendships, and enjoy being part of a community that celebrates who they are.
+            </p>
+            <p>
+              <em>Who’s it for?</em> Children ages 5–7 and 8–10 who want to reconnect with peers, build friendships, overcome social anxiety, and grow their social confidence in a supportive, playful environment.
+            </p>          
+          </dd>
+          <dt>Support Group for Parents of Highly Sensitive Kids</dt>
+          <dd>
+            <p>
+              Parenting a highly sensitive child can be both rewarding and challenging. This group offers understanding, strategies, and support from other parents who get it. Together, we’ll share experiences, learn tools for support, and find encouragement for the parenting journey.
+            <p>
+              <em>Who’s it for?</em> Parents of highly sensitive/strongly emotional kids who want community, practical strategies, and a safe space to share the ups and downs of parenting.
+            </p>          
+          </dd>
+
+
+
+
+
+
+
+            
+          <dt>Foster & Adopted Teens Group</dt>
+          <dd>
+            <p>
+              Being fostered or adopted comes with its own stories, challenges, and questions about family and identity. This group is a relaxed space to talk, share, and connect with others who get it. We’ll explore what family means to us, how our stories shape who we are, and find support while building real connections.
+            <p>
+              <em>Who’s it for?</em> Foster and adopted teens who want a safe place to be themselves, share their experiences, and connect with others on a similar journey.
+            </p>          
+          </dd>
+
+
+
+            
+            
+          
           <dt>Finding Freedom: An Adolescent Trauma Support Group</dt>
           <dd>This group is for adolescents age 13-21 who have experienced trauma through abuse, sexual assault,
                 foster care, etc. who wish to connect with others around their age to gain support, understanding, and

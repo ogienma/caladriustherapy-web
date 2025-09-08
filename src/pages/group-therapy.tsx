@@ -102,27 +102,29 @@ const RatesPage: React.FC<PageProps> = () => {
           <dd>
             <p>
               Parenting a highly sensitive child can be both rewarding and challenging. This group offers understanding, strategies, and support from other parents who get it. Together, we’ll share experiences, learn tools for support, and find encouragement for the parenting journey.
+            </p>
             <p>
               <em>Who’s it for?</em> Parents of highly sensitive/strongly emotional kids who want community, practical strategies, and a safe space to share the ups and downs of parenting.
             </p>          
           </dd>
-
-
-
-
-
-
-
-            
           <dt>Foster & Adopted Teens Group</dt>
           <dd>
             <p>
               Being fostered or adopted comes with its own stories, challenges, and questions about family and identity. This group is a relaxed space to talk, share, and connect with others who get it. We’ll explore what family means to us, how our stories shape who we are, and find support while building real connections.
+            </p>
             <p>
               <em>Who’s it for?</em> Foster and adopted teens who want a safe place to be themselves, share their experiences, and connect with others on a similar journey.
             </p>          
           </dd>
-
+          <dt>Grief Work for Complicated Bereavement</dt>
+          <dd>
+            <p>
+              Grief can be messy, heavy, and so much more complicated than people expect. This group is a tender space to share your story, sit with others who understand, and gently explore the many layers of loss. Together, we’ll honor your loved one, your grief, and your own path forward at a pace that feels right for you.
+            </p>
+            <p>
+              <em>Who’s it for?</em> Adults carrying grief that feels complicated, ongoing, or hard to share with others and who long for comfort, understanding, and connection in their healing journey.
+            </p>          
+          </dd>
 
 
             

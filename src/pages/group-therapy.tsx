@@ -11,10 +11,8 @@ const RatesPage: React.FC<PageProps> = () => {
         <section className="spotlight style1 orient-left content-align-left image-position-center">
           <div className="content">
           <h2>Group Therapy</h2>
-        <p>Group therapy is a good fit for to help several people address issues together that are similar in nature.
-            Group therapy can take the form of a “drop-in” group or it can be a structured and scheduled group that
-            takes the same group of people from start to finish. Groups can be a highly effective way to support
-            therapeutic and life goals.</p>
+          <p>Group therapy is well-suited for helping several people work through similar issues together. It may take the form of a flexible “drop-in” group or a structured, scheduled program that brings the same participants from start to finish. Groups can be a highly effective way to support both therapeutic and life goals.</p>
+          <p>Ready to start your journey in a supportive group? <a href="https://forms.gle/TDuipi2jV8Mg926e9">Join a therapy group today by filling out our interest form!</a>.</p>
         <h3>Current Groups</h3>
         <dl>
           <dt>Self-Compassion Group</dt>
@@ -125,18 +123,12 @@ const RatesPage: React.FC<PageProps> = () => {
               <em>Who’s it for?</em> Adults carrying grief that feels complicated, ongoing, or hard to share with others and who long for comfort, understanding, and connection in their healing journey.
             </p>          
           </dd>
-
-
-            
-            
-          
           <dt>Finding Freedom: An Adolescent Trauma Support Group</dt>
           <dd>This group is for adolescents age 13-21 who have experienced trauma through abuse, sexual assault,
                 foster care, etc. who wish to connect with others around their age to gain support, understanding, and
                 coping skills. This group is not designed as a substitute for trauma based therapy. Group members need
                 to have either a letter from a current or past therapist stating they are appropriate for the group or
-                have an interview at Caladrius to determine that the group is a good fit. <em>Currently on hold due to
-                COVID-19.</em>
+                have an interview at Caladrius to determine that the group is a good fit.
           </dd>
         </dl>
         <p>Insurance often covers group therapy. Reach out to us with any billing questions!</p>     </div>

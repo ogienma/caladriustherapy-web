@@ -392,22 +392,22 @@ members:
         </em>
       </p>
 
-  - id: hannah-travis
-    name: Hannah Travis
-    letters: LCSW
-    title: Senior Clinician
-    image: /headshots/headshot-hannah-travis-500.jpg
-    email: hannah.travis@caladriustherapy.com
-    tagline: "Hi! My name is Hannah and I am here to help you feel connected."
-    bio:
-      <p>
-        I chose a career in mental health because I understand that humans are hardwired for connection but life can sometimes leave us feeling disconnected. I chose to go into clinical social work to help people through suffering, to help people reconnect with themselves and the people that matter most to them, and to help people make the positive changes they need to live the life that is most fulfilling for them. I am most passionate about helping people make connections about their past experiences/upbringing to increase their self-awareness and cultivate self-compassion for the struggles they are facing in the present moment. Giving people a place to process whatever they need to process, without any fear of judgment, where they feel understood, accepted, valued, and safe. Empowering people to take action to get their wants and needs met in their relationships (romantic, platonic, and familial). I strive to empower and support all clients to make the changes necessary for them to meet their goals through the cultivation of understanding, awareness, and self-compassion. I will meet people where they are, go as fast or as slow as they need to go and focus on the topics/issues they prioritize. I structure therapy sessions to meet the unique needs and preferences of each client because there is no one-size-fits-all. The quality of the therapeutic relationship is of the utmost importance to me, so I check in with my clients on a regular basis to invite feedback and encourage open communication.
-      </p>
-      <p>
-        <em>
-          Hannah Travis is a Licensed Clinical Social Worker. She earned Bachelor’s degrees in Psychology and Communication Studies and a Masters in Social Work, all from the University of North Carolina Wilmington. With over 8 years of experience in the field, Hannah brings a compassionate, client-centered, and holistic approach to therapy. Whether you’re dealing with stress, trauma, self-esteem issues, or simply seeking personal growth, she is here to provide a safe and non-judgmental space where you can work together to find solutions and enhance your overall quality of life. Hannah is available for telehealth sessions only. 
-        </em>
-      </p>
+  # - id: hannah-travis
+  #   name: Hannah Travis
+  #   letters: LCSW
+  #   title: Senior Clinician
+  #   image: /headshots/headshot-hannah-travis-500.jpg
+  #   email: hannah.travis@caladriustherapy.com
+  #   tagline: "Hi! My name is Hannah and I am here to help you feel connected."
+  #   bio:
+  #     <p>
+  #       I chose a career in mental health because I understand that humans are hardwired for connection but life can sometimes leave us feeling disconnected. I chose to go into clinical social work to help people through suffering, to help people reconnect with themselves and the people that matter most to them, and to help people make the positive changes they need to live the life that is most fulfilling for them. I am most passionate about helping people make connections about their past experiences/upbringing to increase their self-awareness and cultivate self-compassion for the struggles they are facing in the present moment. Giving people a place to process whatever they need to process, without any fear of judgment, where they feel understood, accepted, valued, and safe. Empowering people to take action to get their wants and needs met in their relationships (romantic, platonic, and familial). I strive to empower and support all clients to make the changes necessary for them to meet their goals through the cultivation of understanding, awareness, and self-compassion. I will meet people where they are, go as fast or as slow as they need to go and focus on the topics/issues they prioritize. I structure therapy sessions to meet the unique needs and preferences of each client because there is no one-size-fits-all. The quality of the therapeutic relationship is of the utmost importance to me, so I check in with my clients on a regular basis to invite feedback and encourage open communication.
+  #     </p>
+  #     <p>
+  #       <em>
+  #         Hannah Travis is a Licensed Clinical Social Worker. She earned Bachelor’s degrees in Psychology and Communication Studies and a Masters in Social Work, all from the University of North Carolina Wilmington. With over 8 years of experience in the field, Hannah brings a compassionate, client-centered, and holistic approach to therapy. Whether you’re dealing with stress, trauma, self-esteem issues, or simply seeking personal growth, she is here to provide a safe and non-judgmental space where you can work together to find solutions and enhance your overall quality of life. Hannah is available for telehealth sessions only. 
+  #       </em>
+  #     </p>
 
   - id: julie-finelli
     name: Julie Finelli
@@ -548,54 +548,54 @@ members:
         </em>
       </p>
 
-  - id: kacey-scheuerman
-    name: Kacey Scheuerman
-    letters: LCSW
-    title: Senior Clinician
-    image: /headshots/headshot-kacey-scheuerman-500.jpg
-    email: kacey.scheuerman@caladriustherapy.com
-    linkedin: https://www.linkedin.com/in/kacey-scheuerman-25754710b/
-    psychologytoday: https://www.psychologytoday.com/us/therapists/kacey-scheuerman-charlotte-nc/791247
-    tagline: "My name is Kacey (she/her) and I am here to support you on your journey."
-    bio: "
-      <p>
-        Feeling uncomfortable is a signal that it is time for us to start
-        our own process of change. Starting this path of working through
-        difficult or emotional challenges sometimes requires deep
-        vulnerability. Opening up and being vulnerable with someone else
-        can be intimidating, but once practiced, it can also be
-        liberating! You may have had things happen to you that were unfair
-        and painful, causing conflict within yourself or with others. It
-        is especially difficult when you feel alone without someone you
-        can talk to, who will listen without judgment. When you feel
-        overwhelmed and you are experiencing trials that are difficult to
-        navigate, it is time to reach out for support.
-      </p>
-      <p>
-        I started my journey towards becoming a therapist because I know
-        that life can be hard and sometimes it feels like a never-ending
-        uphill battle. I am here to provide added support during this
-        time, to give you the space to be vulnerable, heard, and to share
-        tools that can be helpful to you. My goal is to help you feel
-        empowered to seek growth, acceptance, and peace within yourself.
-        Sometimes you just need someone to talk to, and other times you
-        might need help learning new coping skills. I hope to be that
-        trusted person you can share your thoughts and feelings with, as
-        well as practice new skills to be implemented in your everyday
-        life.
-      </p>
-      <p>
-        I look forward to being a part of your journey towards
-        self-discovery and self-empowerment.
-      </p>
-      <p>
-        <em>
-          Kacey Scheuerman, MSW, LCSW-A graduated from University of North
-          Carolina at Charlotte. Kacey is trained in EMDR and Sand Tray
-          Therapy. She is experienced with working with adults and
-          adolescents.
-        </em>
-      </p>"
+  # - id: kacey-scheuerman
+  #   name: Kacey Scheuerman
+  #   letters: LCSW
+  #   title: Senior Clinician
+  #   image: /headshots/headshot-kacey-scheuerman-500.jpg
+  #   email: kacey.scheuerman@caladriustherapy.com
+  #   linkedin: https://www.linkedin.com/in/kacey-scheuerman-25754710b/
+  #   psychologytoday: https://www.psychologytoday.com/us/therapists/kacey-scheuerman-charlotte-nc/791247
+  #   tagline: "My name is Kacey (she/her) and I am here to support you on your journey."
+  #   bio: "
+  #     <p>
+  #       Feeling uncomfortable is a signal that it is time for us to start
+  #       our own process of change. Starting this path of working through
+  #       difficult or emotional challenges sometimes requires deep
+  #       vulnerability. Opening up and being vulnerable with someone else
+  #       can be intimidating, but once practiced, it can also be
+  #       liberating! You may have had things happen to you that were unfair
+  #       and painful, causing conflict within yourself or with others. It
+  #       is especially difficult when you feel alone without someone you
+  #       can talk to, who will listen without judgment. When you feel
+  #       overwhelmed and you are experiencing trials that are difficult to
+  #       navigate, it is time to reach out for support.
+  #     </p>
+  #     <p>
+  #       I started my journey towards becoming a therapist because I know
+  #       that life can be hard and sometimes it feels like a never-ending
+  #       uphill battle. I am here to provide added support during this
+  #       time, to give you the space to be vulnerable, heard, and to share
+  #       tools that can be helpful to you. My goal is to help you feel
+  #       empowered to seek growth, acceptance, and peace within yourself.
+  #       Sometimes you just need someone to talk to, and other times you
+  #       might need help learning new coping skills. I hope to be that
+  #       trusted person you can share your thoughts and feelings with, as
+  #       well as practice new skills to be implemented in your everyday
+  #       life.
+  #     </p>
+  #     <p>
+  #       I look forward to being a part of your journey towards
+  #       self-discovery and self-empowerment.
+  #     </p>
+  #     <p>
+  #       <em>
+  #         Kacey Scheuerman, MSW, LCSW-A graduated from University of North
+  #         Carolina at Charlotte. Kacey is trained in EMDR and Sand Tray
+  #         Therapy. She is experienced with working with adults and
+  #         adolescents.
+  #       </em>
+  #     </p>"
 
   - id: jessie-ogienko
     name: Jessie Ogienko

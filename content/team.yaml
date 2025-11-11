@@ -1,5 +1,27 @@
 members:
 
+  - id: emma-malinowski
+    name: Emma Malinowski
+    letters: LCSWA
+    title: Clinician
+    image: /headshots/headshot-emma-malinowski-500.jpg
+    email: emma.malinowski@caladriustherapy.com
+    tagline: "Hi, my name is Emma, and I believe that every person has an integral self — a core identity and direction that can be uncovered and nurtured."
+    bio: |
+      <p>
+        ou are not fragmented. You are whole- and therapy can help you remember that. Many of us, through trauma, social expectations, or life’s chaos, lose touch with that inner compass. My role is to walk with you as you realign with your authentic self, integrating the emotional, mental, physical, relational, and spiritual parts of who you are.      </p>
+      <p>
+        I’m passionate about creating a space where you can feel comfortable while navigating the discomfort of growth. I work with individuals experiencing Borderline Personality Disorder, OCD, anxiety, depression, attachment wounds, and trauma. My approach draws from trauma-informed Dialectical Behavioral Therapy and Attachment Theory, grounded in the belief that you are more than your mistakes.
+      </p>
+      <p>
+        Whether you’re feeling stuck in patterns that no longer serve you, struggling with anxiety or self-doubt, or sensing there’s more to life than what you’re currently living, I offer a space of depth, compassion, and curiosity. Together, we can explore not just what feels hard, but also what’s possible.
+      </p>
+      <p>
+        <em>
+          Emma earned her Master of Social Work from Widener University and her Bachelor of Science in Psychology from James Madison University. She completed clinical training with The Emily Program, specializing in eating disorder treatment, and at House of Ruth Maryland’s Abuse Intervention Program. Emma currently provides trauma-informed care and DBT therapy for adolescents and adults, both in person and online.
+        </em>
+      </p>
+
   - id: devin-gladney
     name: Devin Gladney
     letters: LCMHC-A

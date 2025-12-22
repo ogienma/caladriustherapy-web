@@ -44,26 +44,6 @@ const AboutPage: React.FC<PageProps> = () => {
                       </a>
                     </li>
                   )}
-                  {member.linkedin && (
-                    <li>
-                      <a
-                        href={member.linkedin}
-                        className="button small solid icon brands fas fa-linkedin"
-                      >
-                        LinkedIn
-                      </a>
-                    </li>
-                  )}
-                  {member.psychologytoday && (
-                    <li>
-                      <a
-                        href={member.psychologytoday}
-                        className="button small solid icon fas fa-external-link-alt"
-                      >
-                        PsychologyToday
-                      </a>
-                    </li>
-                  )}
                   {member.instagram && (
                     <li>
                       <a

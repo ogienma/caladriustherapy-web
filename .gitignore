@@ -4,3 +4,4 @@ public
 src/gatsby-types.d.ts
 # Next.js SWC binaries
 node_modules/@next/swc-*
+.DS_Store

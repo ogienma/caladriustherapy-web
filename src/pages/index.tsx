@@ -180,8 +180,12 @@ const IndexPage: React.FC<PageProps> = () => {
                 </header>
                 <div className="content">
                   <form name="contact" method="POST" data-netlify="true" netlify-honeypot="phone">
-
                     <input type="hidden" name="form-name" value="contact" />
+                    <p style={{ display: "none" }}>
+                      <label>
+                        <input name="bot-field" type="text" />
+                      </label>
+                    </p>
                     <div className="fields">
                       <div className="field half">
                         <label htmlFor="name">Name</label>

@@ -432,6 +432,22 @@ members:
   #         Hannah Travis is a Licensed Clinical Social Worker. She earned Bachelor’s degrees in Psychology and Communication Studies and a Masters in Social Work, all from the University of North Carolina Wilmington. With over 8 years of experience in the field, Hannah brings a compassionate, client-centered, and holistic approach to therapy. Whether you’re dealing with stress, trauma, self-esteem issues, or simply seeking personal growth, she is here to provide a safe and non-judgmental space where you can work together to find solutions and enhance your overall quality of life. Hannah is available for telehealth sessions only. 
   #       </em>
   #     </p>
+  - id: hannah-travis
+    name: Hannah Travis
+    letters: LCSW
+    title: Senior Clinician
+    image: /headshots/headshot-hannah-travis-500.jpg
+    email: hannah.travis@caladriustherapy.com
+    tagline: "Hi! My name is Hannah and I am here to help you feel connected."
+    bio:
+      <p>
+        I chose a career in mental health because I understand that humans are hardwired for connection but life can sometimes leave us feeling disconnected. I chose to go into clinical social work to help people through suffering, to help people reconnect with themselves and the people that matter most to them, and to help people make the positive changes they need to live the life that is most fulfilling for them. I am most passionate about helping people make connections about their past experiences/upbringing to increase their self-awareness and cultivate self-compassion for the struggles they are facing in the present moment. Giving people a place to process whatever they need to process, without any fear of judgment, where they feel understood, accepted, valued, and safe. Empowering people to take action to get their wants and needs met in their relationships (romantic, platonic, and familial). I strive to empower and support all clients to make the changes necessary for them to meet their goals through the cultivation of understanding, awareness, and self-compassion. I will meet people where they are, go as fast or as slow as they need to go and focus on the topics/issues they prioritize. I structure therapy sessions to meet the unique needs and preferences of each client because there is no one-size-fits-all. The quality of the therapeutic relationship is of the utmost importance to me, so I check in with my clients on a regular basis to invite feedback and encourage open communication.
+      </p>
+      <p>
+        <em>
+          Hannah Travis is a Licensed Clinical Social Worker. She earned Bachelor’s degrees in Psychology and Communication Studies and a Masters in Social Work, all from the University of North Carolina Wilmington. With over 8 years of experience in the field, Hannah brings a compassionate, client-centered, and holistic approach to therapy. Whether you’re dealing with stress, trauma, self-esteem issues, or simply seeking personal growth, she is here to provide a safe and non-judgmental space where you can work together to find solutions and enhance your overall quality of life. Hannah is available for telehealth sessions only. 
+        </em>
+      </p>
 
   - id: julie-finelli
     name: Julie Finelli

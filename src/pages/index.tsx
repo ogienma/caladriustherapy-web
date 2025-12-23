@@ -228,7 +228,7 @@ const IndexPage: React.FC<PageProps> = () => {
                 <section>
                   <div className="inner">
                     <a href="tel:7049803082">
-                      <span className="icon style2 major solid fa-phone-alt"></span>
+                      <span className="icon style2 major solid fas fa-phone-alt"></span>
                     </a>
                     <a href="tel:7049803082">
                       <h4 style={{ textAlign: "center" }}>(704) 980-3082</h4>
@@ -241,35 +241,19 @@ const IndexPage: React.FC<PageProps> = () => {
                 <section>
                   <div className="inner" style={{ textAlign: "center" }}>
                     <a href="mailto:hello@caladriustherapy.com">
-                      <span className="icon style2 major solid fa-envelope"></span>
+                      <span className="icon style2 major solid fas fa-envelope"></span>
                     </a>
-
                     <div className="inner" style={{ textAlign: "center" }}>
                       <a href="mailto:hello@caladriustherapy.com">
-                        <strong>General Inquiries</strong>
+                        <strong>hello@caladriustherapy.com</strong>
                       </a>
                     </div>
-                    {" • "}
-                    {teamData.members
-                      .reverse()
-                      .map((member: any, index: any) => {
-                        return (
-                          <span>
-                            <a href={`mailto:${member.email}`}>
-                              {`${member.name.split(" ")[0]} ${
-                                member.name.split(" ")[1][0]
-                              }.`}
-                            </a>
-                            {" • "}
-                          </span>
-                        );
-                      })}
                   </div>
                 </section>
                 <section>
                   <div className="inner">
                     <a href="https://g.page/caladrius-therapy?share">
-                      <span className="icon style2 major solid fa-map-pin"></span>
+                      <span className="icon style2 major solid fas fa-map-pin"></span>
                     </a>
                     <div className="inner" style={{ textAlign: "center" }}>
                       <strong>Elizabeth</strong>

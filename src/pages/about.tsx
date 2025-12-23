@@ -37,7 +37,7 @@ const AboutPage: React.FC<PageProps> = () => {
                   {member.email && (
                     <li>
                       <a
-                        href={`mailto:${member.email}`}
+                        href={`mailto:hello@caladriustherapy.com`}
                         className="button small solid icon fas fa-envelope"
                       >
                         Email

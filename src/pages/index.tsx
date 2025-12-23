@@ -228,7 +228,7 @@ const IndexPage: React.FC<PageProps> = () => {
                 <section>
                   <div className="inner">
                     <a href="tel:7049803082">
-                      <span className="icon style2 major solid fas fa-phone-alt"></span>
+                      <span style={{ textAlign: "center" }} className="icon style2 major solid fas fa-phone-alt"></span>
                     </a>
                     <a href="tel:7049803082">
                       <h4 style={{ textAlign: "center" }}>(704) 980-3082</h4>

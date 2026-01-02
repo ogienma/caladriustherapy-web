@@ -111,13 +111,7 @@ const Nav: FC<IProps> = () => {
                   href="/sandtray-therapy#sandtray-therapy-body"
                 >
                   Sandtray Therapy
-                </a>
-                <a
-                  className="navbar-item"
-                  href="/life-transitions-therapy#life-transitions-therapy-body"
-                >
-                  Life Transitions
-                </a>
+                </a>ß
                 <hr className="navbar-divider" />
                 <a className="navbar-item" href="/#services">
                   All Services

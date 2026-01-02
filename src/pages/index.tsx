@@ -120,50 +120,30 @@ const IndexPage: React.FC<PageProps> = () => {
             <h2>Services</h2>
             <ul>
               <li>
+                  Individual Therapy
+              </li>
+              <li>
+                  Children & Teens Therapy
+              </li>
+              <li>
                 <a href="/couples-therapy#couples-therapy-body">
                   Couples Therapy
                 </a>
               </li>
               <li>
-                <a href="/group-therapy#group-therapy-body">Group Therapy</a>
-              </li>
-              <li>
-                <a href="/family-therapy">Family Therapy</a>
-              </li>
-              <li>
-                <a href="/emdr">
-                  Eye Movement Desensitization and Reprocessing (EMDR) Therapy
+                <a href="/group-therapy#group-therapy-body">
+                  Group Therapy
                 </a>
               </li>
               <li>
-                <a href="/dbt">Dialectical Behavior Therapy (DBT)</a>
-              </li>
-              <li>
-                <a href="/tf-cbt">
-                  Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)
+                <a href="/family-therapy#family-therapy-body">
+                  Family Therapy
                 </a>
               </li>
-              <li>
-                <a href="/sandtray-therapy#sandtray-therapy-body">
-                  Sandtray Therapy
-                </a>
-              </li>
-              <li>
-                <a href="/life-transitions-therapy#life-transitions-therapy-body">
-                  Life Transitions
-                </a>
-              </li>
-              <li>Comprehensive Clinical Assessment (CCA)</li>
-              {/* <!-- <li>Global Appraisal of Individual Needs (GAIN) Assessment</li> --> */}
-              <li>
-                Children, Adolescents, Adult, and Family Outpatient Therapy
-              </li>
-              <li>
-                Parent Training for Disruptive Behavior (The RUBI Autism
-                Network)
-              </li>
-              <li>Parent Coaching</li>
             </ul>
+            <p>
+              Our work is grounded in evidence-based, contemporary modalities - including <a href="/emdr">Eye Movement Desensitization and Reprocessing (EMDR) Therapy</a>, <a href="/dbt">Dialectical Behavior Therapy (DBT)</a>, <a href="/tf-cbt">Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)</a>, and Child-Centered Play Therapy - selected thoughtfully for each client and situation.
+            </p>
           </div>
           <div className="image">
             <img src="/heroes/nicole-honeywill-704489-unsplash.jpg" alt="" />

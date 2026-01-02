@@ -11,7 +11,7 @@ const PlayTherapyPage: React.FC<PageProps> = () => {
         <section className="spotlight style1 orient-left content-align-left image-position-center">
           <div className="content">
             <h2>Child-Centered Play Therapy</h2>
-            <p><strong>More than play. A developmentally appropriate path to healing.</strong></h2>
+            <p><strong>More than play. A developmentally appropriate path to healing.</strong></p>
             <p>Children don't process the world the way adults do. They don't sit on a couch and talk through their feelings. They communicate through play.</p>
             <p>Child-Centered Play Therapy (CCPT) is an evidence-based approach that meets children exactly where they are developmentally, emotionally, and relationally. It uses play as the child's natural language to help them express feelings, process experiences, and build emotional regulation, confidence, and resilience.</p>
             <p>This is not "just playing." It is intentional, structured, and deeply therapeutic.</p>

@@ -3,15 +3,7 @@ import type { HeadFC, PageProps } from "gatsby";
 import { SEO } from "../components/SEO";
 import Layout from "../components/Layout";
 import { StaticImage } from "gatsby-plugin-image";
-import {
-  Accordion,
-  AccordionItem,
-  AccordionButton,
-  AccordionPanel,
-  AccordionIcon,
-  Box,
-  Text,
-} from "@chakra-ui/react";
+import { Box, Text } from "@chakra-ui/react";
 
 interface Group {
   title: string;
@@ -150,66 +142,44 @@ const RatesPage: React.FC<PageProps> = () => {
             </p>
             <h3>Current Groups</h3>
             <Box mt={4} mb={6}>
-              <Accordion allowMultiple>
-                {currentGroups.map((group, index) => (
-                  <AccordionItem key={index}>
-                    <h2>
-                      <AccordionButton>
-                        <Box as="span" flex="1" textAlign="left">
-                          {group.title}
-                        </Box>
-                        <AccordionIcon />
-                      </AccordionButton>
-                    </h2>
-                    <AccordionPanel pb={4}>
-                      <Text mb={3}>{group.description}</Text>
-                      {group.audience && (
-                        <Text mb={3}>
-                          <em>Who's it for?</em> {group.audience}
-                        </Text>
-                      )}
-                      {group.logistics && (
-                        <Text mt={3} pt={3} borderTop="1px solid" borderColor="gray.200">
-                          <em>{group.logistics}</em>
-                        </Text>
-                      )}
-                    </AccordionPanel>
-                  </AccordionItem>
-                ))}
-              </Accordion>
+              {currentGroups.map((group, index) => (
+                <Box key={index} mb={6}>
+                  <h4 style={{ marginBottom: "1rem" }}>{group.title}</h4>
+                  <Text mb={3}>{group.description}</Text>
+                  {group.audience && (
+                    <Text mb={3}>
+                      <em>Who's it for?</em> {group.audience}
+                    </Text>
+                  )}
+                  {group.logistics && (
+                    <Text mt={3} pt={3} borderTop="1px solid" borderColor="gray.200">
+                      <em>{group.logistics}</em>
+                    </Text>
+                  )}
+                </Box>
+              ))}
             </Box>
             <h3>Groups Forming</h3>
             <Text mb={4}>
               These groups are not currently running. Client interest helps guide which groups we offer in the future. If one of these groups feels relevant to you, we invite you to share your interest so we can better understand community needs and reach out if the group becomes available.
             </Text>
             <Box mt={4} mb={4}>
-              <Accordion allowMultiple>
-                {groupsForming.map((group, index) => (
-                  <AccordionItem key={index}>
-                    <h2>
-                      <AccordionButton>
-                        <Box as="span" flex="1" textAlign="left">
-                          {group.title}
-                        </Box>
-                        <AccordionIcon />
-                      </AccordionButton>
-                    </h2>
-                    <AccordionPanel pb={4}>
-                      <Text mb={3}>{group.description}</Text>
-                      {group.audience && (
-                        <Text mb={3}>
-                          <em>Who's it for?</em> {group.audience}
-                        </Text>
-                      )}
-                      {group.logistics && (
-                        <Text mt={3} pt={3} borderTop="1px solid" borderColor="gray.200">
-                          <em>{group.logistics}</em>
-                        </Text>
-                      )}
-                    </AccordionPanel>
-                  </AccordionItem>
-                ))}
-              </Accordion>
+              {groupsForming.map((group, index) => (
+                <Box key={index} mb={6}>
+                  <h4 style={{ marginBottom: "1rem" }}>{group.title}</h4>
+                  <Text mb={3}>{group.description}</Text>
+                  {group.audience && (
+                    <Text mb={3}>
+                      <em>Who's it for?</em> {group.audience}
+                    </Text>
+                  )}
+                  {group.logistics && (
+                    <Text mt={3} pt={3} borderTop="1px solid" borderColor="gray.200">
+                      <em>{group.logistics}</em>
+                    </Text>
+                  )}
+                </Box>
+              ))}
             </Box>
             <p>
               Insurance often covers group therapy. Reach out to us with any

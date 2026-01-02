@@ -142,7 +142,7 @@ const IndexPage: React.FC<PageProps> = () => {
               </li>
             </ul>
             <p>
-              Our work is grounded in evidence-based, contemporary modalities - including <a href="/emdr">Eye Movement Desensitization and Reprocessing (EMDR) Therapy</a>, <a href="/dbt">Dialectical Behavior Therapy (DBT)</a>, <a href="/tf-cbt">Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)</a>, and Child-Centered Play Therapy - selected thoughtfully for each client and situation.
+              Our work is grounded in evidence-based, contemporary modalities - including <a href="/emdr">Eye Movement Desensitization and Reprocessing (EMDR) Therapy</a>, <a href="/dbt">Dialectical Behavior Therapy (DBT)</a>, <a href="/tf-cbt">Trauma-Focused Cognitive Behavioral Therapy (TF-CBT)</a>, and <a href="/play-therapy">Child-Centered Play Therapy</a> - selected thoughtfully for each client and situation.
             </p>
           </div>
           <div className="image">

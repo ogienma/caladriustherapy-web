@@ -64,7 +64,7 @@ members:
 
   - id: imani-sawyer
     name: Imani Sawyer
-    letters: LCSW
+    letters: LCSW-A
     title: Clinician
     image: /headshots/headshot-imani-sawyer-500.jpg
     email: imani.sawyer@caladriustherapy.com
@@ -375,8 +375,7 @@ members:
 
   - id: jordan-blankenbecler
     name: Jordan Blankenbecler
-    title: MSW Intern
-    letters: LSCW-A
+    title: Clinical Mental Health Counseling Intern
     image: /headshots/headshot-jordan-blankenbecler-500.jpg
     email: jordan.blankenbecler@caladriustherapy.com
     tagline: "Hello! My name is Jordan (he/him), and I deeply believe that your story is important and the hardships and struggles you face in your life, both the seen and especially the unseen, are worthy of thoughtful care and compassion."

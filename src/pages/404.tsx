@@ -11,7 +11,7 @@ const NotFoundPage: React.FC<PageProps> = () => {
   return (
     <>
         <Alert status='warning'>
-     <strong>We are moving!</strong>Starting with May 20th, we will be located at <a href="https://maps.app.goo.gl/gnV7EPLfCnsUMzNd8">200 Queens Road, Suite 300 in Charlotte</a>.
+     <strong>We are moving!</strong>Starting with May 20th, we will be located at <a href="https://maps.app.goo.gl/gnV7EPLfCnsUMzNd8">200 Queens Rd, Suite 300 in Charlotte</a>.
   </Alert>
       <Layout>
         <section className="wrapper style1 align-center">

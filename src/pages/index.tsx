@@ -240,7 +240,7 @@ const IndexPage: React.FC<PageProps> = () => {
                     </div>
                     <a href="https://g.page/caladrius-therapy?share">
                       <h4 style={{ textAlign: "center" }}>
-                        200 Queens Road, Suite 300
+                        200 Queens Rd, Suite 300
                         <br />
                         Charlotte NC 28204
                       </h4>

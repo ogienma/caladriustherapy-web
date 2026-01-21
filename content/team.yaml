@@ -272,8 +272,8 @@ members:
 
   - id: elizabeth-riley
     name: Elizabeth Riley
-    letters: LCMHCA
-    title: Clinician
+    letters: LCMHC
+    title: Senior Clinician
     image: /headshots/headshot-elizabeth-riley-500.jpg
     email: elizabeth.riley@caladriustherapy.com
     tagline: "Hi, I’m Elizabeth (she/her), and I would love to work alongside you as you seek healing and happiness."
@@ -473,8 +473,8 @@ members:
 
   - id: emily-lee
     name: Emily Lee
-    letters: LCSW-A
-    title: Clinician, Training and QA Lead
+    letters: LCSW
+    title: Senior Clinician, Training and QA Lead
     image: /headshots/headshot-emily-lee-500.jpg
     email: emily.lee@caladriustherapy.com
     tagline: "My name is Emily (she/her) and I am here to help you nurture who you are as a person and a parent."

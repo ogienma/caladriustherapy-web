@@ -148,6 +148,35 @@ members:
         </em>
       </p>
 
+
+  - id: stephen-garlington
+    name: Stephen Garlington
+    letters: LCSWA
+    title: Clinician
+    image: /headshots/headshot-stephen-garlington-500.jpg
+    email: stephen.garlington@caladriustherapy.com
+    tagline: "Hi! My name is Stephen (he/him), and I help clients become the author of their own story."
+    bio: |
+      <p>
+        <em>
+          "Your life doesn't have to be shaped by patterns you didn't choose."
+        </em>
+      </p>
+      <p>
+        Many of my clients come to therapy feeling under appreciated at work, struggling to make sense of a relationship, or overwhelmed by thoughts/feelings. These experiences often show up when something in our environment no longer aligns with our needs, values, or sense of self.
+      </p>
+      <p>
+        I aim to create an environment that feels warm, open, and free of judgment. By working together, we identify the core issues behind what you're experiencing and develop a practical plan to help you move toward the life you want.
+      </p>
+      <p>
+        Outside of my work you can find me watching the Ravens, attending a concert, or adding another stamp to my passport.
+      </p>
+      <p>
+        <em>
+          Stephen holds a Master of Social Work from The University of Pennsylvania and Bachelors of Social Work from Coppin State University.
+        </em>
+      </p>
+
   - id: mia-dadian
     name: Mia Dadian
     letters: LCMHC, NCC
@@ -341,7 +370,7 @@ members:
         <em>
         Carlee Wetzler, LCMHCA graduated from Lenoir Rhyne University with a Master of Arts in Counseling after completing a BS in Sociology from Charleston Southern University. She has 8 years post-graduate experience working with children, teens, and families. She has advanced certification as a Grief Specialist. She loves working with teens and adolescents as well as adults.         </em>
       </p>
-  
+
   - id: erin-yashinsky
     name: Erin Yashinsky
     title: Clinical Mental Health Counseling Intern

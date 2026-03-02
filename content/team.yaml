@@ -62,9 +62,30 @@ members:
         </em>
       </p>
 
+
+  - id: madee-saunders
+    name: Madee Saunders
+    letters: LCSWA
+    title: Clinician
+    image: /headshots/headshot-madee-saunders-500.jpg
+    email: madee.saunders@caladriustherapy.com
+    tagline: "Hi! I'm Madee (she/her), and I believe that therapy should be a place where you feel safe, accepted, and completely free to show up as your whole self."
+    bio: |
+      <p>
+        At the heart of my work is a deep passion for creating space where clients feel truly seen, heard, and valued. You are the expert on your own life, and my role is to walk alongside you, honoring your strengths, your story, and your autonomy every step of the way. I enjoy working with adolescents and adults navigating self-esteem, identity, emotion regulation, LGBTQIA+ experiences, family conflict, school stress, trauma, and the everyday weight of just trying to find your footing in a complicated world.
+      </p>
+      <p>
+        My approach is humanistic, person-centered, and strengths-based, drawing on ACT, DBT, and CBT through a social-justice-oriented, nonjudgmental lens. I strive to meet clients with warmth, curiosity, and genuine care. Whatever you're working through, my hope is that you leave each session feeling a little more empowered, understood, and at home in yourself.
+      </p>
+      <p>
+        <em>
+          Madee earned her Bachelor of Social Work from East Carolina University and her Master of Social Work from North Carolina Central University. She brings four years of experience working with a nonprofit in school-based settings, providing social-emotional learning for adolescents and supporting whole-family wellness through community-based programs.
+        </em>
+      </p>
+
   - id: imani-sawyer
     name: Imani Sawyer
-    letters: LCSW-A
+    letters: LCSWA
     title: Clinician
     image: /headshots/headshot-imani-sawyer-500.jpg
     email: imani.sawyer@caladriustherapy.com
@@ -413,25 +434,6 @@ members:
         </em>
       </p>
 
-  - id: madee-saunders
-    name: Madee Saunders
-    title: Clinical Social Work Intern
-    image: /headshots/headshot-madee-saunders-500.jpg
-    email: madee.saunders@caladriustherapy.com
-    tagline: "Hi! I'm Madee (she/her), and I believe that therapy should be a place where you feel safe, accepted, and completely free to show up as your whole self."
-    bio: |
-      <p>
-        At the heart of my work is a deep passion for creating space where clients feel truly seen, heard, and valued. You are the expert on your own life, and my role is to walk alongside you, honoring your strengths, your story, and your autonomy every step of the way. I enjoy working with adolescents and adults navigating self-esteem, identity, emotion regulation, LGBTQIA+ experiences, family conflict, school stress, trauma, and the everyday weight of just trying to find your footing in a complicated world.
-      </p>
-      <p>
-        My approach is humanistic, person-centered, and strengths-based, drawing on ACT, DBT, and CBT through a social-justice-oriented, nonjudgmental lens. I strive to meet clients with warmth, curiosity, and genuine care. Whatever you're working through, my hope is that you leave each session feeling a little more empowered, understood, and at home in yourself.
-      </p>
-      <p>
-        <em>
-          Madee earned her Bachelor of Social Work from East Carolina University and her Master of Social Work from North Carolina Central University. She brings four years of experience working with a nonprofit in school-based settings, providing social-emotional learning for adolescents and supporting whole-family wellness through community-based programs.
-        </em>
-      </p>
-
   - id: julie-finelli
     name: Julie Finelli
     title: Clinician
@@ -521,7 +523,7 @@ members:
       - /badges/cctp-125.png
       - /badges/emdria-125.png
       - /badges/aat-125.png
-    tagline: "My name is Jessie (she/her) and I can help you move forward."
+    tagline: "My name is Jessie (she/her), and I help leaders and high achievers move forward."
     bio:
       <p>
         <em>
@@ -530,53 +532,30 @@ members:
         </em>
       </p>
       <p>
-        Many people have had scary or terrible things happen to them;
-        trauma isn't just what happens to you - it's how you experience
-        it.
+        Leadership is hard. Many leaders struggle with loneliness, overwhelm, perfectionism, and the pressure to be everything for everyone while carrying their own histories of trauma or adversity. Their resilience and drive push them to overcome, often at the cost of their own well-being. As a trauma specialist for over a decade and an entrepreneur myself, I understand how strength and survival can become intertwined. I help leaders and high achievers heal old wounds, find balance, and create lives that feel both purposeful and peaceful.
       </p>
       <p>
-        Maybe - as is the case with many others - you haven't told anyone.
-        Maybe you <em>have</em> told people what happened and their
-        response was confusing, hurtful, or dismissive. Maybe you feel
-        like you just want it to be over or you should have gotten past it
-        already. You might have reminders of what happened impacting your
-        life through nightmares, flashbacks, or trying to avoid any
-        mention or reminder of the events. You might feel numb. Maybe you
-        are a parent and are completely lost on how to help your child
-        recover.
+        Many of the clients I work with built their lives through discipline, grit, and a strong sense of responsibility. Often, the same survival strategies that helped them succeed are now contributing to burnout, strained relationships at home or work, or emotional distance. What brings them to therapy isn’t a lack of motivation, but the realization that success hasn’t resolved old family dynamics, relationship patterns, or the internal pressure to always get it right. Therapy becomes a place to work through what achievement alone couldn’t.
       </p>
       <p>
-        I work with adolescents, adults, and families - helping
-        individuals that are struggling not only with trauma, but with
-        depression and anxiety as well.
+        I specialize in helping entrepreneurs and leaders manage stress, relationships, and the lasting impact of trauma. Many of my clients are navigating anxiety, burnout, or self-doubt while holding significant responsibility in their personal and professional lives. With advanced training in trauma, family, couples therapy, and DBT skills, I support clients in healing deeply, strengthening connections, and aligning their lives with clarity and balance.
       </p>
       <p>
-        During our first visit, we will talk about what is bothering you
-        now and what you want help with. You do not have to tell a
-        stranger everything at the first visit - we'll get there together.
+       As an entrepreneur, I understand the drive, sacrifice, and pressure that come with building something meaningful. You don’t have to carry it all alone. Healing and growth are possible even while leading and creating. If you’re ready to build a life that feels sustainable and true to you, I’m here to help.
+      </p>
+      <p>
+       In our work together, treatment focuses on understanding stress patterns, building regulation skills, and reprocessing trauma using evidence-based approaches, including EMDR, Brainspotting, parts work, somatic therapy, sandtray, relational techniques, and DBT-informed skills. Sessions are collaborative, paced for safety, and focused on helping you feel grounded and understood. Together, we’ll identify patterns, process what’s keeping you stuck, and build practical skills for calm and clarity in daily life.
       </p>
       <p>
         <em>
-          Jessie Ogienko, MSW, LCSW graduated from Emory University with
-          Honors in Psychology and from Hunter College at the City
-          University of New York with a Masters of Social Work degree with
-          a specialty in Clinical Practice and a special focus on
-          Interdisciplinary Practice. She is an EMDR Certified Therapist, is certified
-          in Trauma-Focused Cognitive Behavioral Therapy (TF-CBT), holds the
-          Gottman Method Couples Therapy Level 1 certification, is a PREPARE/ENRICH Certified Facilitator,
-          has graduated the accredited C.A.S.E. Training for Adoption
-          Competency (TAC) certificate program, is certified to perform Local Certified Forensic Evaluations, is a Family Centered
-          Treatment (FCT) therapist and trainer, and is a certified Animal-Assisted Therapy Interventionist.
+          Jessie Ogienko, MSW, LCSW, CCTP, graduated from Emory University with Honors in Psychology and from Hunter College at the City University of New York with a Master of Social Work degree, specializing in Clinical Practice with a focus on Interdisciplinary Practice. Prior to earning her MSW, Jessie worked in psychology research and direct care at Emory University, NYU, Mount Sinai, and Bellevue Hospital. She is an EMDR Certified Therapist and EMDR Certified Consultant and is certified in Trauma-Focused Cognitive Behavioral Therapy (TF-CBT). Jessie is trained in the Gottman Method Couples Therapy, is a PREPARE/ENRICH Certified Facilitator, and has completed the accredited C.A.S.E. Training for Adoption Competency (TAC) program. She is certified to perform Local Certified Forensic Evaluations, was a Family Centered Treatment (FCT) therapist and trainer, and is a certified Animal-Assisted Therapy Interventionist.
         </em>
       </p>
       <p>
-        Jessie is currently offering consulting services, including
-        Clinical Supervision for LCSW-A therapists pursuing full
-        licensure, through
+        Jessie also offers consulting services through
         <a href="https://www.caladriusconsulting.me/">
           Caladrius Consulting
-        </a>
-        .
+        </a>, including EMDR consultation, clinical supervision for LCSWA and LCMHCA therapists, and support for practice owners and leaders who want to build sustainable, high-impact teams while reducing burnout and leading with authenticity and care.
       </p>
 
   - id: cathy-dobbs

@@ -112,17 +112,20 @@ const Nav: FC<IProps> = () => {
                 >
                   Sandtray Therapy
                 </a>
+                <a className="navbar-item" href="/community-partners#community-partners-body">
+                  Community Partners
+                </a>
                 <hr className="navbar-divider" />
                 <a className="navbar-item" href="/#services">
                   All Services
                 </a>
               </div>
             </div>
-            <a className="navbar-item" href="/community-partners#community-partners-body">
-            Community Partners
-            </a>
             <a className="navbar-item" href="https://caladrius.clientsecure.me">
               Client Portal
+            </a>
+            <a className="navbar-item" href="https://www.caladriusconsulting.me">
+              For Professionals
             </a>
           </div>
           <div className="navbar-end">
